@@ -1,0 +1,399 @@
+{"PARMAJ":{"count":10020,"names":["talitiainen","talgoxe","Great Tit","Parus major","PARMAJ"]},"TETRIX":{"count":580,"names":["teeri","orre","Black Grouse","Tetrao tetrix","TETRIX"]},"LARCAN":{"count":9619,"names":["kalalokki","fiskm\u00e5s","Mew Gull","Larus canus","LARCAN"]},"LARARG":{"count":9906,"names":["harmaalokki","gr\u00e5trut","European Herring Gull","Larus argentatus","LARARG"]},"LARMAR":{"count":9913,"names":["merilokki","havstrut","Great Black-backed Gull","Larus marinus","LARMAR"]},"CORNIX":{"count":9700,"names":["varis","kr\u00e5ka","Hooded Crow","Corvus corone","CORNIX"]},"CORRAX":{"count":8255,"names":["korppi","korp","Northern Raven","Corvus corax","CORRAX"]},"PL":{"count":2372,"names":["pikkulintu","ob. sm\u00e5f\u00e5gel","Unidentified Songbird","PL (pikkulintu)","PL"]},"ALAARV":{"count":3352,"names":["kiuru","s\u00e5ngl\u00e4rka","Eurasian Skylark","Alauda arvensis","ALAARV"]},"TURMER":{"count":7458,"names":["mustarastas","koltrast","Common Blackbird","Turdus merula","TURMER"]},"CORMON":{"count":2889,"names":["naakka","kaja","Western Jackdaw","Corvus monedula","CORMON"]},"CORFRU":{"count":1043,"names":["mustavaris","r\u00e5ka","Rook","Corvus frugilegus","CORFRU"]},"CARCHL":{"count":9147,"names":["viherpeippo","gr\u00f6nfink","European Greenfinch","Carduelis chloris","CARCHL"]},"CARMEA":{"count":4578,"names":["urpiainen","gr\u00e5siska","Common Redpoll","Carduelis flammea","CARMEA"]},"EMBSCH":{"count":3403,"names":["pajusirkku","s\u00e4vsparv","Common Reed Bunting","Emberiza schoeniclus","EMBSCH"]},"ACCNIS":{"count":5064,"names":["varpushaukka","sparvh\u00f6k","Eurasian Sparrowhawk","Accipiter nisus","ACCNIS"]},"PICPIC":{"count":1250,"names":["harakka","skata","Common Magpie","Pica pica","PICPIC"]},"ICOR":{"count":269,"names":["korppi \/ varis \/ mustavaris","korp \/ kr\u00e5ka \/ r\u00e5ka","Unidentified Large Crow","magnus Corvus","ICOR"]},"CARSPI":{"count":7626,"names":["vihervarpunen","gr\u00f6nsiska","Eurasian Siskin","Carduelis spinus","CARSPI"]},"LOXCUR\/LOXPYT":{"count":3197,"names":["pikkuk\u00e4pylintu \/ isok\u00e4pylintu","mindre korsn\u00e4bb \/ st\u00f6rre korsn\u00e4bb","Common \/ Parrot Crossbill","Loxia curvirostra \/ Loxia pytyopsittacus","LOXCUR\/LOXPYT"]},"MERMER":{"count":9911,"names":["isokoskelo","storskrake","Common Merganser","Mergus merganser","MERMER"]},"FALTIN":{"count":2455,"names":["tuulihaukka","tornfalk","Common Kestrel","Falco tinnunculus","FALTIN"]},"COLOEN":{"count":2566,"names":["uuttukyyhky","skogsduva","Stock Dove","Columba oenas","COLOEN"]},"COLPAL":{"count":4428,"names":["sepelkyyhky","ringduva","Common Wood Pigeon","Columba palumbus","COLPAL"]},"COLSP":{"count":644,"names":["kyyhkylaji (Columba)","Columba (sl\u00e4ktet)","Unidentified Columba Dove","Columba sp","COLSP"]},"DENMIN":{"count":1971,"names":["pikkutikka","mindre hackspett","Lesser Spotted Woodpecker","Dendrocopos minor","DENMIN"]},"TURPIL":{"count":7468,"names":["r\u00e4k\u00e4ttirastas","bj\u00f6rktrast","Fieldfare","Turdus pilaris","TURPIL"]},"BUTSP":{"count":335,"names":["hiirihaukkalaji","Buteo (sl\u00e4ktet)","Unidentified Buteo buzzard","Buteo sp","BUTSP"]},"VANVAN":{"count":2161,"names":["t\u00f6yht\u00f6hyypp\u00e4","tofsvipa","Northern Lapwing","Vanellus vanellus","VANVAN"]},"TURPHI":{"count":4382,"names":["laulurastas","taltrast","Song Thrush","Turdus philomelos","TURPHI"]},"TURVIS":{"count":2314,"names":["kulorastas","dubbeltrast","Mistle Thrush","Turdus viscivorus","TURVIS"]},"TURSP":{"count":124,"names":["rastaslaji (Turdus)","Turdus (sl\u00e4ktet)","Unidentified Thrush","Turdus sp","TURSP"]},"PLENIV":{"count":873,"names":["pulmunen","sn\u00f6sparv","Snow Bunting","Plectrophenax nivalis","PLENIV"]},"CYGOLO":{"count":8920,"names":["kyhmyjoutsen","kn\u00f6lsvan","Mute Swan","Cygnus olor","CYGOLO"]},"ANSANS":{"count":4175,"names":["merihanhi","gr\u00e5g\u00e5s","Greylag Goose","Anser anser","ANSANS"]},"BUTBUT":{"count":1796,"names":["hiirihaukka","ormvr\u00e5k","Common Buzzard","Buteo buteo","BUTBUT"]},"PRUMOD":{"count":3689,"names":["rautiainen","j\u00e4rnsparv","Dunnock","Prunella modularis","PRUMOD"]},"REGREG":{"count":5153,"names":["hippi\u00e4inen","kungsf\u00e5gel","Goldcrest","Regulus regulus","REGREG"]},"CYACAE":{"count":9418,"names":["sinitiainen","bl\u00e5mes","Eurasian Blue Tit","Cyanistes caeruleus","CYACAE"]},"STUVUL":{"count":6066,"names":["kottarainen","stare","Common Starling","Sturnus vulgaris","STUVUL"]},"PASDOM":{"count":902,"names":["varpunen","gr\u00e5sparv","House Sparrow","Passer domesticus","PASDOM"]},"CARCAN":{"count":4146,"names":["hemppo","h\u00e4mpling","Common Linnet","Carduelis cannabina","CARCAN"]},"PYRPYR":{"count":3008,"names":["punatulkku","domherre","Eurasian Bullfinch","Pyrrhula pyrrhula","PYRPYR"]},"EMBCIT":{"count":4399,"names":["keltasirkku","gulsparv","Yellowhammer","Emberiza citrinella","EMBCIT"]},"ANAPLA":{"count":9544,"names":["sinisorsa","gr\u00e4sand","Mallard","Anas platyrhynchos","ANAPLA"]},"CLAHYE":{"count":5474,"names":["alli","alf\u00e5gel","Long-tailed Duck","Clangula hyemalis","CLAHYE"]},"BUCCLA":{"count":9175,"names":["telkk\u00e4","knipa","Common Goldeneye","Bucephala clangula","BUCCLA"]},"GRUGRU":{"count":1975,"names":["kurki","trana","Common Crane","Grus grus","GRUGRU"]},"LARRID":{"count":8207,"names":["naurulokki","skrattm\u00e5s","Black-headed Gull","Larus ridibundus","LARRID"]},"LULARB":{"count":1690,"names":["kangaskiuru","tr\u00e4dl\u00e4rka","Woodlark","Lullula arborea","LULARB"]},"ANTPRA":{"count":6482,"names":["niittykirvinen","\u00e4ngspipl\u00e4rka","Meadow Pipit","Anthus pratensis","ANTPRA"]},"MOTALB":{"count":6598,"names":["v\u00e4st\u00e4r\u00e4kki","s\u00e4des\u00e4rla","White Wagtail","Motacilla alba","MOTALB"]},"ITUR":{"count":633,"names":["iso rastas","stor trast","Unidentified Large Thrush","magnus Turdus","ITUR"]},"CERFAM":{"count":4391,"names":["puukiipij\u00e4","tr\u00e4dkrypare","Eurasian Treecreeper","Certhia familiaris","CERFAM"]},"FRICOE":{"count":7913,"names":["peippo","bofink","Common Chaffinch","Fringilla coelebs","FRICOE"]},"ANS\/BRA":{"count":1068,"names":["hanhilaji","ob. g\u00e5s","Unidentified Goose","Anser \/ Branta","ANS\/BRA"]},"V":{"count":1541,"names":["vesilintu","sj\u00f6f\u00e5gel","Waterfowl","Anatidae sp","V"]},"ILAR":{"count":1311,"names":["selk\u00e4lokki \/ harmaalokki \/ isolokki \/ merilokki","ob. trut","Unidentified Large Gull","magnus Larus","ILAR"]},"ANSSP":{"count":702,"names":["harmaahanhilaji","Anser (sl\u00e4ktet)","Unidentified Anser goose","Anser sp","ANSSP"]},"SOMMOL":{"count":8596,"names":["haahka","ejder","Common Eider","Somateria mollissima","SOMMOL"]},"ERIRUB":{"count":5659,"names":["punarinta","r\u00f6dhake","European Robin","Erithacus rubecula","ERIRUB"]},"FRIMON":{"count":3593,"names":["j\u00e4rripeippo","bergfink","Brambling","Fringilla montifringilla","FRIMON"]},"CARCAR":{"count":2452,"names":["tikli","steglits","European Goldfinch","Carduelis carduelis","CARCAR"]},"CYGCYG":{"count":3685,"names":["laulujoutsen","s\u00e5ngsvan","Whooper Swan","Cygnus cygnus","CYGCYG"]},"CYGSP":{"count":596,"names":["joutsenlaji","Cygnus (sl\u00e4ktet)","Unidentified Swan","Cygnus sp","CYGSP"]},"AYTFER":{"count":507,"names":["punasotka","brunand","Common Pochard","Aythya ferina","AYTFER"]},"KK":{"count":441,"names":["keskikokoinen kahlaaja","medelstor vadare","Unidentified Middle size wader","KK (Keskikokoinen kahlaaja)","KK"]},"LARFUS":{"count":3806,"names":["selk\u00e4lokki","silltrut","Lesser Black-backed Gull","Larus fuscus","LARFUS"]},"ASIFLA":{"count":499,"names":["suop\u00f6ll\u00f6","jorduggla","Short-eared Owl","Asio flammeus","ASIFLA"]},"ANACRE":{"count":4351,"names":["tavi","kricka","Eurasian Teal","Anas crecca","ANACRE"]},"MERSER":{"count":6586,"names":["tukkakoskelo","sm\u00e5skrake","Red-breasted Merganser","Mergus serrator","MERSER"]},"MERSER\/MERMER":{"count":655,"names":["tukkakoskelo \/ isokoskelo","sm\u00e5skrake \/ storskrake","Red-breasted Merganser \/ Goosander","Mergus serrator \/ Mergus merganser","MERSER\/MERMER"]},"IP":{"count":545,"names":["iso p\u00e4iv\u00e4petolintu","stor dagrovf\u00e5gel","Unidentified Large Raptor","magnus Accipitriformes","IP"]},"FULATR":{"count":163,"names":["nokikana","soth\u00f6na","Eurasian Coot","Fulica atra","FULATR"]},"HAEOST":{"count":4811,"names":["meriharakka","strandskata","Eurasian Oystercatcher","Haematopus ostralegus","HAEOST"]},"PLUAPR":{"count":1398,"names":["kapustarinta","ljungpipare","European Golden Plover","Pluvialis apricaria","PLUAPR"]},"CHAHIA":{"count":5214,"names":["tylli","st\u00f6rre strandpipare","Common Ringed Plover","Charadrius hiaticula","CHAHIA"]},"NUMSP":{"count":358,"names":["kuovilaji","Numenius (sl\u00e4ktet)","Unidentified Numenius","Numenius sp","NUMSP"]},"ASIOTU":{"count":686,"names":["sarvip\u00f6ll\u00f6","hornuggla","Long-eared Owl","Asio otus","ASIOTU"]},"ANTPET":{"count":686,"names":["luotokirvinen","sk\u00e4rpipl\u00e4rka","Eurasian Rock Pipit","Anthus petrosus","ANTPET"]},"BOMGAR":{"count":2335,"names":["tilhi","sidensvans","Bohemian Waxwing","Bombycilla garrulus","BOMGAR"]},"TURILI":{"count":4257,"names":["punakylkirastas","r\u00f6dvingetrast","Redwing","Turdus iliacus","TURILI"]},"PTUR":{"count":574,"names":["pieni rastas","liten trast","Unidentified Small Thrush","parvus Turdus","PTUR"]},"IV":{"count":230,"names":["iso vesilintu","stor sj\u00f6f\u00e5gel","Unidentified Large waterfowl","magnus Anatidae","IV"]},"PHACAR":{"count":6525,"names":["merimetso","storskarv","Great Cormorant","Phalacrocorax carbo","PHACAR"]},"BUTLAG":{"count":1033,"names":["piekana","fj\u00e4llvr\u00e5k","Rough-legged Buzzard","Buteo lagopus","BUTLAG"]},"PER\/BUT":{"count":733,"names":["mehil\u00e4ishaukka \/ hiirihaukkalaji","ob. vr\u00e5k","Unidentified buzzard","Pernis \/ Buteo","PER\/BUT"]},"TRIOCH":{"count":1503,"names":["mets\u00e4viklo","skogssn\u00e4ppa","Green Sandpiper","Tringa ochropus","TRIOCH"]},"SCORUS":{"count":1950,"names":["lehtokurppa","morkulla","Eurasian Woodcock","Scolopax rusticola","SCORUS"]},"LARSP":{"count":390,"names":["lokkilaji","Larus (sl\u00e4ktet)","Unidentified Gull","Larus sp","LARSP"]},"PICCAN":{"count":217,"names":["harmaap\u00e4\u00e4tikka","gr\u00e5spett","Grey-headed Woodpecker","Picus canus","PICCAN"]},"TADTAD":{"count":2238,"names":["ristisorsa","gravand","Common Shelduck","Tadorna tadorna","TADTAD"]},"ANAPEN":{"count":5061,"names":["haapana","bl\u00e4sand","Eurasian Wigeon","Anas penelope","ANAPEN"]},"ANAACU":{"count":2444,"names":["jouhisorsa","stj\u00e4rtand","Northern Pintail","Anas acuta","ANAACU"]},"ANASP":{"count":365,"names":["sorsalaji","Anas (sl\u00e4ktet)","Anas duck species","Anas sp","ANASP"]},"AYTFUL":{"count":6894,"names":["tukkasotka","vigg","Tufted Duck","Aythya fuligula","AYTFUL"]},"PANHAL":{"count":1254,"names":["s\u00e4\u00e4ksi","fiskgjuse","Osprey","Pandion haliaetus","PANHAL"]},"NUMARQ":{"count":2315,"names":["kuovi","storspov","Eurasian Curlew","Numenius arquata","NUMARQ"]},"TRITOT":{"count":3332,"names":["punajalkaviklo","r\u00f6dbena","Common Redshank","Tringa totanus","TRITOT"]},"HYDCAS":{"count":2040,"names":["r\u00e4ysk\u00e4","skr\u00e4nt\u00e4rna","Caspian Tern","Hydroprogne caspia","HYDCAS"]},"LARHYP":{"count":42,"names":["isolokki","vittrut","Glaucous Gull","Larus hyperboreus","LARHYP"]},"OENOEN":{"count":3338,"names":["kivitasku","stenskv\u00e4tta","Northern Wheatear","Oenanthe oenanthe","OENOEN"]},"LANEXC":{"count":791,"names":["isolepink\u00e4inen","varf\u00e5gel","Great Grey Shrike","Lanius excubitor","LANEXC"]},"HALALB":{"count":5416,"names":["merikotka","havs\u00f6rn","White-tailed Eagle","Haliaeetus albicilla","HALALB"]},"CIRCYA":{"count":1467,"names":["sinisuohaukka","bl\u00e5 k\u00e4rrh\u00f6k","Northern Harrier","Circus cyaneus","CIRCYA"]},"GALGAL":{"count":2352,"names":["taivaanvuohi","enkelbeckasin","Common Snipe","Gallinago gallinago","GALGAL"]},"ANSFAB":{"count":536,"names":["mets\u00e4hanhi","s\u00e4dg\u00e5s","Bean Goose","Anser fabalis","ANSFAB"]},"MERALB":{"count":983,"names":["uivelo","salskrake","Smew","Mergellus albellus","MERALB"]},"ACCGEN":{"count":2057,"names":["kanahaukka","duvh\u00f6k","Northern Goshawk","Accipiter gentilis","ACCGEN"]},"FALCOL":{"count":1537,"names":["ampuhaukka","stenfalk","Merlin","Falco columbarius","FALCOL"]},"PP":{"count":176,"names":["pieni p\u00e4iv\u00e4petolintu","liten dagrovf\u00e5gel","Unidentified Small Raptor","parvus Accipitriformes","PP"]},"TROTRO":{"count":3016,"names":["peukaloinen","g\u00e4rdsmyg","Winter Wren","Troglodytes troglodytes","TROTRO"]},"PODCRI":{"count":3121,"names":["silkkiuikku","sk\u00e4ggdopping","Great Crested Grebe","Podiceps cristatus","PODCRI"]},"BOM\/STU":{"count":115,"names":["tilhi \/ kottarainen","sidensvans \/ stare","Waxwing \/ Starling","Bombycilla \/ Sturnus","BOM\/STU"]},"AYTFUL\/AYTMAR":{"count":422,"names":["tukkasotka \/ lapasotka","vigg \/ bergand","Tufted Duck\/Greater Scaup","Aythya fuligula \/ Aythya marila","AYTFUL\/AYTMAR"]},"IK":{"count":915,"names":["iso kahlaaja","stor vadare","Unidentified large wader","IK (iso kahlaaja)","IK"]},"AEGFUN":{"count":603,"names":["helmip\u00f6ll\u00f6","p\u00e4rluggla","Boreal Owl","Aegolius funereus","AEGFUN"]},"FRISP":{"count":128,"names":["peippolaji","Fringilla (sl\u00e4ktet)","Chaffinch \/ Brambling","Fringilla sp","FRISP"]},"PV":{"count":344,"names":["pieni vesilintu","liten sj\u00f6f\u00e5gel","Unidentified Small waterfowl","parvus Anatidae","PV"]},"GAVARC":{"count":3406,"names":["kuikka","storlom","Black-throated Loon","Gavia arctica","GAVARC"]},"GAVSP":{"count":4128,"names":["kuikkalaji","Gavia (sl\u00e4ktet)","Diver species","Gavia sp","GAVSP"]},"K":{"count":313,"names":["kahlaaja","ob. vadare","Unidentified wader","K (kahlaaja)","K"]},"STECUS":{"count":2632,"names":["merikihu","kustlabb","Parasitic Jaeger","Stercorarius parasiticus","STECUS"]},"CALLAP":{"count":614,"names":["lapinsirkku","lappsparv","Lapland Longspur","Calcarius lapponicus","CALLAP"]},"MELNIG":{"count":2378,"names":["mustalintu","sj\u00f6orre","Common Scoter","Melanitta nigra","MELNIG"]},"CYA\/PAR\/PER\/LOP\/POE":{"count":317,"names":["tiaislaji","ob. mes \/ tita","Unidentified Tit species","Cyanistes \/ Parus \/ Periparus \/ Lophophanes \/ Poecile","CYA\/PAR\/PER\/LOP\/POE"]},"CALALP":{"count":2729,"names":["suosirri","k\u00e4rrsn\u00e4ppa","Dunlin","Calidris alpina","CALALP"]},"STEHIR\/STEAEA":{"count":3097,"names":["kalatiira \/ lapintiira","fiskt\u00e4rna \/ silvert\u00e4rna","Common \/ Arctic Tern","Sterna hirundo \/ Sterna paradisaea","STEHIR\/STEAEA"]},"STRALU":{"count":205,"names":["lehtop\u00f6ll\u00f6","kattuggla","Tawny Owl","Strix aluco","STRALU"]},"PHYCOL":{"count":1915,"names":["tiltaltti","grans\u00e5ngare","Common Chiffchaff","Phylloscopus collybita","PHYCOL"]},"ANACLY":{"count":3015,"names":["lapasorsa","skedand","Northern Shoveler","Anas clypeata","ANACLY"]},"CIRAER":{"count":927,"names":["ruskosuohaukka","brun k\u00e4rrh\u00f6k","Western Marsh Harrier","Circus aeruginosus","CIRAER"]},"TRINEB":{"count":3285,"names":["valkoviklo","gluttsn\u00e4ppa","Common Greenshank","Tringa nebularia","TRINEB"]},"ANTTRI":{"count":4473,"names":["mets\u00e4kirvinen","tr\u00e4dpipl\u00e4rka","Tree Pipit","Anthus trivialis","ANTTRI"]},"BRALEU":{"count":2083,"names":["valkoposkihanhi","vitkindad g\u00e5s","Barnacle Goose","Branta leucopsis","BRALEU"]},"ANASTR":{"count":686,"names":["harmaasorsa","snatterand","Gadwall","Anas strepera","ANASTR"]},"GAVSTE":{"count":2956,"names":["kaakkuri","sm\u00e5lom","Red-throated Loon","Gavia stellata","GAVSTE"]},"CHADUB":{"count":1018,"names":["pikkutylli","mindre strandpipare","Little Ringed Plover","Charadrius dubius","CHADUB"]},"STEHIR":{"count":3534,"names":["kalatiira","fiskt\u00e4rna","Common Tern","Sterna hirundo","STEHIR"]},"JYNTOR":{"count":1083,"names":["k\u00e4enpiika","g\u00f6ktyta","Eurasian Wryneck","Jynx torquilla","JYNTOR"]},"FICHYP":{"count":2282,"names":["kirjosieppo","svartvit flugsnappare","European Pied Flycatcher","Ficedula hypoleuca","FICHYP"]},"SOMSPE":{"count":98,"names":["kyhmyhaahka","praktejder","King Eider","Somateria spectabilis","SOMSPE"]},"MELFUS":{"count":4525,"names":["pilkkasiipi","sv\u00e4rta","Velvet Scoter","Melanitta fusca","MELFUS"]},"AYTMAR":{"count":1308,"names":["lapasotka","bergand","Greater Scaup","Aythya marila","AYTMAR"]},"PODGRI":{"count":770,"names":["h\u00e4rk\u00e4lintu","gr\u00e5hakedopping","Red-necked Grebe","Podiceps grisegena","PODGRI"]},"CEPGRY":{"count":1245,"names":["riskil\u00e4","tobisgrissla","Black Guillemot","Cepphus grylle","CEPGRY"]},"ANTSP":{"count":141,"names":["kirvislaji","Anthus (sl\u00e4ktet)","Unidentified Pipit","Anthus sp","ANTSP"]},"PHYSP":{"count":563,"names":["uunilintulaji","Phylloscopus (sl\u00e4ktet)","Unidentified Phylloscopus warbler","Phylloscopus sp","PHYSP"]},"ANAQUE":{"count":258,"names":["hein\u00e4tavi","\u00e5rta","Garganey","Anas querquedula","ANAQUE"]},"POLSTE":{"count":154,"names":["allihaahka","alf\u00f6rr\u00e4dare","Steller's Eider","Polysticta stelleri","POLSTE"]},"AREINT":{"count":916,"names":["karikukko","roskarl","Ruddy Turnstone","Arenaria interpres","AREINT"]},"ALCTOR":{"count":779,"names":["ruokki","tordmule","Razorbill","Alca torda","ALCTOR"]},"HYDMIN":{"count":778,"names":["pikkulokki","dv\u00e4rgm\u00e5s","Little Gull","Hydrocoloeus minutus","HYDMIN"]},"ASISP":{"count":212,"names":["sarvip\u00f6ll\u00f6laji","Asio (sl\u00e4ktet)","Long-\/Short-eared Owl","Asio sp","ASISP"]},"PODAUR":{"count":212,"names":["mustakurkku-uikku","svarthakedopping","Horned Grebe","Podiceps auritus","PODAUR"]},"STERCSP":{"count":415,"names":["kihulaji","Stercorarius (sl\u00e4ktet)","Unidentified Skua","Stercorarius sp","STERCSP"]},"STEAEA":{"count":2845,"names":["lapintiira","silvert\u00e4rna","Arctic Tern","Sterna paradisaea","STEAEA"]},"RECAVO":{"count":37,"names":["avosetti","sk\u00e4rfl\u00e4cka","Pied Avocet","Recurvirostra avosetta","RECAVO"]},"TRIERY":{"count":1512,"names":["mustaviklo","svartsn\u00e4ppa","Spotted Redshank","Tringa erythropus","TRIERY"]},"ACTHYP":{"count":3574,"names":["rantasipi","drillsn\u00e4ppa","Common Sandpiper","Actitis hypoleucos","ACTHYP"]},"SAXTRA":{"count":1448,"names":["pensastasku","buskskv\u00e4tta","Whinchat","Saxicola rubetra","SAXTRA"]},"PERPER":{"count":6,"names":["peltopyy","rapph\u00f6na","Grey Partridge","Perdix perdix","PERPER"]},"NUMPHA":{"count":1029,"names":["pikkukuovi","sm\u00e5spov","Whimbrel","Numenius phaeopus","NUMPHA"]},"TRIGLA":{"count":2289,"names":["liro","gr\u00f6nbena","Wood Sandpiper","Tringa glareola","TRIGLA"]},"ACRSCH":{"count":885,"names":["ruokokerttunen","s\u00e4vs\u00e5ngare","Sedge Warbler","Acrocephalus schoenobaenus","ACRSCH"]},"SERSER":{"count":70,"names":["keltahemppo","gulh\u00e4mpling","European Serin","Serinus serinus","SERSER"]},"EMBHOR":{"count":520,"names":["peltosirkku","ortolansparv","Ortolan Bunting","Emberiza hortulana","EMBHOR"]},"PERAPI":{"count":1009,"names":["mehil\u00e4ishaukka","bivr\u00e5k","European Honey Buzzard","Pernis apivorus","PERAPI"]},"RIP\/HIR\/DEL":{"count":1128,"names":["p\u00e4\u00e4sky","ob. svala","Unidentified Swallow \/ Martin","Riparia \/ Hirundo \/ Delichon","RIP\/HIR\/DEL"]},"ARDCIN":{"count":4028,"names":["harmaahaikara","gr\u00e5h\u00e4ger","Grey Heron","Ardea cinerea","ARDCIN"]},"CALPUG":{"count":2142,"names":["suokukko","brushane","Ruff","Calidris pugnax","CALPUG"]},"COLLIV":{"count":1376,"names":["kesykyyhky","tamduva","Common Pigeon","Columba livia","COLLIV"]},"RIPRIP":{"count":1571,"names":["t\u00f6rm\u00e4p\u00e4\u00e4sky","backsvala","Sand Martin","Riparia riparia","RIPRIP"]},"HIRRUS":{"count":5270,"names":["haarap\u00e4\u00e4sky","ladusvala","Barn Swallow","Hirundo rustica","HIRRUS"]},"DELURB":{"count":3898,"names":["r\u00e4yst\u00e4sp\u00e4\u00e4sky","hussvala","Common House Martin","Delichon urbicum","DELURB"]},"PHYLUS":{"count":4880,"names":["pajulintu","l\u00f6vs\u00e5ngare","Willow Warbler","Phylloscopus trochilus","PHYLUS"]},"AEGCAU":{"count":1167,"names":["pyrst\u00f6tiainen","stj\u00e4rtmes","Long-tailed Tit","Aegithalos caudatus","AEGCAU"]},"EMBRUS\/EMBPUS\/EMBAUR":{"count":119,"names":["pohjansirkku \/ pikkusirkku \/ kultasirkku","videsparv \/ dv\u00e4rgsparv \/ gyllensparv","Rustic \/ Little \/ Yellow-breasted Bunting","Emberiza rustica \/ Emberiza pusilla \/ Emberiza aureola","EMBRUS\/EMBPUS\/EMBAUR"]},"FALSUB":{"count":2049,"names":["nuolihaukka","l\u00e4rkfalk","Eurasian Hobby","Falco subbuteo","FALSUB"]},"COCCOC":{"count":859,"names":["nokkavarpunen","stenkn\u00e4ck","Hawfinch","Coccothraustes coccothraustes","COCCOC"]},"LIMLAP":{"count":991,"names":["punakuiri","myrspov","Bar-tailed Godwit","Limosa lapponica","LIMLAP"]},"PHOPHO":{"count":1635,"names":["lepp\u00e4lintu","r\u00f6dstj\u00e4rt","Common Redstart","Phoenicurus phoenicurus","PHOPHO"]},"SYLCUR":{"count":4078,"names":["hernekerttu","\u00e4rts\u00e5ngare","Lesser Whitethroat","Sylvia curruca","SYLCUR"]},"LANCOL":{"count":2187,"names":["pikkulepink\u00e4inen","t\u00f6rnskata","Red-backed Shrike","Lanius collurio","LANCOL"]},"STRDEC":{"count":121,"names":["turkinkyyhky","turkduva","Eurasian Collared Dove","Streptopelia decaocto","STRDEC"]},"STRTUR":{"count":108,"names":["turturikyyhky","turturduva","European Turtle Dove","Streptopelia turtur","STRTUR"]},"MOTFLA":{"count":2599,"names":["keltav\u00e4st\u00e4r\u00e4kki","gul\u00e4rla","Yellow Wagtail","Motacilla flava","MOTFLA"]},"SYLATR":{"count":2422,"names":["mustap\u00e4\u00e4kerttu","svarth\u00e4tta","Eurasian Blackcap","Sylvia atricapilla","SYLATR"]},"CAPEUR":{"count":135,"names":["kehr\u00e4\u00e4j\u00e4","nattsk\u00e4rra","European Nightjar","Caprimulgus europaeus","CAPEUR"]},"LUSLUS":{"count":2421,"names":["satakieli","n\u00e4ktergal","Thrush Nightingale","Luscinia luscinia","LUSLUS"]},"PK":{"count":1296,"names":["pieni kahlaaja","liten vadare","Unidentified small wader","PK (pieni kahlaaja)","PK"]},"STREPSP":{"count":25,"names":["turturikyyhkylaji","Streptopelia (sl\u00e4ktet)","Unidentified Streptopelia dove","Streptopelia sp","STREPSP"]},"PHYSIB":{"count":1077,"names":["siritt\u00e4j\u00e4","gr\u00f6ns\u00e5ngare","Wood Warbler","Phylloscopus sibilatrix","PHYSIB"]},"V\/K":{"count":42,"names":["vesilintu \/ kahlaaja","sj\u00f6f\u00e5gel \/ vadare","Unidentified waterfowl \/ wader","V \/ K (vesilintu \/ kahlaaja)","V\/K"]},"CUCCAN":{"count":1034,"names":["k\u00e4ki","g\u00f6k","Common Cuckoo","Cuculus canorus","CUCCAN"]},"LOXCUR":{"count":1867,"names":["pikkuk\u00e4pylintu","mindre korsn\u00e4bb","Red Crossbill","Loxia curvirostra","LOXCUR"]},"CALCAN":{"count":903,"names":["isosirri","kustsn\u00e4ppa","Red Knot","Calidris canutus","CALCAN"]},"CALTEM":{"count":460,"names":["lapinsirri","mosn\u00e4ppa","Temminck's Stint","Calidris temminckii","CALTEM"]},"LUSSVE":{"count":421,"names":["sinirinta","bl\u00e5hake","Bluethroat","Luscinia svecica","LUSSVE"]},"TURTOR":{"count":51,"names":["sepelrastas","ringtrast","Ring Ouzel","Turdus torquatus","TURTOR"]},"SYLNIS":{"count":460,"names":["kirjokerttu","h\u00f6ks\u00e5ngare","Barred Warbler","Sylvia nisoria","SYLNIS"]},"SYLCOM":{"count":3287,"names":["pensaskerttu","t\u00f6rns\u00e5ngare","Common Whitethroat","Sylvia communis","SYLCOM"]},"MUSSTR":{"count":3608,"names":["harmaasieppo","gr\u00e5 flugsnappare","Spotted Flycatcher","Muscicapa striata","MUSSTR"]},"CARERY":{"count":2309,"names":["punavarpunen","rosenfink","Common Rosefinch","Carpodacus erythrinus","CARERY"]},"MELSP":{"count":23,"names":["mustalintulaji","Melanitta (sl\u00e4ktet)","Unidentified Scoter","Melanitta sp","MELSP"]},"APUAPU":{"count":3193,"names":["tervap\u00e4\u00e4sky","tornseglare","Common Swift","Apus apus","APUAPU"]},"BRABER":{"count":882,"names":["sepelhanhi","prutg\u00e5s","Brant Goose","Branta bernicla","BRABER"]},"PLUSQU":{"count":1769,"names":["tundrakurmitsa","kustpipare","Grey Plover","Pluvialis squatarola","PLUSQU"]},"ANTCER":{"count":637,"names":["lapinkirvinen","r\u00f6dstrupig pipl\u00e4rka","Red-throated Pipit","Anthus cervinus","ANTCER"]},"SYLBOR":{"count":2746,"names":["lehtokerttu","tr\u00e4dg\u00e5rdss\u00e5ngare","Garden Warbler","Sylvia borin","SYLBOR"]},"FICPAR":{"count":568,"names":["pikkusieppo","mindre flugsnappare","Red-breasted Flycatcher","Ficedula parva","FICPAR"]},"ORIORI":{"count":109,"names":["kuhankeitt\u00e4j\u00e4","sommargylling","Eurasian Golden Oriole","Oriolus oriolus","ORIORI"]},"CICCIC":{"count":21,"names":["kattohaikara","vit stork","White Stork","Ciconia ciconia","CICCIC"]},"ALC\/URI":{"count":240,"names":["ruokki \/ kiislalaji","ob. alka","Razorbill \/ Unidentified Murre","Alca \/ Uria","ALC\/URI"]},"PHYDES":{"count":139,"names":["id\u00e4nuunilintu","lunds\u00e5ngare","Greenish Warbler","Phylloscopus trochiloides","PHYDES"]},"GALMED":{"count":41,"names":["hein\u00e4kurppa","dubbelbeckasin","Great Snipe","Gallinago media","GALMED"]},"LOCNAE":{"count":56,"names":["pensassirkkalintu","gr\u00e4shopps\u00e5ngare","Common Grasshopper Warbler","Locustella naevia","LOCNAE"]},"HIPICT":{"count":2239,"names":["kultarinta","h\u00e4rms\u00e5ngare","Icterine Warbler","Hippolais icterina","HIPICT"]},"ACRSCI":{"count":1004,"names":["rytikerttunen","r\u00f6rs\u00e5ngare","Eurasian Reed Warbler","Acrocephalus scirpaceus","ACRSCI"]},"PFAL":{"count":349,"names":["pieni jalohaukka","liten falk","Unidentified Small Falcon","parvus Falco","PFAL"]},"FICALB":{"count":12,"names":["sepelsieppo","halsbandsflugsnappare","Collared Flycatcher","Ficedula albicollis","FICALB"]},"ACRDUM\/ACRRIS\/ACRSCI":{"count":19,"names":["viitakerttunen \/ luhtakerttunen \/ rytikerttunen","busks\u00e5ngare \/ k\u00e4rrs\u00e5ngare \/ r\u00f6rs\u00e5ngare","Unidentified Reed Warbler","Acrocephalus dumetorum \/ Acrocephalus palustris \/ Acrocephalus scirpaceus","ACRDUM\/ACRRIS\/ACRSCI"]},"STESAN":{"count":56,"names":["riuttatiira","kentsk t\u00e4rna","Sandwich Tern","Sterna sandvicensis","STESAN"]},"LOXPYT":{"count":921,"names":["isok\u00e4pylintu","st\u00f6rre korsn\u00e4bb","Parrot Crossbill","Loxia pytyopsittacus","LOXPYT"]},"CIRCYA\/CIRMAC\/CIRPYG":{"count":184,"names":["sinisuohaukka \/ arosuohaukka \/ niittysuohaukka","bl\u00e5 k\u00e4rrh\u00f6k \/ st\u00e4pph\u00f6k \/ \u00e4ngsh\u00f6k","Pallied \/ Montagu's Harrier","Circus cyaneus \/ Circus macrourus \/ Circus pygargus","CIRCYA\/CIRMAC\/CIRPYG"]},"PLUSP":{"count":127,"names":["kurmitsalaji","Pluvialis (sl\u00e4ktet)","Unidentified Pluvialis plover","Pluvialis sp","PLUSP"]},"ACRRIS":{"count":628,"names":["luhtakerttunen","k\u00e4rrs\u00e5ngare","Marsh Warbler","Acrocephalus palustris","ACRRIS"]},"PHALOB":{"count":148,"names":["vesip\u00e4\u00e4sky","smaln\u00e4bbad simsn\u00e4ppa","Red-necked Phalarope","Phalaropus lobatus","PHALOB"]},"CALFER":{"count":497,"names":["kuovisirri","spovsn\u00e4ppa","Curlew Sandpiper","Calidris ferruginea","CALFER"]},"LOPCRI":{"count":2808,"names":["t\u00f6yht\u00f6tiainen","tofsmes","European Crested Tit","Lophophanes cristatus","LOPCRI"]},"CHLNIG":{"count":20,"names":["mustatiira","svartt\u00e4rna","Black Tern","Chlidonias niger","CHLNIG"]},"BRACAN":{"count":647,"names":["kanadanhanhi","kanadag\u00e5s","Canada Goose","Branta canadensis","BRACAN"]},"PORPOR":{"count":14,"names":["luhtahuitti","sm\u00e5fl\u00e4ckig sumph\u00f6na","Spotted Crake","Porzana porzana","PORPOR"]},"POEMON":{"count":2634,"names":["h\u00f6m\u00f6tiainen","talltita","Willow Tit","Poecile montanus","POEMON"]},"DRYMAR":{"count":2149,"names":["palok\u00e4rki","spillkr\u00e5ka","Black Woodpecker","Dryocopus martius","DRYMAR"]},"LOXLEU":{"count":360,"names":["kirjosiipik\u00e4pylintu","b\u00e4ndelkorsn\u00e4bb","Two-barred Crossbill","Loxia leucoptera","LOXLEU"]},"DENMAJ":{"count":2879,"names":["k\u00e4pytikka","st\u00f6rre hackspett","Great Spotted Woodpecker","Dendrocopos major","DENMAJ"]},"NUCCAR":{"count":1556,"names":["p\u00e4hkin\u00e4hakki","n\u00f6tkr\u00e5ka","Spotted Nutcracker","Nucifraga caryocatactes","NUCCAR"]},"PERATE":{"count":2459,"names":["kuusitiainen","svartmes","Coal Tit","Periparus ater","PERATE"]},"CALALB":{"count":119,"names":["pulmussirri","sandl\u00f6pare","Sanderling","Calidris alba","CALALB"]},"KT":{"count":134,"names":["keskikokoinen tikka","medelstor hackspett","Unidentified Middle-sized Woodpecker","medium Picidae","KT"]},"CALFAL":{"count":154,"names":["j\u00e4nk\u00e4sirri\u00e4inen","myrsn\u00e4ppa","Broad-billed Sandpiper","Calidris falcinellus","CALFAL"]},"CALUTA":{"count":369,"names":["pikkusirri","sm\u00e5sn\u00e4ppa","Little Stint","Calidris minuta","CALUTA"]},"GAVIMM\/GAVADA":{"count":17,"names":["amerikanj\u00e4\u00e4kuikka \/ j\u00e4\u00e4kuikka","svartn\u00e4bbad islom \/ vitn\u00e4bbad islom","Great Northern \/ Yellow-billed Diver","Gavia immer \/ Gavia adamsii","GAVIMM\/GAVADA"]},"LYMMIN":{"count":312,"names":["j\u00e4nk\u00e4kurppa","dv\u00e4rgbeckasin","Jack Snipe","Lymnocryptes minimus","LYMMIN"]},"AQUCLA\/AQUPOM":{"count":10,"names":["kiljukotka \/ pikkukiljukotka","st\u00f6rre skrik\u00f6rn \/ mindre skrik\u00f6rn","Unidentified Spotted Eagle","Aquila clanga \/ Aquila pomarina","AQUCLA\/AQUPOM"]},"EMBRUS":{"count":123,"names":["pohjansirkku","videsparv","Rustic Bunting","Emberiza rustica","EMBRUS"]},"GARGLA":{"count":628,"names":["n\u00e4rhi","n\u00f6tskrika","Eurasian Jay","Garrulus glandarius","GARGLA"]},"GLAPAS":{"count":289,"names":["varpusp\u00f6ll\u00f6","sparvuggla","Eurasian Pygmy Owl","Glaucidium passerinum","GLAPAS"]},"TACRUF":{"count":38,"names":["pikku-uikku","sm\u00e5dopping","Little Grebe","Tachybaptus ruficollis","TACRUF"]},"ANSALB":{"count":233,"names":["tundrahanhi","bl\u00e4sg\u00e5s","Greater White-fronted Goose","Anser albifrons","ANSALB"]},"AQUCHR":{"count":197,"names":["maakotka","kungs\u00f6rn","Golden Eagle","Aquila chrysaetos","AQUCHR"]},"BUBBUB":{"count":270,"names":["huuhkaja","berguv","Eurasian Eagle Owl","Bubo bubo","BUBBUB"]},"PICTRI":{"count":249,"names":["pohjantikka","tret\u00e5ig hackspett","Three-toed Woodpecker","Picoides tridactylus","PICTRI"]},"POECIN":{"count":50,"names":["lapintiainen","lappmes","Grey-headed Chickadee","Poecile cinctus","POECIN"]},"EREALP":{"count":50,"names":["tunturikiuru","bergl\u00e4rka","Horned Lark","Eremophila alpestris","EREALP"]},"PINENU":{"count":103,"names":["taviokuurna","tallbit","Pine Grosbeak","Pinicola enucleator","PINENU"]},"SURULU":{"count":44,"names":["hiirip\u00f6ll\u00f6","h\u00f6kuggla","Northern Hawk Owl","Surnia ulula","SURULU"]},"TETURO":{"count":11,"names":["metso","tj\u00e4der","Western Capercaillie","Tetrao urogallus","TETURO"]},"CARHOR":{"count":63,"names":["tundraurpiainen","sn\u00f6siska","Arctic Redpoll","Carduelis hornemanni","CARHOR"]},"PODCRI\/PODGRI":{"count":7,"names":["silkkiuikku \/ h\u00e4rk\u00e4lintu","sk\u00e4ggdopping \/ gr\u00e5hakedopping","Great Crested \/ Red-necked Grebe","Podiceps cristatus \/ Podiceps grisegena","PODCRI\/PODGRI"]},"PODAUR\/PODNIG":{"count":3,"names":["mustakurkku-uikku \/ mustakaulauikku","svarthakedopping \/ svarthalsad dopping","Slavonian \/ Black-necked Grebe","Podiceps auritus \/ Podiceps nigricollis","PODAUR\/PODNIG"]},"RISTRI":{"count":135,"names":["pikkukajava","tret\u00e5ig m\u00e5s","Black-legged Kittiwake","Rissa tridactyla","RISTRI"]},"LIMLIM":{"count":42,"names":["mustapyrst\u00f6kuiri","r\u00f6dspov","Black-tailed Godwit","Limosa limosa","LIMLIM"]},"UPUEPO":{"count":9,"names":["harjalintu","h\u00e4rf\u00e5gel","Hoopoe","Upupa epops","UPUEPO"]},"EMBCAL":{"count":9,"names":["harmaasirkku","kornsparv","Corn Bunting","Emberiza calandra","EMBCAL"]},"PHOOCH":{"count":91,"names":["mustalepp\u00e4lintu","svart r\u00f6dstj\u00e4rt","Black Redstart","Phoenicurus ochruros","PHOOCH"]},"ACRDUM":{"count":215,"names":["viitakerttunen","busks\u00e5ngare","Blyth's Reed Warbler","Acrocephalus dumetorum","ACRDUM"]},"ANTRIC\/ANTGOD\/ANTCAM":{"count":4,"names":["isokirvinen \/ mongoliankirvinen \/ nummikirvinen","st\u00f6rre pipl\u00e4rka \/ mongolpipl\u00e4rka \/ f\u00e4ltpipl\u00e4rka","Richard's \/ Blyth's \/ Tawny Pipit","Anthus richardi \/ Anthus godlewskii \/ Anthus campestris","ANTRIC\/ANTGOD\/ANTCAM"]},"ANTCAM":{"count":15,"names":["nummikirvinen","f\u00e4ltpipl\u00e4rka","Tawny Pipit","Anthus campestris","ANTCAM"]},"CRECRE":{"count":25,"names":["ruisr\u00e4\u00e4kk\u00e4","kornknarr","Corn Crake","Crex crex","CRECRE"]},"PASMON":{"count":825,"names":["pikkuvarpunen","pilfink","Eurasian Tree Sparrow","Passer montanus","PASMON"]},"PHYINO":{"count":59,"names":["taigauunilintu","tajgas\u00e5ngare","Yellow-browed Warbler","Phylloscopus inornatus","PHYINO"]},"CHAMOR":{"count":8,"names":["ker\u00e4kurmitsa","fj\u00e4llpipare","Eurasian Dotterel","Charadrius morinellus","CHAMOR"]},"ANTRIC":{"count":45,"names":["isokirvinen","st\u00f6rre pipl\u00e4rka","Richard's Pipit","Anthus richardi","ANTRIC"]},"AQUCLA":{"count":14,"names":["kiljukotka","st\u00f6rre skrik\u00f6rn","Greater Spotted Eagle","Aquila clanga","AQUCLA"]},"TUREUN":{"count":1,"names":["ruostesiipirastas","bruntrast","Dusky Thrush","Turdus eunomus","TUREUN"]},"EMBPUS":{"count":19,"names":["pikkusirkku","dv\u00e4rgsparv","Little Bunting","Emberiza pusilla","EMBPUS"]},"PPL":{"count":1,"names":["pieni pikkulintu","liten sm\u00e5f\u00e5gel","Unidentified Small Songbird","PPL (pieni pikkulintu)","PPL"]},"CYGCOL":{"count":156,"names":["pikkujoutsen","mindre s\u00e5ngsvan","Tundra Swan","Cygnus columbianus","CYGCOL"]},"CARRIS":{"count":82,"names":["vuorihemppo","vinterh\u00e4mpling","Twite","Carduelis flavirostris","CARRIS"]},"CIRSP":{"count":5,"names":["suohaukkalaji","Circus (sl\u00e4ktet)","Unidentified Harrier species","Circus sp","CIRSP"]},"MILMIG":{"count":66,"names":["haarahaukka","brun glada","Black Kite","Milvus migrans","MILMIG"]},"MOTCIN":{"count":54,"names":["virtav\u00e4st\u00e4r\u00e4kki","fors\u00e4rla","Grey Wagtail","Motacilla cinerea","MOTCIN"]},"LOCFLU":{"count":23,"names":["viitasirkkalintu","flods\u00e5ngare","River Warbler","Locustella fluviatilis","LOCFLU"]},"FALVES":{"count":27,"names":["punajalkahaukka","aftonfalk","Red-footed Falcon","Falco vespertinus","FALVES"]},"PHYBOR":{"count":1,"names":["lapinuunilintu","nords\u00e5ngare","Arctic Warbler","Phylloscopus borealis","PHYBOR"]},"SITEUR":{"count":256,"names":["p\u00e4hkin\u00e4nakkeli","n\u00f6tv\u00e4cka","Eurasian Nuthatch","Sitta europaea","SITEUR"]},"PHYPRO":{"count":46,"names":["hippi\u00e4isuunilintu","kungsf\u00e5gels\u00e5ngare","Pallas's Leaf Warbler","Phylloscopus proregulus","PHYPRO"]},"DENLEU":{"count":124,"names":["valkoselk\u00e4tikka","vitryggig hackspett","White-backed Woodpecker","Dendrocopos leucotos","DENLEU"]},"STEPOM":{"count":49,"names":["leve\u00e4pyrst\u00f6kihu","bredstj\u00e4rtad labb","Pomarine Skua","Stercorarius pomarinus","STEPOM"]},"FALPER":{"count":559,"names":["muuttohaukka","pilgrimsfalk","Peregrine Falcon","Falco peregrinus","FALPER"]},"TETBON":{"count":13,"names":["pyy","j\u00e4rpe","Hazel Grouse","Tetrastes bonasia","TETBON"]},"ANSBRA":{"count":13,"names":["lyhytnokkahanhi","spetsbergsg\u00e5s","Pink-footed Goose","Anser brachyrhynchus","ANSBRA"]},"HAL\/AQU":{"count":14,"names":["kotkalaji","ob. \u00f6rn","Unidentified Eagle","Haliaetus \/ Aquila","HAL\/AQU"]},"CINCIN":{"count":36,"names":["koskikara","str\u00f6mstare","White-throated Dipper","Cinclus cinclus","CINCIN"]},"ALCATT":{"count":3,"names":["kuningaskalastaja","kungsfiskare","Common Kingfisher","Alcedo atthis","ALCATT"]},"FALRUS":{"count":9,"names":["tunturihaukka","jaktfalk","Gyrfalcon","Falco rusticolus","FALRUS"]},"STRNEB":{"count":3,"names":["lapinp\u00f6ll\u00f6","lappuggla","Great Grey Owl","Strix nebulosa","STRNEB"]},"IFAL":{"count":6,"names":["iso jalohaukka","stor falk","Unidentified Large Falcon","magnus Falco","IFAL"]},"ACRARU":{"count":6,"names":["rastaskerttunen","trasts\u00e5ngare","Great Reed Warbler","Acrocephalus arundinaceus","ACRARU"]},"GALCHL":{"count":4,"names":["liejukana","r\u00f6rh\u00f6na","Common Moorhen","Gallinula chloropus","GALCHL"]},"AQUSP":{"count":4,"names":["kotkalaji (Aquila)","Aquila (sl\u00e4ktet)","Unidentified Aquila","Aquila sp","AQUSP"]},"BOTSTE":{"count":30,"names":["kaulushaikara","r\u00f6rdrom","Eurasian Bittern","Botaurus stellaris","BOTSTE"]},"COTCOT":{"count":4,"names":["viiri\u00e4inen","vaktel","Common Quail","Coturnix coturnix","COTCOT"]},"STELON":{"count":20,"names":["tunturikihu","fj\u00e4llabb","Long-tailed Jaeger","Stercorarius longicaudus","STELON"]},"STERNSP":{"count":1,"names":["tiiralaji (Sterna)","Sterna (sl\u00e4ktet)","Unidentified Tern","Sterna sp","STERNSP"]},"PODSP":{"count":3,"names":["uikkulaji","Podiceps (sl\u00e4ktet)","Unidentified Grebe species","Podiceps sp","PODSP"]},"IPL":{"count":3,"names":["iso pikkulintu","stor sm\u00e5f\u00e5gel","Unidentified Large Songbird","IPL (iso pikkulintu)","IPL"]},"GAVADA":{"count":23,"names":["j\u00e4\u00e4kuikka","vitn\u00e4bbad islom","Yellow-billed Loon","Gavia adamsii","GAVADA"]},"FALSP":{"count":7,"names":["jalohaukkalaji","Falco (sl\u00e4ktet)","Unidentified Falcon","Falco sp","FALSP"]},"MOTSP":{"count":13,"names":["v\u00e4st\u00e4r\u00e4kkilaji","Motacilla (sl\u00e4ktet)","Unidentified Wagtail","Motacilla sp","MOTSP"]},"GALSP":{"count":2,"names":["taivaanvuohilaji","Gallinago (sl\u00e4ktet)","Unidentified Snipe","Gallinago sp","GALSP"]},"PHYFUS":{"count":8,"names":["ruskouunilintu","bruns\u00e5ngare","Dusky Warbler","Phylloscopus fuscatus","PHYFUS"]},"REMPEN":{"count":24,"names":["pussitiainen","pungmes","Eurasian Penduline Tit","Remiz pendulinus","REMPEN"]},"CORONEONE":{"count":8,"names":["nokivaris","kr\u00e5ka (rasen corone)","Carrion Crow","Corvus corone corone","CORONEONE"]},"MERAPI":{"count":18,"names":["mehil\u00e4issy\u00f6j\u00e4","bi\u00e4tare","European Bee-eater","Merops apiaster","MERAPI"]},"ANSCAE":{"count":2,"names":["lumihanhi","sn\u00f6g\u00e5s","Snow Goose","Anser caerulescens","ANSCAE"]},"AQUPOM":{"count":4,"names":["pikkukiljukotka","mindre skrik\u00f6rn","Lesser Spotted Eagle","Aquila pomarina","AQUPOM"]},"CIRMAC\/CIRPYG":{"count":43,"names":["arosuohaukka \/ niittysuohaukka","st\u00e4pph\u00f6k \/ \u00e4ngsh\u00f6k","Hen \/ Pallied \/ Montagu's Harrier","Circus macrourus \/ Circus pygargus","CIRMAC\/CIRPYG"]},"CORSP":{"count":5,"names":["varislaji","Corvus (sl\u00e4ktet)","Unidentified Crow","Corvus sp","CORSP"]},"KPL":{"count":3,"names":["keskikokoinen pikkulintu","medelstor sm\u00e5f\u00e5gel","Unidentified Middle-sized Songbird","KPL (keskikokoinen pikkulintu)","KPL"]},"PLAR":{"count":6,"names":["pikkulokki \/ pikkukajava \/ naurulokki \/ kalalokki","ob. m\u00e5s","Unidentified Small Gull","parvus Laridae","PLAR"]},"IL":{"count":5,"names":["iso lintu","stor f\u00e5gel","Large bird","magnus Aves","IL"]},"STEALB":{"count":14,"names":["pikkutiira","sm\u00e5t\u00e4rna","Little Tern","Sternula albifrons","STEALB"]},"GELNIL\/STESAN":{"count":2,"names":["hietatiira \/ riuttatiira","sandt\u00e4rna \/ kentsk t\u00e4rna","Sandwich \/ Gull-billed Tern","Gelochelidon nilotica \/ Sterna sandvicensis","GELNIL\/STESAN"]},"CHASP":{"count":3,"names":["tyllilaji","Charadrius (sl\u00e4ktet)","Unidentified Charadrius plover","Charadrius sp","CHASP"]},"LANMIN":{"count":2,"names":["mustaotsalepink\u00e4inen","svartpannad t\u00f6rnskata","Lesser Grey Shrike","Lanius minor","LANMIN"]},"ACCSP":{"count":6,"names":["varpushaukkalaji","Accipiter (sl\u00e4ktet)","Unidentified Accipiter hawk","Accipiter sp","ACCSP"]},"STRURA":{"count":40,"names":["viirup\u00f6ll\u00f6","slaguggla","Ural Owl","Strix uralensis","STRURA"]},"CICNIG":{"count":11,"names":["mustahaikara","svart stork","Black Stork","Ciconia nigra","CICNIG"]},"LOXSP":{"count":2,"names":["k\u00e4pylintulaji","Loxia (sl\u00e4ktet)","Unidentified Crossbill","Loxia sp","LOXSP"]},"PHAAXSP":{"count":2,"names":["merimetsolaji","Phalacrocorax (sl\u00e4ktet)","Unidentified Cormorant species","Phalacrocorax sp","PHAAXSP"]},"LUSMEG":{"count":7,"names":["etel\u00e4nsatakieli","sydn\u00e4ktergal","Common Nightingale","Luscinia megarhynchos","LUSMEG"]},"EMBELE":{"count":1,"names":["kultat\u00f6yht\u00f6sirkku","praktsparv","Yellow-throated Bunting","Emberiza elegans","EMBELE"]},"OENSP":{"count":1,"names":["kivitaskulaji","Oenanthe (sl\u00e4ktet)","Unidentified Wheatear","Oenanthe sp","OENSP"]},"CIRPYG":{"count":12,"names":["niittysuohaukka","\u00e4ngsh\u00f6k","Montagu's Harrier","Circus pygargus","CIRPYG"]},"PERATEXPOEMON":{"count":1,"names":["kuusitiainen x h\u00f6m\u00f6tiainen","svartmes x talltita","Willow x Coal Tit","Periparus ater x Poecile montanus","PERATEXPOEMON"]},"ANTRIC\/ANTGOD":{"count":2,"names":["isokirvinen \/ mongoliankirvinen","st\u00f6rre pipl\u00e4rka \/ mongolpipl\u00e4rka","Richard's \/ Blyth's Pipit","Anthus richardi \/ Anthus godlewskii","ANTRIC\/ANTGOD"]},"ANS\/BRA\/PHA":{"count":3,"names":["hanhi \/ merimetso","g\u00e5s \/ skarv","Unidentified Goose or cormorant species","Anserini \/ Phalacrocorax","ANS\/BRA\/PHA"]},"CIRGAL":{"count":1,"names":["k\u00e4\u00e4rmekotka","orm\u00f6rn","Short-toed Eagle","Circaetus gallicus","CIRGAL"]},"PANBIA":{"count":43,"names":["viiksitimali","sk\u00e4ggmes","Bearded Reedling","Panurus biarmicus","PANBIA"]},"LARGLA\/LARHYP":{"count":1,"names":["gr\u00f6nlanninlokki \/ isolokki","vitvingad trut \/ vittrut","Iceland \/ Glaugous Gull","Larus glaucoides \/ Larus hyperboreus","LARGLA\/LARHYP"]},"AIXGAL":{"count":3,"names":["mandariinisorsa","mandarinand","Mandarin Duck","Aix galericulata","AIXGAL"]},"POEMONxPOECIN":{"count":3,"names":["h\u00f6m\u00f6tiainen X lapintiainen","talltita X lappmes","Willow x Siberian Tit","Poecile montanus X Poecile cinctus","POEMONxPOECIN"]},"CARSP":{"count":1,"names":["tiklilaji","Carduelis (sl\u00e4ktet)","Unidentified Carduelis species","Carduelis sp","CARSP"]},"CECDAU":{"count":3,"names":["ruostep\u00e4\u00e4sky","rostgumpsvala","Red-rumped Swallow","Cecropis daurica","CECDAU"]},"BRARUF":{"count":3,"names":["punakaulahanhi","r\u00f6dhalsad g\u00e5s","Red-breasted Goose","Branta ruficollis","BRARUF"]},"TADFER":{"count":2,"names":["ruostesorsa","rostand","Ruddy Shelduck","Tadorna ferruginea","TADFER"]},"LANSEN":{"count":1,"names":["punap\u00e4\u00e4lepink\u00e4inen","r\u00f6dhuvad t\u00f6rnskata","Woodchat Shrike","Lanius senator","LANSEN"]},"RALAQU":{"count":15,"names":["luhtakana","vattenrall","Water Rail","Rallus aquaticus","RALAQU"]},"OENPLE":{"count":1,"names":["nunnatasku","nunnestenskv\u00e4tta","Pied Wheatear","Oenanthe pleschanka","OENPLE"]},"CIRMAC":{"count":36,"names":["arosuohaukka","st\u00e4pph\u00f6k","Pallid Harrier","Circus macrourus","CIRMAC"]},"EMBAUR":{"count":1,"names":["kultasirkku","gyllensparv","Yellow-breasted Bunting","Emberiza aureola","EMBAUR"]},"PLEFAL":{"count":2,"names":["pronssi-iibis","bronsibis","Glossy Ibis","Plegadis falcinellus","PLEFAL"]},"MOTCIT":{"count":9,"names":["sitruunav\u00e4st\u00e4r\u00e4kki","citron\u00e4rla","Citrine Wagtail","Motacilla citreola","MOTCIT"]},"XENCIN":{"count":5,"names":["rantakurvi","tereksn\u00e4ppa","Terek Sandpiper","Xenus cinereus","XENCIN"]},"PASROS":{"count":3,"names":["punakottarainen","rosenstare","Rosy Starling","Pastor roseus","PASROS"]},"PHAFUL":{"count":2,"names":["isovesip\u00e4\u00e4sky","bredn\u00e4bbad simsn\u00e4ppa","Red Phalarope","Phalaropus fulicarius","PHAFUL"]},"ALLALL":{"count":5,"names":["pikkuruokki","alkekung","Little Auk","Alle alle","ALLALL"]},"SAXOLA":{"count":2,"names":["mustap\u00e4\u00e4tasku","svarthakad buskskv\u00e4tta","European Stonechat","Saxicola rubicola","SAXOLA"]},"URIAAL":{"count":15,"names":["etel\u00e4nkiisla","sillgrissla","Common Murre","Uria aalge","URIAAL"]},"PHYSCH":{"count":2,"names":["siperianuunilintu","vides\u00e5ngare","Radde's Warbler","Phylloscopus schwarzi","PHYSCH"]},"CALBRA":{"count":15,"names":["lyhytvarvaskiuru","kortt\u00e5l\u00e4rka","Greater Short-toed Lark","Calandrella brachydactyla","CALBRA"]},"BUBSCA":{"count":22,"names":["tunturip\u00f6ll\u00f6","fj\u00e4lluggla","Snowy Owl","Bubo scandiacus","BUBSCA"]},"CALMAR":{"count":15,"names":["merisirri","sk\u00e4rsn\u00e4ppa","Purple Sandpiper","Calidris maritima","CALMAR"]},"PHYBON":{"count":10,"names":["vuoriuunilintu","bergs\u00e5ngare","Western Bonelli's Warbler","Phylloscopus bonelli","PHYBON"]},"PHACOL":{"count":11,"names":["fasaani","fasan","Common Pheasant","Phasianus colchicus","PHACOL"]},"PRUMON":{"count":7,"names":["taigarautiainen","sibirisk j\u00e4rnsparv","Siberian Accentor","Prunella montanella","PRUMON"]},"ANSERY":{"count":1,"names":["kiljuhanhi","fj\u00e4llg\u00e5s","Lesser White-fronted Goose","Anser erythropus","ANSERY"]},"SAXMAU":{"count":6,"names":["sepeltasku","vitgumpad buskskv\u00e4tta","Siberian Stonechat","Saxicola maurus","SAXMAU"]},"GAVIMM":{"count":4,"names":["amerikanj\u00e4\u00e4kuikka","svartn\u00e4bbad islom","Great Northern Loon","Gavia immer","GAVIMM"]},"AQUNIP":{"count":3,"names":["arokotka","st\u00e4pp\u00f6rn","Steppe Eagle","Aquila nipalensis","AQUNIP"]},"PHYHUM":{"count":4,"names":["kashmirinuunilintu","bergtajgas\u00e5ngare","Hume's Leaf Warbler","Phylloscopus humei","PHYHUM"]},"APUPAL":{"count":1,"names":["vaaleakiit\u00e4j\u00e4","blek tornseglare","Pallid Swift","Apus pallidus","APUPAL"]},"MELPER":{"count":1,"names":["pilkkaniska","vitnackad sv\u00e4rta","Surf Scoter","Melanitta perspicillata","MELPER"]},"SYLNAN":{"count":1,"names":["k\u00e4\u00e4pi\u00f6kerttu","\u00f6kens\u00e5ngare","Asian Desert Warbler ","Sylvia nana","SYLNAN"]},"EGRALB":{"count":22,"names":["jalohaikara","\u00e4gretth\u00e4ger","Great Egret","Egretta alba","EGRALB"]},"BUTRUF":{"count":2,"names":["arohiirihaukka","\u00f6rnvr\u00e5k","Long-legged Buzzard","Buteo rufinus","BUTRUF"]},"IDUCAL":{"count":5,"names":["pikkukultarinta","st\u00e4pps\u00e5ngare","Booted Warbler","Iduna caligata","IDUCAL"]},"SYLCAN":{"count":4,"names":["rusorintakerttu","r\u00f6dstrupig s\u00e5ngare","Subalpine Warbler","Sylvia cantillans","SYLCAN"]},"TRISTA":{"count":3,"names":["lampiviklo","dammsn\u00e4ppa","Marsh Sandpiper","Tringa stagnatilis","TRISTA"]},"CLAGLA":{"count":1,"names":["harakkak\u00e4ki","skatg\u00f6k","Great Spotted Cuckoo","Clamator glandarius","CLAGLA"]},"REGIGN":{"count":1,"names":["tulip\u00e4\u00e4hippi\u00e4inen","brandkronad kungsf\u00e5gel","Common Firecrest","Regulus ignicapilla","REGIGN"]},"STESKU":{"count":2,"names":["isokihu","storlabb","Great Skua","Stercorarius skua","STESKU"]},"TURATR":{"count":2,"names":["mustakaularastas","svarthalsad trast","Black-throated Thrush","Turdus atrogularis","TURATR"]},"FICSP":{"count":1,"names":["kirjosieppolaji","Ficedula (sl\u00e4ktet)","Unidentified Flycatcher","Ficedula sp","FICSP"]},"ACRAGR":{"count":2,"names":["kentt\u00e4kerttunen","f\u00e4lts\u00e5ngare","Paddyfield Warbler","Acrocephalus agricola","ACRAGR"]},"PRUATR":{"count":1,"names":["mustakurkkurautiainen","svartstrupig j\u00e4rnsparv","Black-throated Accentor","Prunella atrogularis","PRUATR"]},"ANTHOD":{"count":1,"names":["taigakirvinen","sibirisk pipl\u00e4rka","Olive-backed Pipit","Anthus hodgsoni","ANTHOD"]},"AQUCLA\/AQUPOM\/AQUNIP":{"count":1,"names":["kiljukotka \/ pikkukiljukotka \/ arokotka","st\u00f6rre skrik\u00f6rn \/ mindre skrik\u00f6rn \/ st\u00e4pp\u00f6rn","Unidentified Spotted Eagle \/ Steppe Eagle","Aquila clanga \/ Aquila pomarina \/ Aquila pomarina","AQUCLA\/AQUPOM\/AQUNIP"]},"AYTCOL":{"count":4,"names":["amerikantukkasotka","ringand","Ring-necked Duck","Aythya collaris","AYTCOL"]},"MELDEG":{"count":6,"names":["kyhmypilkkasiipi","kn\u00f6lsv\u00e4rta","White-winged Scoter","Melanitta deglandi","MELDEG"]},"CALSP":{"count":1,"names":["sirrilaji","Calidris (sl\u00e4ktet)","Unidentified Calidris sandpiper","Calidris sp","CALSP"]},"HIRRUSXDELURB ":{"count":1,"names":["haarap\u00e4\u00e4sky X r\u00e4yst\u00e4sp\u00e4\u00e4sky","ladusvala X hussvala","Barn Swallow x House Martin","Hirundo rustica X Delichon urbicum","HIRRUSXDELURB "]},"MILMIL":{"count":1,"names":["isohaarahaukka","r\u00f6d glada","Red Kite","Milvus milvus","MILMIL"]},"POEPAL":{"count":5,"names":["viitatiainen","entita","Marsh Tit","Poecile palustris","POEPAL"]},"LARCAC":{"count":1,"names":["aroharmaalokki","kaspisk trut","Caspian Gull","Larus cachinnans","LARCAC"]}}Species_Abb,FIN_name,SWE_name,ENG_name,Sci_name,1
+PARMAJ,talitiainen,talgoxe,Great Tit,Parus major,10020
+TETRIX,teeri,orre,Black Grouse,Tetrao tetrix,580
+LARCAN,kalalokki,fiskmås,Mew Gull,Larus canus,9619
+LARARG,harmaalokki,gråtrut,European Herring Gull,Larus argentatus,9906
+LARMAR,merilokki,havstrut,Great Black-backed Gull,Larus marinus,9913
+CORNIX,varis,kråka,Hooded Crow,Corvus corone,9700
+CORRAX,korppi,korp,Northern Raven,Corvus corax,8255
+PL,pikkulintu,ob. småfågel,Unidentified Songbird,PL (pikkulintu),2372
+ALAARV,kiuru,sånglärka,Eurasian Skylark,Alauda arvensis,3352
+TURMER,mustarastas,koltrast,Common Blackbird,Turdus merula,7458
+CORMON,naakka,kaja,Western Jackdaw,Corvus monedula,2889
+CORFRU,mustavaris,råka,Rook,Corvus frugilegus,1043
+CARCHL,viherpeippo,grönfink,European Greenfinch,Carduelis chloris,9147
+CARMEA,urpiainen,gråsiska,Common Redpoll,Carduelis flammea,4578
+EMBSCH,pajusirkku,sävsparv,Common Reed Bunting,Emberiza schoeniclus,3403
+ACCNIS,varpushaukka,sparvhök,Eurasian Sparrowhawk,Accipiter nisus,5064
+PICPIC,harakka,skata,Common Magpie,Pica pica,1250
+ICOR,korppi / varis / mustavaris,korp / kråka / råka,Unidentified Large Crow,magnus Corvus,269
+CARSPI,vihervarpunen,grönsiska,Eurasian Siskin,Carduelis spinus,7626
+LOXCUR/LOXPYT,pikkukäpylintu / isokäpylintu,mindre korsnäbb / större korsnäbb,Common / Parrot Crossbill,Loxia curvirostra / Loxia pytyopsittacus,3197
+MERMER,isokoskelo,storskrake,Common Merganser,Mergus merganser,9911
+FALTIN,tuulihaukka,tornfalk,Common Kestrel,Falco tinnunculus,2455
+COLOEN,uuttukyyhky,skogsduva,Stock Dove,Columba oenas,2566
+COLPAL,sepelkyyhky,ringduva,Common Wood Pigeon,Columba palumbus,4428
+COLSP,kyyhkylaji (Columba),Columba (släktet),Unidentified Columba Dove,Columba sp,644
+DENMIN,pikkutikka,mindre hackspett,Lesser Spotted Woodpecker,Dendrocopos minor,1971
+TURPIL,räkättirastas,björktrast,Fieldfare,Turdus pilaris,7468
+BUTSP,hiirihaukkalaji,Buteo (släktet),Unidentified Buteo buzzard,Buteo sp,335
+VANVAN,töyhtöhyyppä,tofsvipa,Northern Lapwing,Vanellus vanellus,2161
+TURPHI,laulurastas,taltrast,Song Thrush,Turdus philomelos,4382
+TURVIS,kulorastas,dubbeltrast,Mistle Thrush,Turdus viscivorus,2314
+TURSP,rastaslaji (Turdus),Turdus (släktet),Unidentified Thrush,Turdus sp,124
+PLENIV,pulmunen,snösparv,Snow Bunting,Plectrophenax nivalis,873
+CYGOLO,kyhmyjoutsen,knölsvan,Mute Swan,Cygnus olor,8920
+ANSANS,merihanhi,grågås,Greylag Goose,Anser anser,4175
+BUTBUT,hiirihaukka,ormvråk,Common Buzzard,Buteo buteo,1796
+PRUMOD,rautiainen,järnsparv,Dunnock,Prunella modularis,3689
+REGREG,hippiäinen,kungsfågel,Goldcrest,Regulus regulus,5153
+CYACAE,sinitiainen,blåmes,Eurasian Blue Tit,Cyanistes caeruleus,9418
+STUVUL,kottarainen,stare,Common Starling,Sturnus vulgaris,6066
+PASDOM,varpunen,gråsparv,House Sparrow,Passer domesticus,902
+CARCAN,hemppo,hämpling,Common Linnet,Carduelis cannabina,4146
+PYRPYR,punatulkku,domherre,Eurasian Bullfinch,Pyrrhula pyrrhula,3008
+EMBCIT,keltasirkku,gulsparv,Yellowhammer,Emberiza citrinella,4399
+ANAPLA,sinisorsa,gräsand,Mallard,Anas platyrhynchos,9544
+CLAHYE,alli,alfågel,Long-tailed Duck,Clangula hyemalis,5474
+BUCCLA,telkkä,knipa,Common Goldeneye,Bucephala clangula,9175
+GRUGRU,kurki,trana,Common Crane,Grus grus,1975
+LARRID,naurulokki,skrattmås,Black-headed Gull,Larus ridibundus,8207
+LULARB,kangaskiuru,trädlärka,Woodlark,Lullula arborea,1690
+ANTPRA,niittykirvinen,ängspiplärka,Meadow Pipit,Anthus pratensis,6482
+MOTALB,västäräkki,sädesärla,White Wagtail,Motacilla alba,6598
+ITUR,iso rastas,stor trast,Unidentified Large Thrush,magnus Turdus,633
+CERFAM,puukiipijä,trädkrypare,Eurasian Treecreeper,Certhia familiaris,4391
+FRICOE,peippo,bofink,Common Chaffinch,Fringilla coelebs,7913
+ANS/BRA,hanhilaji,ob. gås,Unidentified Goose,Anser / Branta,1068
+V,vesilintu,sjöfågel,Waterfowl,Anatidae sp,1541
+ILAR,selkälokki / harmaalokki / isolokki / merilokki,ob. trut,Unidentified Large Gull,magnus Larus,1311
+ANSSP,harmaahanhilaji,Anser (släktet),Unidentified Anser goose,Anser sp,702
+SOMMOL,haahka,ejder,Common Eider,Somateria mollissima,8596
+ERIRUB,punarinta,rödhake,European Robin,Erithacus rubecula,5659
+FRIMON,järripeippo,bergfink,Brambling,Fringilla montifringilla,3593
+CARCAR,tikli,steglits,European Goldfinch,Carduelis carduelis,2452
+CYGCYG,laulujoutsen,sångsvan,Whooper Swan,Cygnus cygnus,3685
+CYGSP,joutsenlaji,Cygnus (släktet),Unidentified Swan,Cygnus sp,596
+AYTFER,punasotka,brunand,Common Pochard,Aythya ferina,507
+KK,keskikokoinen kahlaaja,medelstor vadare,Unidentified Middle size wader,KK (Keskikokoinen kahlaaja),441
+LARFUS,selkälokki,silltrut,Lesser Black-backed Gull,Larus fuscus,3806
+ASIFLA,suopöllö,jorduggla,Short-eared Owl,Asio flammeus,499
+ANACRE,tavi,kricka,Eurasian Teal,Anas crecca,4351
+MERSER,tukkakoskelo,småskrake,Red-breasted Merganser,Mergus serrator,6586
+MERSER/MERMER,tukkakoskelo / isokoskelo,småskrake / storskrake,Red-breasted Merganser / Goosander,Mergus serrator / Mergus merganser,655
+IP,iso päiväpetolintu,stor dagrovfågel,Unidentified Large Raptor,magnus Accipitriformes,545
+FULATR,nokikana,sothöna,Eurasian Coot,Fulica atra,163
+HAEOST,meriharakka,strandskata,Eurasian Oystercatcher,Haematopus ostralegus,4811
+PLUAPR,kapustarinta,ljungpipare,European Golden Plover,Pluvialis apricaria,1398
+CHAHIA,tylli,större strandpipare,Common Ringed Plover,Charadrius hiaticula,5214
+NUMSP,kuovilaji,Numenius (släktet),Unidentified Numenius,Numenius sp,358
+ASIOTU,sarvipöllö,hornuggla,Long-eared Owl,Asio otus,686
+ANTPET,luotokirvinen,skärpiplärka,Eurasian Rock Pipit,Anthus petrosus,686
+BOMGAR,tilhi,sidensvans,Bohemian Waxwing,Bombycilla garrulus,2335
+TURILI,punakylkirastas,rödvingetrast,Redwing,Turdus iliacus,4257
+PTUR,pieni rastas,liten trast,Unidentified Small Thrush,parvus Turdus,574
+IV,iso vesilintu,stor sjöfågel,Unidentified Large waterfowl,magnus Anatidae,230
+PHACAR,merimetso,storskarv,Great Cormorant,Phalacrocorax carbo,6525
+BUTLAG,piekana,fjällvråk,Rough-legged Buzzard,Buteo lagopus,1033
+PER/BUT,mehiläishaukka / hiirihaukkalaji,ob. vråk,Unidentified buzzard,Pernis / Buteo,733
+TRIOCH,metsäviklo,skogssnäppa,Green Sandpiper,Tringa ochropus,1503
+SCORUS,lehtokurppa,morkulla,Eurasian Woodcock,Scolopax rusticola,1950
+LARSP,lokkilaji,Larus (släktet),Unidentified Gull,Larus sp,390
+PICCAN,harmaapäätikka,gråspett,Grey-headed Woodpecker,Picus canus,217
+TADTAD,ristisorsa,gravand,Common Shelduck,Tadorna tadorna,2238
+ANAPEN,haapana,bläsand,Eurasian Wigeon,Anas penelope,5061
+ANAACU,jouhisorsa,stjärtand,Northern Pintail,Anas acuta,2444
+ANASP,sorsalaji,Anas (släktet),Anas duck species,Anas sp,365
+AYTFUL,tukkasotka,vigg,Tufted Duck,Aythya fuligula,6894
+PANHAL,sääksi,fiskgjuse,Osprey,Pandion haliaetus,1254
+NUMARQ,kuovi,storspov,Eurasian Curlew,Numenius arquata,2315
+TRITOT,punajalkaviklo,rödbena,Common Redshank,Tringa totanus,3332
+HYDCAS,räyskä,skräntärna,Caspian Tern,Hydroprogne caspia,2040
+LARHYP,isolokki,vittrut,Glaucous Gull,Larus hyperboreus,42
+OENOEN,kivitasku,stenskvätta,Northern Wheatear,Oenanthe oenanthe,3338
+LANEXC,isolepinkäinen,varfågel,Great Grey Shrike,Lanius excubitor,791
+HALALB,merikotka,havsörn,White-tailed Eagle,Haliaeetus albicilla,5416
+CIRCYA,sinisuohaukka,blå kärrhök,Northern Harrier,Circus cyaneus,1467
+GALGAL,taivaanvuohi,enkelbeckasin,Common Snipe,Gallinago gallinago,2352
+ANSFAB,metsähanhi,sädgås,Bean Goose,Anser fabalis,536
+MERALB,uivelo,salskrake,Smew,Mergellus albellus,983
+ACCGEN,kanahaukka,duvhök,Northern Goshawk,Accipiter gentilis,2057
+FALCOL,ampuhaukka,stenfalk,Merlin,Falco columbarius,1537
+PP,pieni päiväpetolintu,liten dagrovfågel,Unidentified Small Raptor,parvus Accipitriformes,176
+TROTRO,peukaloinen,gärdsmyg,Winter Wren,Troglodytes troglodytes,3016
+PODCRI,silkkiuikku,skäggdopping,Great Crested Grebe,Podiceps cristatus,3121
+BOM/STU,tilhi / kottarainen,sidensvans / stare,Waxwing / Starling,Bombycilla / Sturnus,115
+AYTFUL/AYTMAR,tukkasotka / lapasotka,vigg / bergand,Tufted Duck/Greater Scaup,Aythya fuligula / Aythya marila,422
+IK,iso kahlaaja,stor vadare,Unidentified large wader,IK (iso kahlaaja),915
+AEGFUN,helmipöllö,pärluggla,Boreal Owl,Aegolius funereus,603
+FRISP,peippolaji,Fringilla (släktet),Chaffinch / Brambling,Fringilla sp,128
+PV,pieni vesilintu,liten sjöfågel,Unidentified Small waterfowl,parvus Anatidae,344
+GAVARC,kuikka,storlom,Black-throated Loon,Gavia arctica,3406
+GAVSP,kuikkalaji,Gavia (släktet),Diver species,Gavia sp,4128
+K,kahlaaja,ob. vadare,Unidentified wader,K (kahlaaja),313
+STECUS,merikihu,kustlabb,Parasitic Jaeger,Stercorarius parasiticus,2632
+CALLAP,lapinsirkku,lappsparv,Lapland Longspur,Calcarius lapponicus,614
+MELNIG,mustalintu,sjöorre,Common Scoter,Melanitta nigra,2378
+CYA/PAR/PER/LOP/POE,tiaislaji,ob. mes / tita,Unidentified Tit species,Cyanistes / Parus / Periparus / Lophophanes / Poecile,317
+CALALP,suosirri,kärrsnäppa,Dunlin,Calidris alpina,2729
+STEHIR/STEAEA,kalatiira / lapintiira,fisktärna / silvertärna,Common / Arctic Tern,Sterna hirundo / Sterna paradisaea,3097
+STRALU,lehtopöllö,kattuggla,Tawny Owl,Strix aluco,205
+PHYCOL,tiltaltti,gransångare,Common Chiffchaff,Phylloscopus collybita,1915
+ANACLY,lapasorsa,skedand,Northern Shoveler,Anas clypeata,3015
+CIRAER,ruskosuohaukka,brun kärrhök,Western Marsh Harrier,Circus aeruginosus,927
+TRINEB,valkoviklo,gluttsnäppa,Common Greenshank,Tringa nebularia,3285
+ANTTRI,metsäkirvinen,trädpiplärka,Tree Pipit,Anthus trivialis,4473
+BRALEU,valkoposkihanhi,vitkindad gås,Barnacle Goose,Branta leucopsis,2083
+ANASTR,harmaasorsa,snatterand,Gadwall,Anas strepera,686
+GAVSTE,kaakkuri,smålom,Red-throated Loon,Gavia stellata,2956
+CHADUB,pikkutylli,mindre strandpipare,Little Ringed Plover,Charadrius dubius,1018
+STEHIR,kalatiira,fisktärna,Common Tern,Sterna hirundo,3534
+JYNTOR,käenpiika,göktyta,Eurasian Wryneck,Jynx torquilla,1083
+FICHYP,kirjosieppo,svartvit flugsnappare,European Pied Flycatcher,Ficedula hypoleuca,2282
+SOMSPE,kyhmyhaahka,praktejder,King Eider,Somateria spectabilis,98
+MELFUS,pilkkasiipi,svärta,Velvet Scoter,Melanitta fusca,4525
+AYTMAR,lapasotka,bergand,Greater Scaup,Aythya marila,1308
+PODGRI,härkälintu,gråhakedopping,Red-necked Grebe,Podiceps grisegena,770
+CEPGRY,riskilä,tobisgrissla,Black Guillemot,Cepphus grylle,1245
+ANTSP,kirvislaji,Anthus (släktet),Unidentified Pipit,Anthus sp,141
+PHYSP,uunilintulaji,Phylloscopus (släktet),Unidentified Phylloscopus warbler,Phylloscopus sp,563
+ANAQUE,heinätavi,årta,Garganey,Anas querquedula,258
+POLSTE,allihaahka,alförrädare,Steller's Eider,Polysticta stelleri,154
+AREINT,karikukko,roskarl,Ruddy Turnstone,Arenaria interpres,916
+ALCTOR,ruokki,tordmule,Razorbill,Alca torda,779
+HYDMIN,pikkulokki,dvärgmås,Little Gull,Hydrocoloeus minutus,778
+ASISP,sarvipöllölaji,Asio (släktet),Long-/Short-eared Owl,Asio sp,212
+PODAUR,mustakurkku-uikku,svarthakedopping,Horned Grebe,Podiceps auritus,212
+STERCSP,kihulaji,Stercorarius (släktet),Unidentified Skua,Stercorarius sp,415
+STEAEA,lapintiira,silvertärna,Arctic Tern,Sterna paradisaea,2845
+RECAVO,avosetti,skärfläcka,Pied Avocet,Recurvirostra avosetta,37
+TRIERY,mustaviklo,svartsnäppa,Spotted Redshank,Tringa erythropus,1512
+ACTHYP,rantasipi,drillsnäppa,Common Sandpiper,Actitis hypoleucos,3574
+SAXTRA,pensastasku,buskskvätta,Whinchat,Saxicola rubetra,1448
+PERPER,peltopyy,rapphöna,Grey Partridge,Perdix perdix,6
+NUMPHA,pikkukuovi,småspov,Whimbrel,Numenius phaeopus,1029
+TRIGLA,liro,grönbena,Wood Sandpiper,Tringa glareola,2289
+ACRSCH,ruokokerttunen,sävsångare,Sedge Warbler,Acrocephalus schoenobaenus,885
+SERSER,keltahemppo,gulhämpling,European Serin,Serinus serinus,70
+EMBHOR,peltosirkku,ortolansparv,Ortolan Bunting,Emberiza hortulana,520
+PERAPI,mehiläishaukka,bivråk,European Honey Buzzard,Pernis apivorus,1009
+RIP/HIR/DEL,pääsky,ob. svala,Unidentified Swallow / Martin,Riparia / Hirundo / Delichon,1128
+ARDCIN,harmaahaikara,gråhäger,Grey Heron,Ardea cinerea,4028
+CALPUG,suokukko,brushane,Ruff,Calidris pugnax,2142
+COLLIV,kesykyyhky,tamduva,Common Pigeon,Columba livia,1376
+RIPRIP,törmäpääsky,backsvala,Sand Martin,Riparia riparia,1571
+HIRRUS,haarapääsky,ladusvala,Barn Swallow,Hirundo rustica,5270
+DELURB,räystäspääsky,hussvala,Common House Martin,Delichon urbicum,3898
+PHYLUS,pajulintu,lövsångare,Willow Warbler,Phylloscopus trochilus,4880
+AEGCAU,pyrstötiainen,stjärtmes,Long-tailed Tit,Aegithalos caudatus,1167
+EMBRUS/EMBPUS/EMBAUR,pohjansirkku / pikkusirkku / kultasirkku,videsparv / dvärgsparv / gyllensparv,Rustic / Little / Yellow-breasted Bunting,Emberiza rustica / Emberiza pusilla / Emberiza aureola,119
+FALSUB,nuolihaukka,lärkfalk,Eurasian Hobby,Falco subbuteo,2049
+COCCOC,nokkavarpunen,stenknäck,Hawfinch,Coccothraustes coccothraustes,859
+LIMLAP,punakuiri,myrspov,Bar-tailed Godwit,Limosa lapponica,991
+PHOPHO,leppälintu,rödstjärt,Common Redstart,Phoenicurus phoenicurus,1635
+SYLCUR,hernekerttu,ärtsångare,Lesser Whitethroat,Sylvia curruca,4078
+LANCOL,pikkulepinkäinen,törnskata,Red-backed Shrike,Lanius collurio,2187
+STRDEC,turkinkyyhky,turkduva,Eurasian Collared Dove,Streptopelia decaocto,121
+STRTUR,turturikyyhky,turturduva,European Turtle Dove,Streptopelia turtur,108
+MOTFLA,keltavästäräkki,gulärla,Yellow Wagtail,Motacilla flava,2599
+SYLATR,mustapääkerttu,svarthätta,Eurasian Blackcap,Sylvia atricapilla,2422
+CAPEUR,kehrääjä,nattskärra,European Nightjar,Caprimulgus europaeus,135
+LUSLUS,satakieli,näktergal,Thrush Nightingale,Luscinia luscinia,2421
+PK,pieni kahlaaja,liten vadare,Unidentified small wader,PK (pieni kahlaaja),1296
+STREPSP,turturikyyhkylaji,Streptopelia (släktet),Unidentified Streptopelia dove,Streptopelia sp,25
+PHYSIB,sirittäjä,grönsångare,Wood Warbler,Phylloscopus sibilatrix,1077
+V/K,vesilintu / kahlaaja,sjöfågel / vadare,Unidentified waterfowl / wader,V / K (vesilintu / kahlaaja),42
+CUCCAN,käki,gök,Common Cuckoo,Cuculus canorus,1034
+LOXCUR,pikkukäpylintu,mindre korsnäbb,Red Crossbill,Loxia curvirostra,1867
+CALCAN,isosirri,kustsnäppa,Red Knot,Calidris canutus,903
+CALTEM,lapinsirri,mosnäppa,Temminck's Stint,Calidris temminckii,460
+LUSSVE,sinirinta,blåhake,Bluethroat,Luscinia svecica,421
+TURTOR,sepelrastas,ringtrast,Ring Ouzel,Turdus torquatus,51
+SYLNIS,kirjokerttu,höksångare,Barred Warbler,Sylvia nisoria,460
+SYLCOM,pensaskerttu,törnsångare,Common Whitethroat,Sylvia communis,3287
+MUSSTR,harmaasieppo,grå flugsnappare,Spotted Flycatcher,Muscicapa striata,3608
+CARERY,punavarpunen,rosenfink,Common Rosefinch,Carpodacus erythrinus,2309
+MELSP,mustalintulaji,Melanitta (släktet),Unidentified Scoter,Melanitta sp,23
+APUAPU,tervapääsky,tornseglare,Common Swift,Apus apus,3193
+BRABER,sepelhanhi,prutgås,Brant Goose,Branta bernicla,882
+PLUSQU,tundrakurmitsa,kustpipare,Grey Plover,Pluvialis squatarola,1769
+ANTCER,lapinkirvinen,rödstrupig piplärka,Red-throated Pipit,Anthus cervinus,637
+SYLBOR,lehtokerttu,trädgårdssångare,Garden Warbler,Sylvia borin,2746
+FICPAR,pikkusieppo,mindre flugsnappare,Red-breasted Flycatcher,Ficedula parva,568
+ORIORI,kuhankeittäjä,sommargylling,Eurasian Golden Oriole,Oriolus oriolus,109
+CICCIC,kattohaikara,vit stork,White Stork,Ciconia ciconia,21
+ALC/URI,ruokki / kiislalaji,ob. alka,Razorbill / Unidentified Murre,Alca / Uria,240
+PHYDES,idänuunilintu,lundsångare,Greenish Warbler,Phylloscopus trochiloides,139
+GALMED,heinäkurppa,dubbelbeckasin,Great Snipe,Gallinago media,41
+LOCNAE,pensassirkkalintu,gräshoppsångare,Common Grasshopper Warbler,Locustella naevia,56
+HIPICT,kultarinta,härmsångare,Icterine Warbler,Hippolais icterina,2239
+ACRSCI,rytikerttunen,rörsångare,Eurasian Reed Warbler,Acrocephalus scirpaceus,1004
+PFAL,pieni jalohaukka,liten falk,Unidentified Small Falcon,parvus Falco,349
+FICALB,sepelsieppo,halsbandsflugsnappare,Collared Flycatcher,Ficedula albicollis,12
+ACRDUM/ACRRIS/ACRSCI,viitakerttunen / luhtakerttunen / rytikerttunen,busksångare / kärrsångare / rörsångare,Unidentified Reed Warbler,Acrocephalus dumetorum / Acrocephalus palustris / Acrocephalus scirpaceus,19
+STESAN,riuttatiira,kentsk tärna,Sandwich Tern,Sterna sandvicensis,56
+LOXPYT,isokäpylintu,större korsnäbb,Parrot Crossbill,Loxia pytyopsittacus,921
+CIRCYA/CIRMAC/CIRPYG,sinisuohaukka / arosuohaukka / niittysuohaukka,blå kärrhök / stäpphök / ängshök,Pallied / Montagu's Harrier,Circus cyaneus / Circus macrourus / Circus pygargus,184
+PLUSP,kurmitsalaji,Pluvialis (släktet),Unidentified Pluvialis plover,Pluvialis sp,127
+ACRRIS,luhtakerttunen,kärrsångare,Marsh Warbler,Acrocephalus palustris,628
+PHALOB,vesipääsky,smalnäbbad simsnäppa,Red-necked Phalarope,Phalaropus lobatus,148
+CALFER,kuovisirri,spovsnäppa,Curlew Sandpiper,Calidris ferruginea,497
+LOPCRI,töyhtötiainen,tofsmes,European Crested Tit,Lophophanes cristatus,2808
+CHLNIG,mustatiira,svarttärna,Black Tern,Chlidonias niger,20
+BRACAN,kanadanhanhi,kanadagås,Canada Goose,Branta canadensis,647
+PORPOR,luhtahuitti,småfläckig sumphöna,Spotted Crake,Porzana porzana,14
+POEMON,hömötiainen,talltita,Willow Tit,Poecile montanus,2634
+DRYMAR,palokärki,spillkråka,Black Woodpecker,Dryocopus martius,2149
+LOXLEU,kirjosiipikäpylintu,bändelkorsnäbb,Two-barred Crossbill,Loxia leucoptera,360
+DENMAJ,käpytikka,större hackspett,Great Spotted Woodpecker,Dendrocopos major,2879
+NUCCAR,pähkinähakki,nötkråka,Spotted Nutcracker,Nucifraga caryocatactes,1556
+PERATE,kuusitiainen,svartmes,Coal Tit,Periparus ater,2459
+CALALB,pulmussirri,sandlöpare,Sanderling,Calidris alba,119
+KT,keskikokoinen tikka,medelstor hackspett,Unidentified Middle-sized Woodpecker,medium Picidae,134
+CALFAL,jänkäsirriäinen,myrsnäppa,Broad-billed Sandpiper,Calidris falcinellus,154
+CALUTA,pikkusirri,småsnäppa,Little Stint,Calidris minuta,369
+GAVIMM/GAVADA,amerikanjääkuikka / jääkuikka,svartnäbbad islom / vitnäbbad islom,Great Northern / Yellow-billed Diver,Gavia immer / Gavia adamsii,17
+LYMMIN,jänkäkurppa,dvärgbeckasin,Jack Snipe,Lymnocryptes minimus,312
+AQUCLA/AQUPOM,kiljukotka / pikkukiljukotka,större skrikörn / mindre skrikörn,Unidentified Spotted Eagle,Aquila clanga / Aquila pomarina,10
+EMBRUS,pohjansirkku,videsparv,Rustic Bunting,Emberiza rustica,123
+GARGLA,närhi,nötskrika,Eurasian Jay,Garrulus glandarius,628
+GLAPAS,varpuspöllö,sparvuggla,Eurasian Pygmy Owl,Glaucidium passerinum,289
+TACRUF,pikku-uikku,smådopping,Little Grebe,Tachybaptus ruficollis,38
+ANSALB,tundrahanhi,bläsgås,Greater White-fronted Goose,Anser albifrons,233
+AQUCHR,maakotka,kungsörn,Golden Eagle,Aquila chrysaetos,197
+BUBBUB,huuhkaja,berguv,Eurasian Eagle Owl,Bubo bubo,270
+PICTRI,pohjantikka,tretåig hackspett,Three-toed Woodpecker,Picoides tridactylus,249
+POECIN,lapintiainen,lappmes,Grey-headed Chickadee,Poecile cinctus,50
+EREALP,tunturikiuru,berglärka,Horned Lark,Eremophila alpestris,50
+PINENU,taviokuurna,tallbit,Pine Grosbeak,Pinicola enucleator,103
+SURULU,hiiripöllö,hökuggla,Northern Hawk Owl,Surnia ulula,44
+TETURO,metso,tjäder,Western Capercaillie,Tetrao urogallus,11
+CARHOR,tundraurpiainen,snösiska,Arctic Redpoll,Carduelis hornemanni,63
+PODCRI/PODGRI,silkkiuikku / härkälintu,skäggdopping / gråhakedopping,Great Crested / Red-necked Grebe,Podiceps cristatus / Podiceps grisegena,7
+PODAUR/PODNIG,mustakurkku-uikku / mustakaulauikku,svarthakedopping / svarthalsad dopping,Slavonian / Black-necked Grebe,Podiceps auritus / Podiceps nigricollis,3
+RISTRI,pikkukajava,tretåig mås,Black-legged Kittiwake,Rissa tridactyla,135
+LIMLIM,mustapyrstökuiri,rödspov,Black-tailed Godwit,Limosa limosa,42
+UPUEPO,harjalintu,härfågel,Hoopoe,Upupa epops,9
+EMBCAL,harmaasirkku,kornsparv,Corn Bunting,Emberiza calandra,9
+PHOOCH,mustaleppälintu,svart rödstjärt,Black Redstart,Phoenicurus ochruros,91
+ACRDUM,viitakerttunen,busksångare,Blyth's Reed Warbler,Acrocephalus dumetorum,215
+ANTRIC/ANTGOD/ANTCAM,isokirvinen / mongoliankirvinen / nummikirvinen,större piplärka / mongolpiplärka / fältpiplärka,Richard's / Blyth's / Tawny Pipit,Anthus richardi / Anthus godlewskii / Anthus campestris,4
+ANTCAM,nummikirvinen,fältpiplärka,Tawny Pipit,Anthus campestris,15
+CRECRE,ruisrääkkä,kornknarr,Corn Crake,Crex crex,25
+PASMON,pikkuvarpunen,pilfink,Eurasian Tree Sparrow,Passer montanus,825
+PHYINO,taigauunilintu,tajgasångare,Yellow-browed Warbler,Phylloscopus inornatus,59
+CHAMOR,keräkurmitsa,fjällpipare,Eurasian Dotterel,Charadrius morinellus,8
+ANTRIC,isokirvinen,större piplärka,Richard's Pipit,Anthus richardi,45
+AQUCLA,kiljukotka,större skrikörn,Greater Spotted Eagle,Aquila clanga,14
+TUREUN,ruostesiipirastas,bruntrast,Dusky Thrush,Turdus eunomus,1
+EMBPUS,pikkusirkku,dvärgsparv,Little Bunting,Emberiza pusilla,19
+PPL,pieni pikkulintu,liten småfågel,Unidentified Small Songbird,PPL (pieni pikkulintu),1
+CYGCOL,pikkujoutsen,mindre sångsvan,Tundra Swan,Cygnus columbianus,156
+CARRIS,vuorihemppo,vinterhämpling,Twite,Carduelis flavirostris,82
+CIRSP,suohaukkalaji,Circus (släktet),Unidentified Harrier species,Circus sp,5
+MILMIG,haarahaukka,brun glada,Black Kite,Milvus migrans,66
+MOTCIN,virtavästäräkki,forsärla,Grey Wagtail,Motacilla cinerea,54
+LOCFLU,viitasirkkalintu,flodsångare,River Warbler,Locustella fluviatilis,23
+FALVES,punajalkahaukka,aftonfalk,Red-footed Falcon,Falco vespertinus,27
+PHYBOR,lapinuunilintu,nordsångare,Arctic Warbler,Phylloscopus borealis,1
+SITEUR,pähkinänakkeli,nötväcka,Eurasian Nuthatch,Sitta europaea,256
+PHYPRO,hippiäisuunilintu,kungsfågelsångare,Pallas's Leaf Warbler,Phylloscopus proregulus,46
+DENLEU,valkoselkätikka,vitryggig hackspett,White-backed Woodpecker,Dendrocopos leucotos,124
+STEPOM,leveäpyrstökihu,bredstjärtad labb,Pomarine Skua,Stercorarius pomarinus,49
+FALPER,muuttohaukka,pilgrimsfalk,Peregrine Falcon,Falco peregrinus,559
+TETBON,pyy,järpe,Hazel Grouse,Tetrastes bonasia,13
+ANSBRA,lyhytnokkahanhi,spetsbergsgås,Pink-footed Goose,Anser brachyrhynchus,13
+HAL/AQU,kotkalaji,ob. örn,Unidentified Eagle,Haliaetus / Aquila,14
+CINCIN,koskikara,strömstare,White-throated Dipper,Cinclus cinclus,36
+ALCATT,kuningaskalastaja,kungsfiskare,Common Kingfisher,Alcedo atthis,3
+FALRUS,tunturihaukka,jaktfalk,Gyrfalcon,Falco rusticolus,9
+STRNEB,lapinpöllö,lappuggla,Great Grey Owl,Strix nebulosa,3
+IFAL,iso jalohaukka,stor falk,Unidentified Large Falcon,magnus Falco,6
+ACRARU,rastaskerttunen,trastsångare,Great Reed Warbler,Acrocephalus arundinaceus,6
+GALCHL,liejukana,rörhöna,Common Moorhen,Gallinula chloropus,4
+AQUSP,kotkalaji (Aquila),Aquila (släktet),Unidentified Aquila,Aquila sp,4
+BOTSTE,kaulushaikara,rördrom,Eurasian Bittern,Botaurus stellaris,30
+COTCOT,viiriäinen,vaktel,Common Quail,Coturnix coturnix,4
+STELON,tunturikihu,fjällabb,Long-tailed Jaeger,Stercorarius longicaudus,20
+STERNSP,tiiralaji (Sterna),Sterna (släktet),Unidentified Tern,Sterna sp,1
+PODSP,uikkulaji,Podiceps (släktet),Unidentified Grebe species,Podiceps sp,3
+IPL,iso pikkulintu,stor småfågel,Unidentified Large Songbird,IPL (iso pikkulintu),3
+GAVADA,jääkuikka,vitnäbbad islom,Yellow-billed Loon,Gavia adamsii,23
+FALSP,jalohaukkalaji,Falco (släktet),Unidentified Falcon,Falco sp,7
+MOTSP,västäräkkilaji,Motacilla (släktet),Unidentified Wagtail,Motacilla sp,13
+GALSP,taivaanvuohilaji,Gallinago (släktet),Unidentified Snipe,Gallinago sp,2
+PHYFUS,ruskouunilintu,brunsångare,Dusky Warbler,Phylloscopus fuscatus,8
+REMPEN,pussitiainen,pungmes,Eurasian Penduline Tit,Remiz pendulinus,24
+CORONEONE,nokivaris,kråka (rasen corone),Carrion Crow,Corvus corone corone,8
+MERAPI,mehiläissyöjä,biätare,European Bee-eater,Merops apiaster,18
+ANSCAE,lumihanhi,snögås,Snow Goose,Anser caerulescens,2
+AQUPOM,pikkukiljukotka,mindre skrikörn,Lesser Spotted Eagle,Aquila pomarina,4
+CIRMAC/CIRPYG,arosuohaukka / niittysuohaukka,stäpphök / ängshök,Hen / Pallied / Montagu's Harrier,Circus macrourus / Circus pygargus,43
+CORSP,varislaji,Corvus (släktet),Unidentified Crow,Corvus sp,5
+KPL,keskikokoinen pikkulintu,medelstor småfågel,Unidentified Middle-sized Songbird,KPL (keskikokoinen pikkulintu),3
+PLAR,pikkulokki / pikkukajava / naurulokki / kalalokki,ob. mås,Unidentified Small Gull,parvus Laridae,6
+IL,iso lintu,stor fågel,Large bird,magnus Aves,5
+STEALB,pikkutiira,småtärna,Little Tern,Sternula albifrons,14
+GELNIL/STESAN,hietatiira / riuttatiira,sandtärna / kentsk tärna,Sandwich / Gull-billed Tern,Gelochelidon nilotica / Sterna sandvicensis,2
+CHASP,tyllilaji,Charadrius (släktet),Unidentified Charadrius plover,Charadrius sp,3
+LANMIN,mustaotsalepinkäinen,svartpannad törnskata,Lesser Grey Shrike,Lanius minor,2
+ACCSP,varpushaukkalaji,Accipiter (släktet),Unidentified Accipiter hawk,Accipiter sp,6
+STRURA,viirupöllö,slaguggla,Ural Owl,Strix uralensis,40
+CICNIG,mustahaikara,svart stork,Black Stork,Ciconia nigra,11
+LOXSP,käpylintulaji,Loxia (släktet),Unidentified Crossbill,Loxia sp,2
+PHAAXSP,merimetsolaji,Phalacrocorax (släktet),Unidentified Cormorant species,Phalacrocorax sp,2
+LUSMEG,etelänsatakieli,sydnäktergal,Common Nightingale,Luscinia megarhynchos,7
+EMBELE,kultatöyhtösirkku,praktsparv,Yellow-throated Bunting,Emberiza elegans,1
+OENSP,kivitaskulaji,Oenanthe (släktet),Unidentified Wheatear,Oenanthe sp,1
+CIRPYG,niittysuohaukka,ängshök,Montagu's Harrier,Circus pygargus,12
+PERATEXPOEMON,kuusitiainen x hömötiainen,svartmes x talltita,Willow x Coal Tit,Periparus ater x Poecile montanus,1
+ANTRIC/ANTGOD,isokirvinen / mongoliankirvinen,större piplärka / mongolpiplärka,Richard's / Blyth's Pipit,Anthus richardi / Anthus godlewskii,2
+ANS/BRA/PHA,hanhi / merimetso,gås / skarv,Unidentified Goose or cormorant species,Anserini / Phalacrocorax,3
+CIRGAL,käärmekotka,ormörn,Short-toed Eagle,Circaetus gallicus,1
+PANBIA,viiksitimali,skäggmes,Bearded Reedling,Panurus biarmicus,43
+LARGLA/LARHYP,grönlanninlokki / isolokki,vitvingad trut / vittrut,Iceland / Glaugous Gull,Larus glaucoides / Larus hyperboreus,1
+AIXGAL,mandariinisorsa,mandarinand,Mandarin Duck,Aix galericulata,3
+POEMONxPOECIN,hömötiainen X lapintiainen,talltita X lappmes,Willow x Siberian Tit,Poecile montanus X Poecile cinctus,3
+CARSP,tiklilaji,Carduelis (släktet),Unidentified Carduelis species,Carduelis sp,1
+CECDAU,ruostepääsky,rostgumpsvala,Red-rumped Swallow,Cecropis daurica,3
+BRARUF,punakaulahanhi,rödhalsad gås,Red-breasted Goose,Branta ruficollis,3
+TADFER,ruostesorsa,rostand,Ruddy Shelduck,Tadorna ferruginea,2
+LANSEN,punapäälepinkäinen,rödhuvad törnskata,Woodchat Shrike,Lanius senator,1
+RALAQU,luhtakana,vattenrall,Water Rail,Rallus aquaticus,15
+OENPLE,nunnatasku,nunnestenskvätta,Pied Wheatear,Oenanthe pleschanka,1
+CIRMAC,arosuohaukka,stäpphök,Pallid Harrier,Circus macrourus,36
+EMBAUR,kultasirkku,gyllensparv,Yellow-breasted Bunting,Emberiza aureola,1
+PLEFAL,pronssi-iibis,bronsibis,Glossy Ibis,Plegadis falcinellus,2
+MOTCIT,sitruunavästäräkki,citronärla,Citrine Wagtail,Motacilla citreola,9
+XENCIN,rantakurvi,tereksnäppa,Terek Sandpiper,Xenus cinereus,5
+PASROS,punakottarainen,rosenstare,Rosy Starling,Pastor roseus,3
+PHAFUL,isovesipääsky,brednäbbad simsnäppa,Red Phalarope,Phalaropus fulicarius,2
+ALLALL,pikkuruokki,alkekung,Little Auk,Alle alle,5
+SAXOLA,mustapäätasku,svarthakad buskskvätta,European Stonechat,Saxicola rubicola,2
+URIAAL,etelänkiisla,sillgrissla,Common Murre,Uria aalge,15
+PHYSCH,siperianuunilintu,videsångare,Radde's Warbler,Phylloscopus schwarzi,2
+CALBRA,lyhytvarvaskiuru,korttålärka,Greater Short-toed Lark,Calandrella brachydactyla,15
+BUBSCA,tunturipöllö,fjälluggla,Snowy Owl,Bubo scandiacus,22
+CALMAR,merisirri,skärsnäppa,Purple Sandpiper,Calidris maritima,15
+PHYBON,vuoriuunilintu,bergsångare,Western Bonelli's Warbler,Phylloscopus bonelli,10
+PHACOL,fasaani,fasan,Common Pheasant,Phasianus colchicus,11
+PRUMON,taigarautiainen,sibirisk järnsparv,Siberian Accentor,Prunella montanella,7
+ANSERY,kiljuhanhi,fjällgås,Lesser White-fronted Goose,Anser erythropus,1
+SAXMAU,sepeltasku,vitgumpad buskskvätta,Siberian Stonechat,Saxicola maurus,6
+GAVIMM,amerikanjääkuikka,svartnäbbad islom,Great Northern Loon,Gavia immer,4
+AQUNIP,arokotka,stäppörn,Steppe Eagle,Aquila nipalensis,3
+PHYHUM,kashmirinuunilintu,bergtajgasångare,Hume's Leaf Warbler,Phylloscopus humei,4
+APUPAL,vaaleakiitäjä,blek tornseglare,Pallid Swift,Apus pallidus,1
+MELPER,pilkkaniska,vitnackad svärta,Surf Scoter,Melanitta perspicillata,1
+SYLNAN,kääpiökerttu,ökensångare,Asian Desert Warbler ,Sylvia nana,1
+EGRALB,jalohaikara,ägretthäger,Great Egret,Egretta alba,22
+BUTRUF,arohiirihaukka,örnvråk,Long-legged Buzzard,Buteo rufinus,2
+IDUCAL,pikkukultarinta,stäppsångare,Booted Warbler,Iduna caligata,5
+SYLCAN,rusorintakerttu,rödstrupig sångare,Subalpine Warbler,Sylvia cantillans,4
+TRISTA,lampiviklo,dammsnäppa,Marsh Sandpiper,Tringa stagnatilis,3
+CLAGLA,harakkakäki,skatgök,Great Spotted Cuckoo,Clamator glandarius,1
+REGIGN,tulipäähippiäinen,brandkronad kungsfågel,Common Firecrest,Regulus ignicapilla,1
+STESKU,isokihu,storlabb,Great Skua,Stercorarius skua,2
+TURATR,mustakaularastas,svarthalsad trast,Black-throated Thrush,Turdus atrogularis,2
+FICSP,kirjosieppolaji,Ficedula (släktet),Unidentified Flycatcher,Ficedula sp,1
+ACRAGR,kenttäkerttunen,fältsångare,Paddyfield Warbler,Acrocephalus agricola,2
+PRUATR,mustakurkkurautiainen,svartstrupig järnsparv,Black-throated Accentor,Prunella atrogularis,1
+ANTHOD,taigakirvinen,sibirisk piplärka,Olive-backed Pipit,Anthus hodgsoni,1
+AQUCLA/AQUPOM/AQUNIP,kiljukotka / pikkukiljukotka / arokotka,större skrikörn / mindre skrikörn / stäppörn,Unidentified Spotted Eagle / Steppe Eagle,Aquila clanga / Aquila pomarina / Aquila pomarina,1
+AYTCOL,amerikantukkasotka,ringand,Ring-necked Duck,Aythya collaris,4
+MELDEG,kyhmypilkkasiipi,knölsvärta,White-winged Scoter,Melanitta deglandi,6
+CALSP,sirrilaji,Calidris (släktet),Unidentified Calidris sandpiper,Calidris sp,1
+HIRRUSXDELURB ,haarapääsky X räystäspääsky,ladusvala X hussvala,Barn Swallow x House Martin,Hirundo rustica X Delichon urbicum,1
+MILMIL,isohaarahaukka,röd glada,Red Kite,Milvus milvus,1
+POEPAL,viitatiainen,entita,Marsh Tit,Poecile palustris,5
+LARCAC,aroharmaalokki,kaspisk trut,Caspian Gull,Larus cachinnans,1
