@@ -28,6 +28,7 @@ if ($handle) {
 print_r (json_encode($taxa));
 
 // Output CSV
+/*
 foreach ($taxa as $abbr => $data) {
     echo $data['names'][4] . ",";
     echo $data['names'][0] . ",";
@@ -38,6 +39,7 @@ foreach ($taxa as $abbr => $data) {
     echo $data['count'];
     echo "\n";
 }
+*/
 
 // ---------------------------------------------------------------------------
 

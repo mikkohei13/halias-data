@@ -1,399 +1,399 @@
-Species_Abb,FIN_name,SWE_name,ENG_name,Sci_name,Record_count
-PARMAJ,talitiainen,talgoxe,Great Tit,Parus major,10020
-TETRIX,teeri,orre,Black Grouse,Tetrao tetrix,580
-LARCAN,kalalokki,fiskmås,Mew Gull,Larus canus,9619
-LARARG,harmaalokki,gråtrut,European Herring Gull,Larus argentatus,9906
-LARMAR,merilokki,havstrut,Great Black-backed Gull,Larus marinus,9913
-CORNIX,varis,kråka,Hooded Crow,Corvus corone,9700
-CORRAX,korppi,korp,Northern Raven,Corvus corax,8255
-PL,pikkulintu,ob. småfågel,Unidentified Songbird,PL (pikkulintu),2372
-ALAARV,kiuru,sånglärka,Eurasian Skylark,Alauda arvensis,3352
-TURMER,mustarastas,koltrast,Common Blackbird,Turdus merula,7458
-CORMON,naakka,kaja,Western Jackdaw,Corvus monedula,2889
-CORFRU,mustavaris,råka,Rook,Corvus frugilegus,1043
-CARCHL,viherpeippo,grönfink,European Greenfinch,Carduelis chloris,9147
-CARMEA,urpiainen,gråsiska,Common Redpoll,Carduelis flammea,4578
-EMBSCH,pajusirkku,sävsparv,Common Reed Bunting,Emberiza schoeniclus,3403
-ACCNIS,varpushaukka,sparvhök,Eurasian Sparrowhawk,Accipiter nisus,5064
-PICPIC,harakka,skata,Common Magpie,Pica pica,1250
-ICOR,korppi / varis / mustavaris,korp / kråka / råka,Unidentified Large Crow,magnus Corvus,269
-CARSPI,vihervarpunen,grönsiska,Eurasian Siskin,Carduelis spinus,7626
-LOXCUR/LOXPYT,pikkukäpylintu / isokäpylintu,mindre korsnäbb / större korsnäbb,Common / Parrot Crossbill,Loxia curvirostra / Loxia pytyopsittacus,3197
-MERMER,isokoskelo,storskrake,Common Merganser,Mergus merganser,9911
-FALTIN,tuulihaukka,tornfalk,Common Kestrel,Falco tinnunculus,2455
-COLOEN,uuttukyyhky,skogsduva,Stock Dove,Columba oenas,2566
-COLPAL,sepelkyyhky,ringduva,Common Wood Pigeon,Columba palumbus,4428
-COLSP,kyyhkylaji (Columba),Columba (släktet),Unidentified Columba Dove,Columba sp,644
-DENMIN,pikkutikka,mindre hackspett,Lesser Spotted Woodpecker,Dendrocopos minor,1971
-TURPIL,räkättirastas,björktrast,Fieldfare,Turdus pilaris,7468
-BUTSP,hiirihaukkalaji,Buteo (släktet),Unidentified Buteo buzzard,Buteo sp,335
-VANVAN,töyhtöhyyppä,tofsvipa,Northern Lapwing,Vanellus vanellus,2161
-TURPHI,laulurastas,taltrast,Song Thrush,Turdus philomelos,4382
-TURVIS,kulorastas,dubbeltrast,Mistle Thrush,Turdus viscivorus,2314
-TURSP,rastaslaji (Turdus),Turdus (släktet),Unidentified Thrush,Turdus sp,124
-PLENIV,pulmunen,snösparv,Snow Bunting,Plectrophenax nivalis,873
-CYGOLO,kyhmyjoutsen,knölsvan,Mute Swan,Cygnus olor,8920
-ANSANS,merihanhi,grågås,Greylag Goose,Anser anser,4175
-BUTBUT,hiirihaukka,ormvråk,Common Buzzard,Buteo buteo,1796
-PRUMOD,rautiainen,järnsparv,Dunnock,Prunella modularis,3689
-REGREG,hippiäinen,kungsfågel,Goldcrest,Regulus regulus,5153
-CYACAE,sinitiainen,blåmes,Eurasian Blue Tit,Cyanistes caeruleus,9418
-STUVUL,kottarainen,stare,Common Starling,Sturnus vulgaris,6066
-PASDOM,varpunen,gråsparv,House Sparrow,Passer domesticus,902
-CARCAN,hemppo,hämpling,Common Linnet,Carduelis cannabina,4146
-PYRPYR,punatulkku,domherre,Eurasian Bullfinch,Pyrrhula pyrrhula,3008
-EMBCIT,keltasirkku,gulsparv,Yellowhammer,Emberiza citrinella,4399
-ANAPLA,sinisorsa,gräsand,Mallard,Anas platyrhynchos,9544
-CLAHYE,alli,alfågel,Long-tailed Duck,Clangula hyemalis,5474
-BUCCLA,telkkä,knipa,Common Goldeneye,Bucephala clangula,9175
-GRUGRU,kurki,trana,Common Crane,Grus grus,1975
-LARRID,naurulokki,skrattmås,Black-headed Gull,Larus ridibundus,8207
-LULARB,kangaskiuru,trädlärka,Woodlark,Lullula arborea,1690
-ANTPRA,niittykirvinen,ängspiplärka,Meadow Pipit,Anthus pratensis,6482
-MOTALB,västäräkki,sädesärla,White Wagtail,Motacilla alba,6598
-ITUR,iso rastas,stor trast,Unidentified Large Thrush,magnus Turdus,633
-CERFAM,puukiipijä,trädkrypare,Eurasian Treecreeper,Certhia familiaris,4391
-FRICOE,peippo,bofink,Common Chaffinch,Fringilla coelebs,7913
-ANS/BRA,hanhilaji,ob. gås,Unidentified Goose,Anser / Branta,1068
-V,vesilintu,sjöfågel,Waterfowl,Anatidae sp,1541
-ILAR,selkälokki / harmaalokki / isolokki / merilokki,ob. trut,Unidentified Large Gull,magnus Larus,1311
-ANSSP,harmaahanhilaji,Anser (släktet),Unidentified Anser goose,Anser sp,702
-SOMMOL,haahka,ejder,Common Eider,Somateria mollissima,8596
-ERIRUB,punarinta,rödhake,European Robin,Erithacus rubecula,5659
-FRIMON,järripeippo,bergfink,Brambling,Fringilla montifringilla,3593
-CARCAR,tikli,steglits,European Goldfinch,Carduelis carduelis,2452
-CYGCYG,laulujoutsen,sångsvan,Whooper Swan,Cygnus cygnus,3685
-CYGSP,joutsenlaji,Cygnus (släktet),Unidentified Swan,Cygnus sp,596
-AYTFER,punasotka,brunand,Common Pochard,Aythya ferina,507
-KK,keskikokoinen kahlaaja,medelstor vadare,Unidentified Middle size wader,KK (Keskikokoinen kahlaaja),441
-LARFUS,selkälokki,silltrut,Lesser Black-backed Gull,Larus fuscus,3806
-ASIFLA,suopöllö,jorduggla,Short-eared Owl,Asio flammeus,499
-ANACRE,tavi,kricka,Eurasian Teal,Anas crecca,4351
-MERSER,tukkakoskelo,småskrake,Red-breasted Merganser,Mergus serrator,6586
-MERSER/MERMER,tukkakoskelo / isokoskelo,småskrake / storskrake,Red-breasted Merganser / Goosander,Mergus serrator / Mergus merganser,655
-IP,iso päiväpetolintu,stor dagrovfågel,Unidentified Large Raptor,magnus Accipitriformes,545
-FULATR,nokikana,sothöna,Eurasian Coot,Fulica atra,163
-HAEOST,meriharakka,strandskata,Eurasian Oystercatcher,Haematopus ostralegus,4811
-PLUAPR,kapustarinta,ljungpipare,European Golden Plover,Pluvialis apricaria,1398
-CHAHIA,tylli,större strandpipare,Common Ringed Plover,Charadrius hiaticula,5214
-NUMSP,kuovilaji,Numenius (släktet),Unidentified Numenius,Numenius sp,358
-ASIOTU,sarvipöllö,hornuggla,Long-eared Owl,Asio otus,686
-ANTPET,luotokirvinen,skärpiplärka,Eurasian Rock Pipit,Anthus petrosus,686
-BOMGAR,tilhi,sidensvans,Bohemian Waxwing,Bombycilla garrulus,2335
-TURILI,punakylkirastas,rödvingetrast,Redwing,Turdus iliacus,4257
-PTUR,pieni rastas,liten trast,Unidentified Small Thrush,parvus Turdus,574
-IV,iso vesilintu,stor sjöfågel,Unidentified Large waterfowl,magnus Anatidae,230
-PHACAR,merimetso,storskarv,Great Cormorant,Phalacrocorax carbo,6525
-BUTLAG,piekana,fjällvråk,Rough-legged Buzzard,Buteo lagopus,1033
-PER/BUT,mehiläishaukka / hiirihaukkalaji,ob. vråk,Unidentified buzzard,Pernis / Buteo,733
-TRIOCH,metsäviklo,skogssnäppa,Green Sandpiper,Tringa ochropus,1503
-SCORUS,lehtokurppa,morkulla,Eurasian Woodcock,Scolopax rusticola,1950
-LARSP,lokkilaji,Larus (släktet),Unidentified Gull,Larus sp,390
-PICCAN,harmaapäätikka,gråspett,Grey-headed Woodpecker,Picus canus,217
-TADTAD,ristisorsa,gravand,Common Shelduck,Tadorna tadorna,2238
-ANAPEN,haapana,bläsand,Eurasian Wigeon,Anas penelope,5061
-ANAACU,jouhisorsa,stjärtand,Northern Pintail,Anas acuta,2444
-ANASP,sorsalaji,Anas (släktet),Anas duck species,Anas sp,365
-AYTFUL,tukkasotka,vigg,Tufted Duck,Aythya fuligula,6894
-PANHAL,sääksi,fiskgjuse,Osprey,Pandion haliaetus,1254
-NUMARQ,kuovi,storspov,Eurasian Curlew,Numenius arquata,2315
-TRITOT,punajalkaviklo,rödbena,Common Redshank,Tringa totanus,3332
-HYDCAS,räyskä,skräntärna,Caspian Tern,Hydroprogne caspia,2040
-LARHYP,isolokki,vittrut,Glaucous Gull,Larus hyperboreus,42
-OENOEN,kivitasku,stenskvätta,Northern Wheatear,Oenanthe oenanthe,3338
-LANEXC,isolepinkäinen,varfågel,Great Grey Shrike,Lanius excubitor,791
-HALALB,merikotka,havsörn,White-tailed Eagle,Haliaeetus albicilla,5416
-CIRCYA,sinisuohaukka,blå kärrhök,Northern Harrier,Circus cyaneus,1467
-GALGAL,taivaanvuohi,enkelbeckasin,Common Snipe,Gallinago gallinago,2352
-ANSFAB,metsähanhi,sädgås,Bean Goose,Anser fabalis,536
-MERALB,uivelo,salskrake,Smew,Mergellus albellus,983
-ACCGEN,kanahaukka,duvhök,Northern Goshawk,Accipiter gentilis,2057
-FALCOL,ampuhaukka,stenfalk,Merlin,Falco columbarius,1537
-PP,pieni päiväpetolintu,liten dagrovfågel,Unidentified Small Raptor,parvus Accipitriformes,176
-TROTRO,peukaloinen,gärdsmyg,Winter Wren,Troglodytes troglodytes,3016
-PODCRI,silkkiuikku,skäggdopping,Great Crested Grebe,Podiceps cristatus,3121
-BOM/STU,tilhi / kottarainen,sidensvans / stare,Waxwing / Starling,Bombycilla / Sturnus,115
-AYTFUL/AYTMAR,tukkasotka / lapasotka,vigg / bergand,Tufted Duck/Greater Scaup,Aythya fuligula / Aythya marila,422
-IK,iso kahlaaja,stor vadare,Unidentified large wader,IK (iso kahlaaja),915
-AEGFUN,helmipöllö,pärluggla,Boreal Owl,Aegolius funereus,603
-FRISP,peippolaji,Fringilla (släktet),Chaffinch / Brambling,Fringilla sp,128
-PV,pieni vesilintu,liten sjöfågel,Unidentified Small waterfowl,parvus Anatidae,344
-GAVARC,kuikka,storlom,Black-throated Loon,Gavia arctica,3406
-GAVSP,kuikkalaji,Gavia (släktet),Diver species,Gavia sp,4128
-K,kahlaaja,ob. vadare,Unidentified wader,K (kahlaaja),313
-STECUS,merikihu,kustlabb,Parasitic Jaeger,Stercorarius parasiticus,2632
-CALLAP,lapinsirkku,lappsparv,Lapland Longspur,Calcarius lapponicus,614
-MELNIG,mustalintu,sjöorre,Common Scoter,Melanitta nigra,2378
-CYA/PAR/PER/LOP/POE,tiaislaji,ob. mes / tita,Unidentified Tit species,Cyanistes / Parus / Periparus / Lophophanes / Poecile,317
-CALALP,suosirri,kärrsnäppa,Dunlin,Calidris alpina,2729
-STEHIR/STEAEA,kalatiira / lapintiira,fisktärna / silvertärna,Common / Arctic Tern,Sterna hirundo / Sterna paradisaea,3097
-STRALU,lehtopöllö,kattuggla,Tawny Owl,Strix aluco,205
-PHYCOL,tiltaltti,gransångare,Common Chiffchaff,Phylloscopus collybita,1915
-ANACLY,lapasorsa,skedand,Northern Shoveler,Anas clypeata,3015
-CIRAER,ruskosuohaukka,brun kärrhök,Western Marsh Harrier,Circus aeruginosus,927
-TRINEB,valkoviklo,gluttsnäppa,Common Greenshank,Tringa nebularia,3285
-ANTTRI,metsäkirvinen,trädpiplärka,Tree Pipit,Anthus trivialis,4473
-BRALEU,valkoposkihanhi,vitkindad gås,Barnacle Goose,Branta leucopsis,2083
-ANASTR,harmaasorsa,snatterand,Gadwall,Anas strepera,686
-GAVSTE,kaakkuri,smålom,Red-throated Loon,Gavia stellata,2956
-CHADUB,pikkutylli,mindre strandpipare,Little Ringed Plover,Charadrius dubius,1018
-STEHIR,kalatiira,fisktärna,Common Tern,Sterna hirundo,3534
-JYNTOR,käenpiika,göktyta,Eurasian Wryneck,Jynx torquilla,1083
-FICHYP,kirjosieppo,svartvit flugsnappare,European Pied Flycatcher,Ficedula hypoleuca,2282
-SOMSPE,kyhmyhaahka,praktejder,King Eider,Somateria spectabilis,98
-MELFUS,pilkkasiipi,svärta,Velvet Scoter,Melanitta fusca,4525
-AYTMAR,lapasotka,bergand,Greater Scaup,Aythya marila,1308
-PODGRI,härkälintu,gråhakedopping,Red-necked Grebe,Podiceps grisegena,770
-CEPGRY,riskilä,tobisgrissla,Black Guillemot,Cepphus grylle,1245
-ANTSP,kirvislaji,Anthus (släktet),Unidentified Pipit,Anthus sp,141
-PHYSP,uunilintulaji,Phylloscopus (släktet),Unidentified Phylloscopus warbler,Phylloscopus sp,563
-ANAQUE,heinätavi,årta,Garganey,Anas querquedula,258
-POLSTE,allihaahka,alförrädare,Steller's Eider,Polysticta stelleri,154
-AREINT,karikukko,roskarl,Ruddy Turnstone,Arenaria interpres,916
-ALCTOR,ruokki,tordmule,Razorbill,Alca torda,779
-HYDMIN,pikkulokki,dvärgmås,Little Gull,Hydrocoloeus minutus,778
-ASISP,sarvipöllölaji,Asio (släktet),Long-/Short-eared Owl,Asio sp,212
-PODAUR,mustakurkku-uikku,svarthakedopping,Horned Grebe,Podiceps auritus,212
-STERCSP,kihulaji,Stercorarius (släktet),Unidentified Skua,Stercorarius sp,415
-STEAEA,lapintiira,silvertärna,Arctic Tern,Sterna paradisaea,2845
-RECAVO,avosetti,skärfläcka,Pied Avocet,Recurvirostra avosetta,37
-TRIERY,mustaviklo,svartsnäppa,Spotted Redshank,Tringa erythropus,1512
-ACTHYP,rantasipi,drillsnäppa,Common Sandpiper,Actitis hypoleucos,3574
-SAXTRA,pensastasku,buskskvätta,Whinchat,Saxicola rubetra,1448
-PERPER,peltopyy,rapphöna,Grey Partridge,Perdix perdix,6
-NUMPHA,pikkukuovi,småspov,Whimbrel,Numenius phaeopus,1029
-TRIGLA,liro,grönbena,Wood Sandpiper,Tringa glareola,2289
-ACRSCH,ruokokerttunen,sävsångare,Sedge Warbler,Acrocephalus schoenobaenus,885
-SERSER,keltahemppo,gulhämpling,European Serin,Serinus serinus,70
-EMBHOR,peltosirkku,ortolansparv,Ortolan Bunting,Emberiza hortulana,520
-PERAPI,mehiläishaukka,bivråk,European Honey Buzzard,Pernis apivorus,1009
-RIP/HIR/DEL,pääsky,ob. svala,Unidentified Swallow / Martin,Riparia / Hirundo / Delichon,1128
-ARDCIN,harmaahaikara,gråhäger,Grey Heron,Ardea cinerea,4028
-CALPUG,suokukko,brushane,Ruff,Calidris pugnax,2142
-COLLIV,kesykyyhky,tamduva,Common Pigeon,Columba livia,1376
-RIPRIP,törmäpääsky,backsvala,Sand Martin,Riparia riparia,1571
-HIRRUS,haarapääsky,ladusvala,Barn Swallow,Hirundo rustica,5270
-DELURB,räystäspääsky,hussvala,Common House Martin,Delichon urbicum,3898
-PHYLUS,pajulintu,lövsångare,Willow Warbler,Phylloscopus trochilus,4880
-AEGCAU,pyrstötiainen,stjärtmes,Long-tailed Tit,Aegithalos caudatus,1167
-EMBRUS/EMBPUS/EMBAUR,pohjansirkku / pikkusirkku / kultasirkku,videsparv / dvärgsparv / gyllensparv,Rustic / Little / Yellow-breasted Bunting,Emberiza rustica / Emberiza pusilla / Emberiza aureola,119
-FALSUB,nuolihaukka,lärkfalk,Eurasian Hobby,Falco subbuteo,2049
-COCCOC,nokkavarpunen,stenknäck,Hawfinch,Coccothraustes coccothraustes,859
-LIMLAP,punakuiri,myrspov,Bar-tailed Godwit,Limosa lapponica,991
-PHOPHO,leppälintu,rödstjärt,Common Redstart,Phoenicurus phoenicurus,1635
-SYLCUR,hernekerttu,ärtsångare,Lesser Whitethroat,Sylvia curruca,4078
-LANCOL,pikkulepinkäinen,törnskata,Red-backed Shrike,Lanius collurio,2187
-STRDEC,turkinkyyhky,turkduva,Eurasian Collared Dove,Streptopelia decaocto,121
-STRTUR,turturikyyhky,turturduva,European Turtle Dove,Streptopelia turtur,108
-MOTFLA,keltavästäräkki,gulärla,Yellow Wagtail,Motacilla flava,2599
-SYLATR,mustapääkerttu,svarthätta,Eurasian Blackcap,Sylvia atricapilla,2422
-CAPEUR,kehrääjä,nattskärra,European Nightjar,Caprimulgus europaeus,135
-LUSLUS,satakieli,näktergal,Thrush Nightingale,Luscinia luscinia,2421
-PK,pieni kahlaaja,liten vadare,Unidentified small wader,PK (pieni kahlaaja),1296
-STREPSP,turturikyyhkylaji,Streptopelia (släktet),Unidentified Streptopelia dove,Streptopelia sp,25
-PHYSIB,sirittäjä,grönsångare,Wood Warbler,Phylloscopus sibilatrix,1077
-V/K,vesilintu / kahlaaja,sjöfågel / vadare,Unidentified waterfowl / wader,V / K (vesilintu / kahlaaja),42
-CUCCAN,käki,gök,Common Cuckoo,Cuculus canorus,1034
-LOXCUR,pikkukäpylintu,mindre korsnäbb,Red Crossbill,Loxia curvirostra,1867
-CALCAN,isosirri,kustsnäppa,Red Knot,Calidris canutus,903
-CALTEM,lapinsirri,mosnäppa,Temminck's Stint,Calidris temminckii,460
-LUSSVE,sinirinta,blåhake,Bluethroat,Luscinia svecica,421
-TURTOR,sepelrastas,ringtrast,Ring Ouzel,Turdus torquatus,51
-SYLNIS,kirjokerttu,höksångare,Barred Warbler,Sylvia nisoria,460
-SYLCOM,pensaskerttu,törnsångare,Common Whitethroat,Sylvia communis,3287
-MUSSTR,harmaasieppo,grå flugsnappare,Spotted Flycatcher,Muscicapa striata,3608
-CARERY,punavarpunen,rosenfink,Common Rosefinch,Carpodacus erythrinus,2309
-MELSP,mustalintulaji,Melanitta (släktet),Unidentified Scoter,Melanitta sp,23
-APUAPU,tervapääsky,tornseglare,Common Swift,Apus apus,3193
-BRABER,sepelhanhi,prutgås,Brant Goose,Branta bernicla,882
-PLUSQU,tundrakurmitsa,kustpipare,Grey Plover,Pluvialis squatarola,1769
-ANTCER,lapinkirvinen,rödstrupig piplärka,Red-throated Pipit,Anthus cervinus,637
-SYLBOR,lehtokerttu,trädgårdssångare,Garden Warbler,Sylvia borin,2746
-FICPAR,pikkusieppo,mindre flugsnappare,Red-breasted Flycatcher,Ficedula parva,568
-ORIORI,kuhankeittäjä,sommargylling,Eurasian Golden Oriole,Oriolus oriolus,109
-CICCIC,kattohaikara,vit stork,White Stork,Ciconia ciconia,21
-ALC/URI,ruokki / kiislalaji,ob. alka,Razorbill / Unidentified Murre,Alca / Uria,240
-PHYDES,idänuunilintu,lundsångare,Greenish Warbler,Phylloscopus trochiloides,139
-GALMED,heinäkurppa,dubbelbeckasin,Great Snipe,Gallinago media,41
-LOCNAE,pensassirkkalintu,gräshoppsångare,Common Grasshopper Warbler,Locustella naevia,56
-HIPICT,kultarinta,härmsångare,Icterine Warbler,Hippolais icterina,2239
-ACRSCI,rytikerttunen,rörsångare,Eurasian Reed Warbler,Acrocephalus scirpaceus,1004
-PFAL,pieni jalohaukka,liten falk,Unidentified Small Falcon,parvus Falco,349
-FICALB,sepelsieppo,halsbandsflugsnappare,Collared Flycatcher,Ficedula albicollis,12
-ACRDUM/ACRRIS/ACRSCI,viitakerttunen / luhtakerttunen / rytikerttunen,busksångare / kärrsångare / rörsångare,Unidentified Reed Warbler,Acrocephalus dumetorum / Acrocephalus palustris / Acrocephalus scirpaceus,19
-STESAN,riuttatiira,kentsk tärna,Sandwich Tern,Sterna sandvicensis,56
-LOXPYT,isokäpylintu,större korsnäbb,Parrot Crossbill,Loxia pytyopsittacus,921
-CIRCYA/CIRMAC/CIRPYG,sinisuohaukka / arosuohaukka / niittysuohaukka,blå kärrhök / stäpphök / ängshök,Pallied / Montagu's Harrier,Circus cyaneus / Circus macrourus / Circus pygargus,184
-PLUSP,kurmitsalaji,Pluvialis (släktet),Unidentified Pluvialis plover,Pluvialis sp,127
-ACRRIS,luhtakerttunen,kärrsångare,Marsh Warbler,Acrocephalus palustris,628
-PHALOB,vesipääsky,smalnäbbad simsnäppa,Red-necked Phalarope,Phalaropus lobatus,148
-CALFER,kuovisirri,spovsnäppa,Curlew Sandpiper,Calidris ferruginea,497
-LOPCRI,töyhtötiainen,tofsmes,European Crested Tit,Lophophanes cristatus,2808
-CHLNIG,mustatiira,svarttärna,Black Tern,Chlidonias niger,20
-BRACAN,kanadanhanhi,kanadagås,Canada Goose,Branta canadensis,647
-PORPOR,luhtahuitti,småfläckig sumphöna,Spotted Crake,Porzana porzana,14
-POEMON,hömötiainen,talltita,Willow Tit,Poecile montanus,2634
-DRYMAR,palokärki,spillkråka,Black Woodpecker,Dryocopus martius,2149
-LOXLEU,kirjosiipikäpylintu,bändelkorsnäbb,Two-barred Crossbill,Loxia leucoptera,360
-DENMAJ,käpytikka,större hackspett,Great Spotted Woodpecker,Dendrocopos major,2879
-NUCCAR,pähkinähakki,nötkråka,Spotted Nutcracker,Nucifraga caryocatactes,1556
-PERATE,kuusitiainen,svartmes,Coal Tit,Periparus ater,2459
-CALALB,pulmussirri,sandlöpare,Sanderling,Calidris alba,119
-KT,keskikokoinen tikka,medelstor hackspett,Unidentified Middle-sized Woodpecker,medium Picidae,134
-CALFAL,jänkäsirriäinen,myrsnäppa,Broad-billed Sandpiper,Calidris falcinellus,154
-CALUTA,pikkusirri,småsnäppa,Little Stint,Calidris minuta,369
-GAVIMM/GAVADA,amerikanjääkuikka / jääkuikka,svartnäbbad islom / vitnäbbad islom,Great Northern / Yellow-billed Diver,Gavia immer / Gavia adamsii,17
-LYMMIN,jänkäkurppa,dvärgbeckasin,Jack Snipe,Lymnocryptes minimus,312
-AQUCLA/AQUPOM,kiljukotka / pikkukiljukotka,större skrikörn / mindre skrikörn,Unidentified Spotted Eagle,Aquila clanga / Aquila pomarina,10
-EMBRUS,pohjansirkku,videsparv,Rustic Bunting,Emberiza rustica,123
-GARGLA,närhi,nötskrika,Eurasian Jay,Garrulus glandarius,628
-GLAPAS,varpuspöllö,sparvuggla,Eurasian Pygmy Owl,Glaucidium passerinum,289
-TACRUF,pikku-uikku,smådopping,Little Grebe,Tachybaptus ruficollis,38
-ANSALB,tundrahanhi,bläsgås,Greater White-fronted Goose,Anser albifrons,233
-AQUCHR,maakotka,kungsörn,Golden Eagle,Aquila chrysaetos,197
-BUBBUB,huuhkaja,berguv,Eurasian Eagle Owl,Bubo bubo,270
-PICTRI,pohjantikka,tretåig hackspett,Three-toed Woodpecker,Picoides tridactylus,249
-POECIN,lapintiainen,lappmes,Grey-headed Chickadee,Poecile cinctus,50
-EREALP,tunturikiuru,berglärka,Horned Lark,Eremophila alpestris,50
-PINENU,taviokuurna,tallbit,Pine Grosbeak,Pinicola enucleator,103
-SURULU,hiiripöllö,hökuggla,Northern Hawk Owl,Surnia ulula,44
-TETURO,metso,tjäder,Western Capercaillie,Tetrao urogallus,11
-CARHOR,tundraurpiainen,snösiska,Arctic Redpoll,Carduelis hornemanni,63
-PODCRI/PODGRI,silkkiuikku / härkälintu,skäggdopping / gråhakedopping,Great Crested / Red-necked Grebe,Podiceps cristatus / Podiceps grisegena,7
-PODAUR/PODNIG,mustakurkku-uikku / mustakaulauikku,svarthakedopping / svarthalsad dopping,Slavonian / Black-necked Grebe,Podiceps auritus / Podiceps nigricollis,3
-RISTRI,pikkukajava,tretåig mås,Black-legged Kittiwake,Rissa tridactyla,135
-LIMLIM,mustapyrstökuiri,rödspov,Black-tailed Godwit,Limosa limosa,42
-UPUEPO,harjalintu,härfågel,Hoopoe,Upupa epops,9
-EMBCAL,harmaasirkku,kornsparv,Corn Bunting,Emberiza calandra,9
-PHOOCH,mustaleppälintu,svart rödstjärt,Black Redstart,Phoenicurus ochruros,91
-ACRDUM,viitakerttunen,busksångare,Blyth's Reed Warbler,Acrocephalus dumetorum,215
-ANTRIC/ANTGOD/ANTCAM,isokirvinen / mongoliankirvinen / nummikirvinen,större piplärka / mongolpiplärka / fältpiplärka,Richard's / Blyth's / Tawny Pipit,Anthus richardi / Anthus godlewskii / Anthus campestris,4
-ANTCAM,nummikirvinen,fältpiplärka,Tawny Pipit,Anthus campestris,15
-CRECRE,ruisrääkkä,kornknarr,Corn Crake,Crex crex,25
-PASMON,pikkuvarpunen,pilfink,Eurasian Tree Sparrow,Passer montanus,825
-PHYINO,taigauunilintu,tajgasångare,Yellow-browed Warbler,Phylloscopus inornatus,59
-CHAMOR,keräkurmitsa,fjällpipare,Eurasian Dotterel,Charadrius morinellus,8
-ANTRIC,isokirvinen,större piplärka,Richard's Pipit,Anthus richardi,45
-AQUCLA,kiljukotka,större skrikörn,Greater Spotted Eagle,Aquila clanga,14
-TUREUN,ruostesiipirastas,bruntrast,Dusky Thrush,Turdus eunomus,1
-EMBPUS,pikkusirkku,dvärgsparv,Little Bunting,Emberiza pusilla,19
-PPL,pieni pikkulintu,liten småfågel,Unidentified Small Songbird,PPL (pieni pikkulintu),1
-CYGCOL,pikkujoutsen,mindre sångsvan,Tundra Swan,Cygnus columbianus,156
-CARRIS,vuorihemppo,vinterhämpling,Twite,Carduelis flavirostris,82
-CIRSP,suohaukkalaji,Circus (släktet),Unidentified Harrier species,Circus sp,5
-MILMIG,haarahaukka,brun glada,Black Kite,Milvus migrans,66
-MOTCIN,virtavästäräkki,forsärla,Grey Wagtail,Motacilla cinerea,54
-LOCFLU,viitasirkkalintu,flodsångare,River Warbler,Locustella fluviatilis,23
-FALVES,punajalkahaukka,aftonfalk,Red-footed Falcon,Falco vespertinus,27
-PHYBOR,lapinuunilintu,nordsångare,Arctic Warbler,Phylloscopus borealis,1
-SITEUR,pähkinänakkeli,nötväcka,Eurasian Nuthatch,Sitta europaea,256
-PHYPRO,hippiäisuunilintu,kungsfågelsångare,Pallas's Leaf Warbler,Phylloscopus proregulus,46
-DENLEU,valkoselkätikka,vitryggig hackspett,White-backed Woodpecker,Dendrocopos leucotos,124
-STEPOM,leveäpyrstökihu,bredstjärtad labb,Pomarine Skua,Stercorarius pomarinus,49
-FALPER,muuttohaukka,pilgrimsfalk,Peregrine Falcon,Falco peregrinus,559
-TETBON,pyy,järpe,Hazel Grouse,Tetrastes bonasia,13
-ANSBRA,lyhytnokkahanhi,spetsbergsgås,Pink-footed Goose,Anser brachyrhynchus,13
-HAL/AQU,kotkalaji,ob. örn,Unidentified Eagle,Haliaetus / Aquila,14
-CINCIN,koskikara,strömstare,White-throated Dipper,Cinclus cinclus,36
-ALCATT,kuningaskalastaja,kungsfiskare,Common Kingfisher,Alcedo atthis,3
-FALRUS,tunturihaukka,jaktfalk,Gyrfalcon,Falco rusticolus,9
-STRNEB,lapinpöllö,lappuggla,Great Grey Owl,Strix nebulosa,3
-IFAL,iso jalohaukka,stor falk,Unidentified Large Falcon,magnus Falco,6
-ACRARU,rastaskerttunen,trastsångare,Great Reed Warbler,Acrocephalus arundinaceus,6
-GALCHL,liejukana,rörhöna,Common Moorhen,Gallinula chloropus,4
-AQUSP,kotkalaji (Aquila),Aquila (släktet),Unidentified Aquila,Aquila sp,4
-BOTSTE,kaulushaikara,rördrom,Eurasian Bittern,Botaurus stellaris,30
-COTCOT,viiriäinen,vaktel,Common Quail,Coturnix coturnix,4
-STELON,tunturikihu,fjällabb,Long-tailed Jaeger,Stercorarius longicaudus,20
-STERNSP,tiiralaji (Sterna),Sterna (släktet),Unidentified Tern,Sterna sp,1
-PODSP,uikkulaji,Podiceps (släktet),Unidentified Grebe species,Podiceps sp,3
-IPL,iso pikkulintu,stor småfågel,Unidentified Large Songbird,IPL (iso pikkulintu),3
-GAVADA,jääkuikka,vitnäbbad islom,Yellow-billed Loon,Gavia adamsii,23
-FALSP,jalohaukkalaji,Falco (släktet),Unidentified Falcon,Falco sp,7
-MOTSP,västäräkkilaji,Motacilla (släktet),Unidentified Wagtail,Motacilla sp,13
-GALSP,taivaanvuohilaji,Gallinago (släktet),Unidentified Snipe,Gallinago sp,2
-PHYFUS,ruskouunilintu,brunsångare,Dusky Warbler,Phylloscopus fuscatus,8
-REMPEN,pussitiainen,pungmes,Eurasian Penduline Tit,Remiz pendulinus,24
-CORONEONE,nokivaris,kråka (rasen corone),Carrion Crow,Corvus corone corone,8
-MERAPI,mehiläissyöjä,biätare,European Bee-eater,Merops apiaster,18
-ANSCAE,lumihanhi,snögås,Snow Goose,Anser caerulescens,2
-AQUPOM,pikkukiljukotka,mindre skrikörn,Lesser Spotted Eagle,Aquila pomarina,4
-CIRMAC/CIRPYG,arosuohaukka / niittysuohaukka,stäpphök / ängshök,Hen / Pallied / Montagu's Harrier,Circus macrourus / Circus pygargus,43
-CORSP,varislaji,Corvus (släktet),Unidentified Crow,Corvus sp,5
-KPL,keskikokoinen pikkulintu,medelstor småfågel,Unidentified Middle-sized Songbird,KPL (keskikokoinen pikkulintu),3
-PLAR,pikkulokki / pikkukajava / naurulokki / kalalokki,ob. mås,Unidentified Small Gull,parvus Laridae,6
-IL,iso lintu,stor fågel,Large bird,magnus Aves,5
-STEALB,pikkutiira,småtärna,Little Tern,Sternula albifrons,14
-GELNIL/STESAN,hietatiira / riuttatiira,sandtärna / kentsk tärna,Sandwich / Gull-billed Tern,Gelochelidon nilotica / Sterna sandvicensis,2
-CHASP,tyllilaji,Charadrius (släktet),Unidentified Charadrius plover,Charadrius sp,3
-LANMIN,mustaotsalepinkäinen,svartpannad törnskata,Lesser Grey Shrike,Lanius minor,2
-ACCSP,varpushaukkalaji,Accipiter (släktet),Unidentified Accipiter hawk,Accipiter sp,6
-STRURA,viirupöllö,slaguggla,Ural Owl,Strix uralensis,40
-CICNIG,mustahaikara,svart stork,Black Stork,Ciconia nigra,11
-LOXSP,käpylintulaji,Loxia (släktet),Unidentified Crossbill,Loxia sp,2
-PHAAXSP,merimetsolaji,Phalacrocorax (släktet),Unidentified Cormorant species,Phalacrocorax sp,2
-LUSMEG,etelänsatakieli,sydnäktergal,Common Nightingale,Luscinia megarhynchos,7
-EMBELE,kultatöyhtösirkku,praktsparv,Yellow-throated Bunting,Emberiza elegans,1
-OENSP,kivitaskulaji,Oenanthe (släktet),Unidentified Wheatear,Oenanthe sp,1
-CIRPYG,niittysuohaukka,ängshök,Montagu's Harrier,Circus pygargus,12
-PERATEXPOEMON,kuusitiainen x hömötiainen,svartmes x talltita,Willow x Coal Tit,Periparus ater x Poecile montanus,1
-ANTRIC/ANTGOD,isokirvinen / mongoliankirvinen,större piplärka / mongolpiplärka,Richard's / Blyth's Pipit,Anthus richardi / Anthus godlewskii,2
-ANS/BRA/PHA,hanhi / merimetso,gås / skarv,Unidentified Goose or cormorant species,Anserini / Phalacrocorax,3
-CIRGAL,käärmekotka,ormörn,Short-toed Eagle,Circaetus gallicus,1
-PANBIA,viiksitimali,skäggmes,Bearded Reedling,Panurus biarmicus,43
-LARGLA/LARHYP,grönlanninlokki / isolokki,vitvingad trut / vittrut,Iceland / Glaugous Gull,Larus glaucoides / Larus hyperboreus,1
-AIXGAL,mandariinisorsa,mandarinand,Mandarin Duck,Aix galericulata,3
-POEMONxPOECIN,hömötiainen X lapintiainen,talltita X lappmes,Willow x Siberian Tit,Poecile montanus X Poecile cinctus,3
-CARSP,tiklilaji,Carduelis (släktet),Unidentified Carduelis species,Carduelis sp,1
-CECDAU,ruostepääsky,rostgumpsvala,Red-rumped Swallow,Cecropis daurica,3
-BRARUF,punakaulahanhi,rödhalsad gås,Red-breasted Goose,Branta ruficollis,3
-TADFER,ruostesorsa,rostand,Ruddy Shelduck,Tadorna ferruginea,2
-LANSEN,punapäälepinkäinen,rödhuvad törnskata,Woodchat Shrike,Lanius senator,1
-RALAQU,luhtakana,vattenrall,Water Rail,Rallus aquaticus,15
-OENPLE,nunnatasku,nunnestenskvätta,Pied Wheatear,Oenanthe pleschanka,1
-CIRMAC,arosuohaukka,stäpphök,Pallid Harrier,Circus macrourus,36
-EMBAUR,kultasirkku,gyllensparv,Yellow-breasted Bunting,Emberiza aureola,1
-PLEFAL,pronssi-iibis,bronsibis,Glossy Ibis,Plegadis falcinellus,2
-MOTCIT,sitruunavästäräkki,citronärla,Citrine Wagtail,Motacilla citreola,9
-XENCIN,rantakurvi,tereksnäppa,Terek Sandpiper,Xenus cinereus,5
-PASROS,punakottarainen,rosenstare,Rosy Starling,Pastor roseus,3
-PHAFUL,isovesipääsky,brednäbbad simsnäppa,Red Phalarope,Phalaropus fulicarius,2
-ALLALL,pikkuruokki,alkekung,Little Auk,Alle alle,5
-SAXOLA,mustapäätasku,svarthakad buskskvätta,European Stonechat,Saxicola rubicola,2
-URIAAL,etelänkiisla,sillgrissla,Common Murre,Uria aalge,15
-PHYSCH,siperianuunilintu,videsångare,Radde's Warbler,Phylloscopus schwarzi,2
-CALBRA,lyhytvarvaskiuru,korttålärka,Greater Short-toed Lark,Calandrella brachydactyla,15
-BUBSCA,tunturipöllö,fjälluggla,Snowy Owl,Bubo scandiacus,22
-CALMAR,merisirri,skärsnäppa,Purple Sandpiper,Calidris maritima,15
-PHYBON,vuoriuunilintu,bergsångare,Western Bonelli's Warbler,Phylloscopus bonelli,10
-PHACOL,fasaani,fasan,Common Pheasant,Phasianus colchicus,11
-PRUMON,taigarautiainen,sibirisk järnsparv,Siberian Accentor,Prunella montanella,7
-ANSERY,kiljuhanhi,fjällgås,Lesser White-fronted Goose,Anser erythropus,1
-SAXMAU,sepeltasku,vitgumpad buskskvätta,Siberian Stonechat,Saxicola maurus,6
-GAVIMM,amerikanjääkuikka,svartnäbbad islom,Great Northern Loon,Gavia immer,4
-AQUNIP,arokotka,stäppörn,Steppe Eagle,Aquila nipalensis,3
-PHYHUM,kashmirinuunilintu,bergtajgasångare,Hume's Leaf Warbler,Phylloscopus humei,4
-APUPAL,vaaleakiitäjä,blek tornseglare,Pallid Swift,Apus pallidus,1
-MELPER,pilkkaniska,vitnackad svärta,Surf Scoter,Melanitta perspicillata,1
-SYLNAN,kääpiökerttu,ökensångare,Asian Desert Warbler ,Sylvia nana,1
-EGRALB,jalohaikara,ägretthäger,Great Egret,Egretta alba,22
-BUTRUF,arohiirihaukka,örnvråk,Long-legged Buzzard,Buteo rufinus,2
-IDUCAL,pikkukultarinta,stäppsångare,Booted Warbler,Iduna caligata,5
-SYLCAN,rusorintakerttu,rödstrupig sångare,Subalpine Warbler,Sylvia cantillans,4
-TRISTA,lampiviklo,dammsnäppa,Marsh Sandpiper,Tringa stagnatilis,3
-CLAGLA,harakkakäki,skatgök,Great Spotted Cuckoo,Clamator glandarius,1
-REGIGN,tulipäähippiäinen,brandkronad kungsfågel,Common Firecrest,Regulus ignicapilla,1
-STESKU,isokihu,storlabb,Great Skua,Stercorarius skua,2
-TURATR,mustakaularastas,svarthalsad trast,Black-throated Thrush,Turdus atrogularis,2
-FICSP,kirjosieppolaji,Ficedula (släktet),Unidentified Flycatcher,Ficedula sp,1
-ACRAGR,kenttäkerttunen,fältsångare,Paddyfield Warbler,Acrocephalus agricola,2
-PRUATR,mustakurkkurautiainen,svartstrupig järnsparv,Black-throated Accentor,Prunella atrogularis,1
-ANTHOD,taigakirvinen,sibirisk piplärka,Olive-backed Pipit,Anthus hodgsoni,1
-AQUCLA/AQUPOM/AQUNIP,kiljukotka / pikkukiljukotka / arokotka,större skrikörn / mindre skrikörn / stäppörn,Unidentified Spotted Eagle / Steppe Eagle,Aquila clanga / Aquila pomarina / Aquila pomarina,1
-AYTCOL,amerikantukkasotka,ringand,Ring-necked Duck,Aythya collaris,4
-MELDEG,kyhmypilkkasiipi,knölsvärta,White-winged Scoter,Melanitta deglandi,6
-CALSP,sirrilaji,Calidris (släktet),Unidentified Calidris sandpiper,Calidris sp,1
-HIRRUSXDELURB ,haarapääsky X räystäspääsky,ladusvala X hussvala,Barn Swallow x House Martin,Hirundo rustica X Delichon urbicum,1
-MILMIL,isohaarahaukka,röd glada,Red Kite,Milvus milvus,1
-POEPAL,viitatiainen,entita,Marsh Tit,Poecile palustris,5
-LARCAC,aroharmaalokki,kaspisk trut,Caspian Gull,Larus cachinnans,1
+Species_Abb,FIN_name,SWE_name,ENG_name,Sci_name,Species_code,1
+PARMAJ,talitiainen,talgoxe,Great Tit,Parus major,754,10020
+TETRIX,teeri,orre,Black Grouse,Tetrao tetrix,143,580
+LARCAN,kalalokki,fiskmås,Mew Gull,Larus canus,438,9619
+LARARG,harmaalokki,gråtrut,European Herring Gull,Larus argentatus,449,9906
+LARMAR,merilokki,havstrut,Great Black-backed Gull,Larus marinus,463,9913
+CORNIX,varis,kråka,Hooded Crow,Corvus corone,797,9700
+CORRAX,korppi,korp,Northern Raven,Corvus corax,800,8255
+PL,pikkulintu,ob. småfågel,Unidentified Songbird,PL (pikkulintu),879,2372
+ALAARV,kiuru,sånglärka,Eurasian Skylark,Alauda arvensis,553,3352
+TURMER,mustarastas,koltrast,Common Blackbird,Turdus merula,654,7458
+CORMON,naakka,kaja,Western Jackdaw,Corvus monedula,794,2889
+CORFRU,mustavaris,råka,Rook,Corvus frugilegus,796,1043
+CARCHL,viherpeippo,grönfink,European Greenfinch,Carduelis chloris,820,9147
+CARMEA,urpiainen,gråsiska,Common Redpoll,Carduelis flammea,825,4578
+EMBSCH,pajusirkku,sävsparv,Common Reed Bunting,Emberiza schoeniclus,863,3403
+ACCNIS,varpushaukka,sparvhök,Eurasian Sparrowhawk,Accipiter nisus,237,5064
+PICPIC,harakka,skata,Common Magpie,Pica pica,790,1250
+ICOR,korppi / varis / mustavaris,korp / kråka / råka,Unidentified Large Crow,magnus Corvus,802,269
+CARSPI,vihervarpunen,grönsiska,Eurasian Siskin,Carduelis spinus,822,7626
+LOXCUR/LOXPYT,pikkukäpylintu / isokäpylintu,mindre korsnäbb / större korsnäbb,Common / Parrot Crossbill,Loxia curvirostra / Loxia pytyopsittacus,835,3197
+MERMER,isokoskelo,storskrake,Common Merganser,Mergus merganser,122,9911
+FALTIN,tuulihaukka,tornfalk,Common Kestrel,Falco tinnunculus,261,2455
+COLOEN,uuttukyyhky,skogsduva,Stock Dove,Columba oenas,471,2566
+COLPAL,sepelkyyhky,ringduva,Common Wood Pigeon,Columba palumbus,472,4428
+COLSP,kyyhkylaji (Columba),Columba (släktet),Unidentified Columba Dove,Columba sp,473,644
+DENMIN,pikkutikka,mindre hackspett,Lesser Spotted Woodpecker,Dendrocopos minor,535,1971
+TURPIL,räkättirastas,björktrast,Fieldfare,Turdus pilaris,662,7468
+BUTSP,hiirihaukkalaji,Buteo (släktet),Unidentified Buteo buzzard,Buteo sp,244,335
+VANVAN,töyhtöhyyppä,tofsvipa,Northern Lapwing,Vanellus vanellus,312,2161
+TURPHI,laulurastas,taltrast,Song Thrush,Turdus philomelos,663,4382
+TURVIS,kulorastas,dubbeltrast,Mistle Thrush,Turdus viscivorus,665,2314
+TURSP,rastaslaji (Turdus),Turdus (släktet),Unidentified Thrush,Turdus sp,666,124
+PLENIV,pulmunen,snösparv,Snow Bunting,Plectrophenax nivalis,850,873
+CYGOLO,kyhmyjoutsen,knölsvan,Mute Swan,Cygnus olor,2,8920
+ANSANS,merihanhi,grågås,Greylag Goose,Anser anser,22,4175
+BUTBUT,hiirihaukka,ormvråk,Common Buzzard,Buteo buteo,239,1796
+PRUMOD,rautiainen,järnsparv,Dunnock,Prunella modularis,603,3689
+REGREG,hippiäinen,kungsfågel,Goldcrest,Regulus regulus,736,5153
+CYACAE,sinitiainen,blåmes,Eurasian Blue Tit,Cyanistes caeruleus,753,9418
+STUVUL,kottarainen,stare,Common Starling,Sturnus vulgaris,803,6066
+PASDOM,varpunen,gråsparv,House Sparrow,Passer domesticus,809,902
+CARCAN,hemppo,hämpling,Common Linnet,Carduelis cannabina,823,4146
+PYRPYR,punatulkku,domherre,Eurasian Bullfinch,Pyrrhula pyrrhula,843,3008
+EMBCIT,keltasirkku,gulsparv,Yellowhammer,Emberiza citrinella,854,4399
+ANAPLA,sinisorsa,gräsand,Mallard,Anas platyrhynchos,71,9544
+CLAHYE,alli,alfågel,Long-tailed Duck,Clangula hyemalis,105,5474
+BUCCLA,telkkä,knipa,Common Goldeneye,Bucephala clangula,117,9175
+GRUGRU,kurki,trana,Common Crane,Grus grus,294,1975
+LARRID,naurulokki,skrattmås,Black-headed Gull,Larus ridibundus,432,8207
+LULARB,kangaskiuru,trädlärka,Woodlark,Lullula arborea,552,1690
+ANTPRA,niittykirvinen,ängspiplärka,Meadow Pipit,Anthus pratensis,576,6482
+MOTALB,västäräkki,sädesärla,White Wagtail,Motacilla alba,593,6598
+ITUR,iso rastas,stor trast,Unidentified Large Thrush,magnus Turdus,667,633
+CERFAM,puukiipijä,trädkrypare,Eurasian Treecreeper,Certhia familiaris,768,4391
+FRICOE,peippo,bofink,Common Chaffinch,Fringilla coelebs,814,7913
+ANS/BRA,hanhilaji,ob. gås,Unidentified Goose,Anser / Branta,47,1068
+V,vesilintu,sjöfågel,Waterfowl,Anatidae sp,130,1541
+ILAR,selkälokki / harmaalokki / isolokki / merilokki,ob. trut,Unidentified Large Gull,magnus Larus,467,1311
+ANSSP,harmaahanhilaji,Anser (släktet),Unidentified Anser goose,Anser sp,33,702
+SOMMOL,haahka,ejder,Common Eider,Somateria mollissima,98,8596
+ERIRUB,punarinta,rödhake,European Robin,Erithacus rubecula,610,5659
+FRIMON,järripeippo,bergfink,Brambling,Fringilla montifringilla,815,3593
+CARCAR,tikli,steglits,European Goldfinch,Carduelis carduelis,821,2452
+CYGCYG,laulujoutsen,sångsvan,Whooper Swan,Cygnus cygnus,6,3685
+CYGSP,joutsenlaji,Cygnus (släktet),Unidentified Swan,Cygnus sp,8,596
+AYTFER,punasotka,brunand,Common Pochard,Aythya ferina,86,507
+KK,keskikokoinen kahlaaja,medelstor vadare,Unidentified Middle size wader,KK (Keskikokoinen kahlaaja),392,441
+LARFUS,selkälokki,silltrut,Lesser Black-backed Gull,Larus fuscus,441,3806
+ASIFLA,suopöllö,jorduggla,Short-eared Owl,Asio flammeus,504,499
+ANACRE,tavi,kricka,Eurasian Teal,Anas crecca,66,4351
+MERSER,tukkakoskelo,småskrake,Red-breasted Merganser,Mergus serrator,121,6586
+MERSER/MERMER,tukkakoskelo / isokoskelo,småskrake / storskrake,Red-breasted Merganser / Goosander,Mergus serrator / Mergus merganser,123,655
+IP,iso päiväpetolintu,stor dagrovfågel,Unidentified Large Raptor,magnus Accipitriformes,276,545
+FULATR,nokikana,sothöna,Eurasian Coot,Fulica atra,291,163
+HAEOST,meriharakka,strandskata,Eurasian Oystercatcher,Haematopus ostralegus,303,4811
+PLUAPR,kapustarinta,ljungpipare,European Golden Plover,Pluvialis apricaria,307,1398
+CHAHIA,tylli,större strandpipare,Common Ringed Plover,Charadrius hiaticula,314,5214
+NUMSP,kuovilaji,Numenius (släktet),Unidentified Numenius,Numenius sp,328,358
+ASIOTU,sarvipöllö,hornuggla,Long-eared Owl,Asio otus,503,686
+ANTPET,luotokirvinen,skärpiplärka,Eurasian Rock Pipit,Anthus petrosus,578,686
+BOMGAR,tilhi,sidensvans,Bohemian Waxwing,Bombycilla garrulus,600,2335
+TURILI,punakylkirastas,rödvingetrast,Redwing,Turdus iliacus,664,4257
+PTUR,pieni rastas,liten trast,Unidentified Small Thrush,parvus Turdus,668,574
+IV,iso vesilintu,stor sjöfågel,Unidentified Large waterfowl,magnus Anatidae,128,230
+PHACAR,merimetso,storskarv,Great Cormorant,Phalacrocorax carbo,176,6525
+BUTLAG,piekana,fjällvråk,Rough-legged Buzzard,Buteo lagopus,243,1033
+PER/BUT,mehiläishaukka / hiirihaukkalaji,ob. vråk,Unidentified buzzard,Pernis / Buteo,245,733
+TRIOCH,metsäviklo,skogssnäppa,Green Sandpiper,Tringa ochropus,367,1503
+SCORUS,lehtokurppa,morkulla,Eurasian Woodcock,Scolopax rusticola,379,1950
+LARSP,lokkilaji,Larus (släktet),Unidentified Gull,Larus sp,465,390
+PICCAN,harmaapäätikka,gråspett,Grey-headed Woodpecker,Picus canus,526,217
+TADTAD,ristisorsa,gravand,Common Shelduck,Tadorna tadorna,51,2238
+ANAPEN,haapana,bläsand,Eurasian Wigeon,Anas penelope,55,5061
+ANAACU,jouhisorsa,stjärtand,Northern Pintail,Anas acuta,75,2444
+ANASP,sorsalaji,Anas (släktet),Anas duck species,Anas sp,83,365
+AYTFUL,tukkasotka,vigg,Tufted Duck,Aythya fuligula,91,6894
+PANHAL,sääksi,fiskgjuse,Osprey,Pandion haliaetus,259,1254
+NUMARQ,kuovi,storspov,Eurasian Curlew,Numenius arquata,327,2315
+TRITOT,punajalkaviklo,rödbena,Common Redshank,Tringa totanus,374,3332
+HYDCAS,räyskä,skräntärna,Caspian Tern,Hydroprogne caspia,413,2040
+LARHYP,isolokki,vittrut,Glaucous Gull,Larus hyperboreus,461,42
+OENOEN,kivitasku,stenskvätta,Northern Wheatear,Oenanthe oenanthe,639,3338
+LANEXC,isolepinkäinen,varfågel,Great Grey Shrike,Lanius excubitor,778,791
+HALALB,merikotka,havsörn,White-tailed Eagle,Haliaeetus albicilla,218,5416
+CIRCYA,sinisuohaukka,blå kärrhök,Northern Harrier,Circus cyaneus,226,1467
+GALGAL,taivaanvuohi,enkelbeckasin,Common Snipe,Gallinago gallinago,380,2352
+ANSFAB,metsähanhi,sädgås,Bean Goose,Anser fabalis,9,536
+MERALB,uivelo,salskrake,Smew,Mergellus albellus,119,983
+ACCGEN,kanahaukka,duvhök,Northern Goshawk,Accipiter gentilis,234,2057
+FALCOL,ampuhaukka,stenfalk,Merlin,Falco columbarius,264,1537
+PP,pieni päiväpetolintu,liten dagrovfågel,Unidentified Small Raptor,parvus Accipitriformes,277,176
+TROTRO,peukaloinen,gärdsmyg,Winter Wren,Troglodytes troglodytes,602,3016
+PODCRI,silkkiuikku,skäggdopping,Great Crested Grebe,Podiceps cristatus,158,3121
+BOM/STU,tilhi / kottarainen,sidensvans / stare,Waxwing / Starling,Bombycilla / Sturnus,806,115
+AYTFUL/AYTMAR,tukkasotka / lapasotka,vigg / bergand,Tufted Duck/Greater Scaup,Aythya fuligula / Aythya marila,94,422
+IK,iso kahlaaja,stor vadare,Unidentified large wader,IK (iso kahlaaja),391,915
+AEGFUN,helmipöllö,pärluggla,Boreal Owl,Aegolius funereus,506,603
+FRISP,peippolaji,Fringilla (släktet),Chaffinch / Brambling,Fringilla sp,816,128
+PV,pieni vesilintu,liten sjöfågel,Unidentified Small waterfowl,parvus Anatidae,129,344
+GAVARC,kuikka,storlom,Black-throated Loon,Gavia arctica,151,3406
+GAVSP,kuikkalaji,Gavia (släktet),Diver species,Gavia sp,156,4128
+K,kahlaaja,ob. vadare,Unidentified wader,K (kahlaaja),396,313
+STECUS,merikihu,kustlabb,Parasitic Jaeger,Stercorarius parasiticus,399,2632
+CALLAP,lapinsirkku,lappsparv,Lapland Longspur,Calcarius lapponicus,849,614
+MELNIG,mustalintu,sjöorre,Common Scoter,Melanitta nigra,106,2378
+CYA/PAR/PER/LOP/POE,tiaislaji,ob. mes / tita,Unidentified Tit species,Cyanistes / Parus / Periparus / Lophophanes / Poecile,763,317
+CALALP,suosirri,kärrsnäppa,Dunlin,Calidris alpina,346,2729
+STEHIR/STEAEA,kalatiira / lapintiira,fisktärna / silvertärna,Common / Arctic Tern,Sterna hirundo / Sterna paradisaea,422,3097
+STRALU,lehtopöllö,kattuggla,Tawny Owl,Strix aluco,498,205
+PHYCOL,tiltaltti,gransångare,Common Chiffchaff,Phylloscopus collybita,727,1915
+ANACLY,lapasorsa,skedand,Northern Shoveler,Anas clypeata,80,3015
+CIRAER,ruskosuohaukka,brun kärrhök,Western Marsh Harrier,Circus aeruginosus,225,927
+TRINEB,valkoviklo,gluttsnäppa,Common Greenshank,Tringa nebularia,369,3285
+ANTTRI,metsäkirvinen,trädpiplärka,Tree Pipit,Anthus trivialis,573,4473
+BRALEU,valkoposkihanhi,vitkindad gås,Barnacle Goose,Branta leucopsis,39,2083
+ANASTR,harmaasorsa,snatterand,Gadwall,Anas strepera,63,686
+GAVSTE,kaakkuri,smålom,Red-throated Loon,Gavia stellata,150,2956
+CHADUB,pikkutylli,mindre strandpipare,Little Ringed Plover,Charadrius dubius,313,1018
+STEHIR,kalatiira,fisktärna,Common Tern,Sterna hirundo,420,3534
+JYNTOR,käenpiika,göktyta,Eurasian Wryneck,Jynx torquilla,525,1083
+FICHYP,kirjosieppo,svartvit flugsnappare,European Pied Flycatcher,Ficedula hypoleuca,744,2282
+SOMSPE,kyhmyhaahka,praktejder,King Eider,Somateria spectabilis,101,98
+MELFUS,pilkkasiipi,svärta,Velvet Scoter,Melanitta fusca,110,4525
+AYTMAR,lapasotka,bergand,Greater Scaup,Aythya marila,93,1308
+PODGRI,härkälintu,gråhakedopping,Red-necked Grebe,Podiceps grisegena,159,770
+CEPGRY,riskilä,tobisgrissla,Black Guillemot,Cepphus grylle,405,1245
+ANTSP,kirvislaji,Anthus (släktet),Unidentified Pipit,Anthus sp,580,141
+PHYSP,uunilintulaji,Phylloscopus (släktet),Unidentified Phylloscopus warbler,Phylloscopus sp,735,563
+ANAQUE,heinätavi,årta,Garganey,Anas querquedula,76,258
+POLSTE,allihaahka,alförrädare,Steller's Eider,Polysticta stelleri,103,154
+AREINT,karikukko,roskarl,Ruddy Turnstone,Arenaria interpres,334,916
+ALCTOR,ruokki,tordmule,Razorbill,Alca torda,406,779
+HYDMIN,pikkulokki,dvärgmås,Little Gull,Hydrocoloeus minutus,425,778
+ASISP,sarvipöllölaji,Asio (släktet),Long-/Short-eared Owl,Asio sp,505,212
+PODAUR,mustakurkku-uikku,svarthakedopping,Horned Grebe,Podiceps auritus,161,212
+STERCSP,kihulaji,Stercorarius (släktet),Unidentified Skua,Stercorarius sp,403,415
+STEAEA,lapintiira,silvertärna,Arctic Tern,Sterna paradisaea,421,2845
+RECAVO,avosetti,skärfläcka,Pied Avocet,Recurvirostra avosetta,302,37
+TRIERY,mustaviklo,svartsnäppa,Spotted Redshank,Tringa erythropus,368,1512
+ACTHYP,rantasipi,drillsnäppa,Common Sandpiper,Actitis hypoleucos,364,3574
+SAXTRA,pensastasku,buskskvätta,Whinchat,Saxicola rubetra,628,1448
+PERPER,peltopyy,rapphöna,Grey Partridge,Perdix perdix,147,6
+NUMPHA,pikkukuovi,småspov,Whimbrel,Numenius phaeopus,326,1029
+TRIGLA,liro,grönbena,Wood Sandpiper,Tringa glareola,373,2289
+ACRSCH,ruokokerttunen,sävsångare,Sedge Warbler,Acrocephalus schoenobaenus,687,885
+SERSER,keltahemppo,gulhämpling,European Serin,Serinus serinus,817,70
+EMBHOR,peltosirkku,ortolansparv,Ortolan Bunting,Emberiza hortulana,855,520
+PERAPI,mehiläishaukka,bivråk,European Honey Buzzard,Pernis apivorus,211,1009
+RIP/HIR/DEL,pääsky,ob. svala,Unidentified Swallow / Martin,Riparia / Hirundo / Delichon,566,1128
+ARDCIN,harmaahaikara,gråhäger,Grey Heron,Ardea cinerea,196,4028
+CALPUG,suokukko,brushane,Ruff,Calidris pugnax,336,2142
+COLLIV,kesykyyhky,tamduva,Common Pigeon,Columba livia,470,1376
+RIPRIP,törmäpääsky,backsvala,Sand Martin,Riparia riparia,556,1571
+HIRRUS,haarapääsky,ladusvala,Barn Swallow,Hirundo rustica,558,5270
+DELURB,räystäspääsky,hussvala,Common House Martin,Delichon urbicum,561,3898
+PHYLUS,pajulintu,lövsångare,Willow Warbler,Phylloscopus trochilus,733,4880
+AEGCAU,pyrstötiainen,stjärtmes,Long-tailed Tit,Aegithalos caudatus,748,1167
+EMBRUS/EMBPUS/EMBAUR,pohjansirkku / pikkusirkku / kultasirkku,videsparv / dvärgsparv / gyllensparv,Rustic / Little / Yellow-breasted Bunting,Emberiza rustica / Emberiza pusilla / Emberiza aureola,862,119
+FALSUB,nuolihaukka,lärkfalk,Eurasian Hobby,Falco subbuteo,265,2049
+COCCOC,nokkavarpunen,stenknäck,Hawfinch,Coccothraustes coccothraustes,844,859
+LIMLAP,punakuiri,myrspov,Bar-tailed Godwit,Limosa lapponica,331,991
+PHOPHO,leppälintu,rödstjärt,Common Redstart,Phoenicurus phoenicurus,622,1635
+SYLCUR,hernekerttu,ärtsångare,Lesser Whitethroat,Sylvia curruca,704,4078
+LANCOL,pikkulepinkäinen,törnskata,Red-backed Shrike,Lanius collurio,776,2187
+STRDEC,turkinkyyhky,turkduva,Eurasian Collared Dove,Streptopelia decaocto,475,121
+STRTUR,turturikyyhky,turturduva,European Turtle Dove,Streptopelia turtur,477,108
+MOTFLA,keltavästäräkki,gulärla,Yellow Wagtail,Motacilla flava,581,2599
+SYLATR,mustapääkerttu,svarthätta,Eurasian Blackcap,Sylvia atricapilla,707,2422
+CAPEUR,kehrääjä,nattskärra,European Nightjar,Caprimulgus europaeus,511,135
+LUSLUS,satakieli,näktergal,Thrush Nightingale,Luscinia luscinia,611,2421
+PK,pieni kahlaaja,liten vadare,Unidentified small wader,PK (pieni kahlaaja),393,1296
+STREPSP,turturikyyhkylaji,Streptopelia (släktet),Unidentified Streptopelia dove,Streptopelia sp,482,25
+PHYSIB,sirittäjä,grönsångare,Wood Warbler,Phylloscopus sibilatrix,726,1077
+V/K,vesilintu / kahlaaja,sjöfågel / vadare,Unidentified waterfowl / wader,V / K (vesilintu / kahlaaja),397,42
+CUCCAN,käki,gök,Common Cuckoo,Cuculus canorus,486,1034
+LOXCUR,pikkukäpylintu,mindre korsnäbb,Red Crossbill,Loxia curvirostra,832,1867
+CALCAN,isosirri,kustsnäppa,Red Knot,Calidris canutus,335,903
+CALTEM,lapinsirri,mosnäppa,Temminck's Stint,Calidris temminckii,344,460
+LUSSVE,sinirinta,blåhake,Bluethroat,Luscinia svecica,614,421
+TURTOR,sepelrastas,ringtrast,Ring Ouzel,Turdus torquatus,653,51
+SYLNIS,kirjokerttu,höksångare,Barred Warbler,Sylvia nisoria,703,460
+SYLCOM,pensaskerttu,törnsångare,Common Whitethroat,Sylvia communis,705,3287
+MUSSTR,harmaasieppo,grå flugsnappare,Spotted Flycatcher,Muscicapa striata,738,3608
+CARERY,punavarpunen,rosenfink,Common Rosefinch,Carpodacus erythrinus,839,2309
+MELSP,mustalintulaji,Melanitta (släktet),Unidentified Scoter,Melanitta sp,115,23
+APUAPU,tervapääsky,tornseglare,Common Swift,Apus apus,514,3193
+BRABER,sepelhanhi,prutgås,Brant Goose,Branta bernicla,41,882
+PLUSQU,tundrakurmitsa,kustpipare,Grey Plover,Pluvialis squatarola,308,1769
+ANTCER,lapinkirvinen,rödstrupig piplärka,Red-throated Pipit,Anthus cervinus,577,637
+SYLBOR,lehtokerttu,trädgårdssångare,Garden Warbler,Sylvia borin,706,2746
+FICPAR,pikkusieppo,mindre flugsnappare,Red-breasted Flycatcher,Ficedula parva,740,568
+ORIORI,kuhankeittäjä,sommargylling,Eurasian Golden Oriole,Oriolus oriolus,771,109
+CICCIC,kattohaikara,vit stork,White Stork,Ciconia ciconia,202,21
+ALC/URI,ruokki / kiislalaji,ob. alka,Razorbill / Unidentified Murre,Alca / Uria,410,240
+PHYDES,idänuunilintu,lundsångare,Greenish Warbler,Phylloscopus trochiloides,712,139
+GALMED,heinäkurppa,dubbelbeckasin,Great Snipe,Gallinago media,382,41
+LOCNAE,pensassirkkalintu,gräshoppsångare,Common Grasshopper Warbler,Locustella naevia,671,56
+HIPICT,kultarinta,härmsångare,Icterine Warbler,Hippolais icterina,684,2239
+ACRSCI,rytikerttunen,rörsångare,Eurasian Reed Warbler,Acrocephalus scirpaceus,692,1004
+PFAL,pieni jalohaukka,liten falk,Unidentified Small Falcon,parvus Falco,275,349
+FICALB,sepelsieppo,halsbandsflugsnappare,Collared Flycatcher,Ficedula albicollis,742,12
+ACRDUM/ACRRIS/ACRSCI,viitakerttunen / luhtakerttunen / rytikerttunen,busksångare / kärrsångare / rörsångare,Unidentified Reed Warbler,Acrocephalus dumetorum / Acrocephalus palustris / Acrocephalus scirpaceus,695,19
+STESAN,riuttatiira,kentsk tärna,Sandwich Tern,Sterna sandvicensis,418,56
+LOXPYT,isokäpylintu,större korsnäbb,Parrot Crossbill,Loxia pytyopsittacus,834,921
+CIRCYA/CIRMAC/CIRPYG,sinisuohaukka / arosuohaukka / niittysuohaukka,blå kärrhök / stäpphök / ängshök,Pallied / Montagu's Harrier,Circus cyaneus / Circus macrourus / Circus pygargus,232,184
+PLUSP,kurmitsalaji,Pluvialis (släktet),Unidentified Pluvialis plover,Pluvialis sp,309,127
+ACRRIS,luhtakerttunen,kärrsångare,Marsh Warbler,Acrocephalus palustris,690,628
+PHALOB,vesipääsky,smalnäbbad simsnäppa,Red-necked Phalarope,Phalaropus lobatus,359,148
+CALFER,kuovisirri,spovsnäppa,Curlew Sandpiper,Calidris ferruginea,339,497
+LOPCRI,töyhtötiainen,tofsmes,European Crested Tit,Lophophanes cristatus,757,2808
+CHLNIG,mustatiira,svarttärna,Black Tern,Chlidonias niger,415,20
+BRACAN,kanadanhanhi,kanadagås,Canada Goose,Branta canadensis,34,647
+PORPOR,luhtahuitti,småfläckig sumphöna,Spotted Crake,Porzana porzana,280,14
+POEMON,hömötiainen,talltita,Willow Tit,Poecile montanus,760,2634
+DRYMAR,palokärki,spillkråka,Black Woodpecker,Dryocopus martius,530,2149
+LOXLEU,kirjosiipikäpylintu,bändelkorsnäbb,Two-barred Crossbill,Loxia leucoptera,831,360
+DENMAJ,käpytikka,större hackspett,Great Spotted Woodpecker,Dendrocopos major,531,2879
+NUCCAR,pähkinähakki,nötkråka,Spotted Nutcracker,Nucifraga caryocatactes,791,1556
+PERATE,kuusitiainen,svartmes,Coal Tit,Periparus ater,755,2459
+CALALB,pulmussirri,sandlöpare,Sanderling,Calidris alba,345,119
+KT,keskikokoinen tikka,medelstor hackspett,Unidentified Middle-sized Woodpecker,medium Picidae,539,134
+CALFAL,jänkäsirriäinen,myrsnäppa,Broad-billed Sandpiper,Calidris falcinellus,338,154
+CALUTA,pikkusirri,småsnäppa,Little Stint,Calidris minuta,351,369
+GAVIMM/GAVADA,amerikanjääkuikka / jääkuikka,svartnäbbad islom / vitnäbbad islom,Great Northern / Yellow-billed Diver,Gavia immer / Gavia adamsii,155,17
+LYMMIN,jänkäkurppa,dvärgbeckasin,Jack Snipe,Lymnocryptes minimus,376,312
+AQUCLA/AQUPOM,kiljukotka / pikkukiljukotka,större skrikörn / mindre skrikörn,Unidentified Spotted Eagle,Aquila clanga / Aquila pomarina,249,10
+EMBRUS,pohjansirkku,videsparv,Rustic Bunting,Emberiza rustica,858,123
+GARGLA,närhi,nötskrika,Eurasian Jay,Garrulus glandarius,788,628
+GLAPAS,varpuspöllö,sparvuggla,Eurasian Pygmy Owl,Glaucidium passerinum,496,289
+TACRUF,pikku-uikku,smådopping,Little Grebe,Tachybaptus ruficollis,157,38
+ANSALB,tundrahanhi,bläsgås,Greater White-fronted Goose,Anser albifrons,14,233
+AQUCHR,maakotka,kungsörn,Golden Eagle,Aquila chrysaetos,251,197
+BUBBUB,huuhkaja,berguv,Eurasian Eagle Owl,Bubo bubo,493,270
+PICTRI,pohjantikka,tretåig hackspett,Three-toed Woodpecker,Picoides tridactylus,538,249
+POECIN,lapintiainen,lappmes,Grey-headed Chickadee,Poecile cinctus,762,50
+EREALP,tunturikiuru,berglärka,Horned Lark,Eremophila alpestris,555,50
+PINENU,taviokuurna,tallbit,Pine Grosbeak,Pinicola enucleator,841,103
+SURULU,hiiripöllö,hökuggla,Northern Hawk Owl,Surnia ulula,495,44
+TETURO,metso,tjäder,Western Capercaillie,Tetrao urogallus,145,11
+CARHOR,tundraurpiainen,snösiska,Arctic Redpoll,Carduelis hornemanni,828,63
+PODCRI/PODGRI,silkkiuikku / härkälintu,skäggdopping / gråhakedopping,Great Crested / Red-necked Grebe,Podiceps cristatus / Podiceps grisegena,160,7
+PODAUR/PODNIG,mustakurkku-uikku / mustakaulauikku,svarthakedopping / svarthalsad dopping,Slavonian / Black-necked Grebe,Podiceps auritus / Podiceps nigricollis,163,3
+RISTRI,pikkukajava,tretåig mås,Black-legged Kittiwake,Rissa tridactyla,429,135
+LIMLIM,mustapyrstökuiri,rödspov,Black-tailed Godwit,Limosa limosa,329,42
+UPUEPO,harjalintu,härfågel,Hoopoe,Upupa epops,524,9
+EMBCAL,harmaasirkku,kornsparv,Corn Bunting,Emberiza calandra,867,9
+PHOOCH,mustaleppälintu,svart rödstjärt,Black Redstart,Phoenicurus ochruros,620,91
+ACRDUM,viitakerttunen,busksångare,Blyth's Reed Warbler,Acrocephalus dumetorum,689,215
+ANTRIC/ANTGOD/ANTCAM,isokirvinen / mongoliankirvinen / nummikirvinen,större piplärka / mongolpiplärka / fältpiplärka,Richard's / Blyth's / Tawny Pipit,Anthus richardi / Anthus godlewskii / Anthus campestris,571,4
+ANTCAM,nummikirvinen,fältpiplärka,Tawny Pipit,Anthus campestris,570,15
+CRECRE,ruisrääkkä,kornknarr,Corn Crake,Crex crex,287,25
+PASMON,pikkuvarpunen,pilfink,Eurasian Tree Sparrow,Passer montanus,812,825
+PHYINO,taigauunilintu,tajgasångare,Yellow-browed Warbler,Phylloscopus inornatus,716,59
+CHAMOR,keräkurmitsa,fjällpipare,Eurasian Dotterel,Charadrius morinellus,322,8
+ANTRIC,isokirvinen,större piplärka,Richard's Pipit,Anthus richardi,567,45
+AQUCLA,kiljukotka,större skrikörn,Greater Spotted Eagle,Aquila clanga,246,14
+TUREUN,ruostesiipirastas,bruntrast,Dusky Thrush,Turdus eunomus,657,1
+EMBPUS,pikkusirkku,dvärgsparv,Little Bunting,Emberiza pusilla,859,19
+PPL,pieni pikkulintu,liten småfågel,Unidentified Small Songbird,PPL (pieni pikkulintu),876,1
+CYGCOL,pikkujoutsen,mindre sångsvan,Tundra Swan,Cygnus columbianus,3,156
+CARRIS,vuorihemppo,vinterhämpling,Twite,Carduelis flavirostris,824,82
+CIRSP,suohaukkalaji,Circus (släktet),Unidentified Harrier species,Circus sp,233,5
+MILMIG,haarahaukka,brun glada,Black Kite,Milvus migrans,213,66
+MOTCIN,virtavästäräkki,forsärla,Grey Wagtail,Motacilla cinerea,592,54
+LOCFLU,viitasirkkalintu,flodsångare,River Warbler,Locustella fluviatilis,673,23
+FALVES,punajalkahaukka,aftonfalk,Red-footed Falcon,Falco vespertinus,263,27
+PHYBOR,lapinuunilintu,nordsångare,Arctic Warbler,Phylloscopus borealis,714,1
+SITEUR,pähkinänakkeli,nötväcka,Eurasian Nuthatch,Sitta europaea,765,256
+PHYPRO,hippiäisuunilintu,kungsfågelsångare,Pallas's Leaf Warbler,Phylloscopus proregulus,715,46
+DENLEU,valkoselkätikka,vitryggig hackspett,White-backed Woodpecker,Dendrocopos leucotos,534,124
+STEPOM,leveäpyrstökihu,bredstjärtad labb,Pomarine Skua,Stercorarius pomarinus,398,49
+FALPER,muuttohaukka,pilgrimsfalk,Peregrine Falcon,Falco peregrinus,270,559
+TETBON,pyy,järpe,Hazel Grouse,Tetrastes bonasia,137,13
+ANSBRA,lyhytnokkahanhi,spetsbergsgås,Pink-footed Goose,Anser brachyrhynchus,13,13
+HAL/AQU,kotkalaji,ob. örn,Unidentified Eagle,Haliaetus / Aquila,258,14
+CINCIN,koskikara,strömstare,White-throated Dipper,Cinclus cinclus,601,36
+ALCATT,kuningaskalastaja,kungsfiskare,Common Kingfisher,Alcedo atthis,519,3
+FALRUS,tunturihaukka,jaktfalk,Gyrfalcon,Falco rusticolus,269,9
+STRNEB,lapinpöllö,lappuggla,Great Grey Owl,Strix nebulosa,500,3
+IFAL,iso jalohaukka,stor falk,Unidentified Large Falcon,magnus Falco,274,6
+ACRARU,rastaskerttunen,trastsångare,Great Reed Warbler,Acrocephalus arundinaceus,696,6
+GALCHL,liejukana,rörhöna,Common Moorhen,Gallinula chloropus,288,4
+AQUSP,kotkalaji (Aquila),Aquila (släktet),Unidentified Aquila,Aquila sp,257,4
+BOTSTE,kaulushaikara,rördrom,Eurasian Bittern,Botaurus stellaris,184,30
+COTCOT,viiriäinen,vaktel,Common Quail,Coturnix coturnix,133,4
+STELON,tunturikihu,fjällabb,Long-tailed Jaeger,Stercorarius longicaudus,401,20
+STERNSP,tiiralaji (Sterna),Sterna (släktet),Unidentified Tern,Sterna sp,423,1
+PODSP,uikkulaji,Podiceps (släktet),Unidentified Grebe species,Podiceps sp,164,3
+IPL,iso pikkulintu,stor småfågel,Unidentified Large Songbird,IPL (iso pikkulintu),874,3
+GAVADA,jääkuikka,vitnäbbad islom,Yellow-billed Loon,Gavia adamsii,154,23
+FALSP,jalohaukkalaji,Falco (släktet),Unidentified Falcon,Falco sp,273,7
+MOTSP,västäräkkilaji,Motacilla (släktet),Unidentified Wagtail,Motacilla sp,598,13
+GALSP,taivaanvuohilaji,Gallinago (släktet),Unidentified Snipe,Gallinago sp,384,2
+PHYFUS,ruskouunilintu,brunsångare,Dusky Warbler,Phylloscopus fuscatus,721,8
+REMPEN,pussitiainen,pungmes,Eurasian Penduline Tit,Remiz pendulinus,770,24
+CORONEONE,nokivaris,kråka (rasen corone),Carrion Crow,Corvus corone corone,798,8
+MERAPI,mehiläissyöjä,biätare,European Bee-eater,Merops apiaster,520,18
+ANSCAE,lumihanhi,snögås,Snow Goose,Anser caerulescens,27,2
+AQUPOM,pikkukiljukotka,mindre skrikörn,Lesser Spotted Eagle,Aquila pomarina,248,4
+CIRMAC/CIRPYG,arosuohaukka / niittysuohaukka,stäpphök / ängshök,Hen / Pallied / Montagu's Harrier,Circus macrourus / Circus pygargus,231,43
+CORSP,varislaji,Corvus (släktet),Unidentified Crow,Corvus sp,801,5
+KPL,keskikokoinen pikkulintu,medelstor småfågel,Unidentified Middle-sized Songbird,KPL (keskikokoinen pikkulintu),875,3
+PLAR,pikkulokki / pikkukajava / naurulokki / kalalokki,ob. mås,Unidentified Small Gull,parvus Laridae,468,6
+IL,iso lintu,stor fågel,Large bird,magnus Aves,880,5
+STEALB,pikkutiira,småtärna,Little Tern,Sternula albifrons,411,14
+GELNIL/STESAN,hietatiira / riuttatiira,sandtärna / kentsk tärna,Sandwich / Gull-billed Tern,Gelochelidon nilotica / Sterna sandvicensis,419,2
+CHASP,tyllilaji,Charadrius (släktet),Unidentified Charadrius plover,Charadrius sp,323,3
+LANMIN,mustaotsalepinkäinen,svartpannad törnskata,Lesser Grey Shrike,Lanius minor,777,2
+ACCSP,varpushaukkalaji,Accipiter (släktet),Unidentified Accipiter hawk,Accipiter sp,238,6
+STRURA,viirupöllö,slaguggla,Ural Owl,Strix uralensis,499,40
+CICNIG,mustahaikara,svart stork,Black Stork,Ciconia nigra,200,11
+LOXSP,käpylintulaji,Loxia (släktet),Unidentified Crossbill,Loxia sp,836,2
+PHAAXSP,merimetsolaji,Phalacrocorax (släktet),Unidentified Cormorant species,Phalacrocorax sp,180,2
+LUSMEG,etelänsatakieli,sydnäktergal,Common Nightingale,Luscinia megarhynchos,612,7
+EMBELE,kultatöyhtösirkku,praktsparv,Yellow-throated Bunting,Emberiza elegans,869,1
+OENSP,kivitaskulaji,Oenanthe (släktet),Unidentified Wheatear,Oenanthe sp,646,1
+CIRPYG,niittysuohaukka,ängshök,Montagu's Harrier,Circus pygargus,230,12
+PERATEXPOEMON,kuusitiainen x hömötiainen,svartmes x talltita,Willow x Coal Tit,Periparus ater x Poecile montanus,756,1
+ANTRIC/ANTGOD,isokirvinen / mongoliankirvinen,större piplärka / mongolpiplärka,Richard's / Blyth's Pipit,Anthus richardi / Anthus godlewskii,569,2
+ANS/BRA/PHA,hanhi / merimetso,gås / skarv,Unidentified Goose or cormorant species,Anserini / Phalacrocorax,181,3
+CIRGAL,käärmekotka,ormörn,Short-toed Eagle,Circaetus gallicus,224,1
+PANBIA,viiksitimali,skäggmes,Bearded Reedling,Panurus biarmicus,747,43
+LARGLA/LARHYP,grönlanninlokki / isolokki,vitvingad trut / vittrut,Iceland / Glaugous Gull,Larus glaucoides / Larus hyperboreus,462,1
+AIXGAL,mandariinisorsa,mandarinand,Mandarin Duck,Aix galericulata,53,3
+POEMONxPOECIN,hömötiainen X lapintiainen,talltita X lappmes,Willow x Siberian Tit,Poecile montanus X Poecile cinctus,761,3
+CARSP,tiklilaji,Carduelis (släktet),Unidentified Carduelis species,Carduelis sp,830,1
+CECDAU,ruostepääsky,rostgumpsvala,Red-rumped Swallow,Cecropis daurica,563,3
+BRARUF,punakaulahanhi,rödhalsad gås,Red-breasted Goose,Branta ruficollis,45,3
+TADFER,ruostesorsa,rostand,Ruddy Shelduck,Tadorna ferruginea,50,2
+LANSEN,punapäälepinkäinen,rödhuvad törnskata,Woodchat Shrike,Lanius senator,785,1
+RALAQU,luhtakana,vattenrall,Water Rail,Rallus aquaticus,279,15
+OENPLE,nunnatasku,nunnestenskvätta,Pied Wheatear,Oenanthe pleschanka,640,1
+CIRMAC,arosuohaukka,stäpphök,Pallid Harrier,Circus macrourus,228,36
+EMBAUR,kultasirkku,gyllensparv,Yellow-breasted Bunting,Emberiza aureola,861,1
+PLEFAL,pronssi-iibis,bronsibis,Glossy Ibis,Plegadis falcinellus,205,2
+MOTCIT,sitruunavästäräkki,citronärla,Citrine Wagtail,Motacilla citreola,590,9
+XENCIN,rantakurvi,tereksnäppa,Terek Sandpiper,Xenus cinereus,363,5
+PASROS,punakottarainen,rosenstare,Rosy Starling,Pastor roseus,807,3
+PHAFUL,isovesipääsky,brednäbbad simsnäppa,Red Phalarope,Phalaropus fulicarius,360,2
+ALLALL,pikkuruokki,alkekung,Little Auk,Alle alle,407,5
+SAXOLA,mustapäätasku,svarthakad buskskvätta,European Stonechat,Saxicola rubicola,634,2
+URIAAL,etelänkiisla,sillgrissla,Common Murre,Uria aalge,408,15
+PHYSCH,siperianuunilintu,videsångare,Radde's Warbler,Phylloscopus schwarzi,720,2
+CALBRA,lyhytvarvaskiuru,korttålärka,Greater Short-toed Lark,Calandrella brachydactyla,547,15
+BUBSCA,tunturipöllö,fjälluggla,Snowy Owl,Bubo scandiacus,494,22
+CALMAR,merisirri,skärsnäppa,Purple Sandpiper,Calidris maritima,349,15
+PHYBON,vuoriuunilintu,bergsångare,Western Bonelli's Warbler,Phylloscopus bonelli,723,10
+PHACOL,fasaani,fasan,Common Pheasant,Phasianus colchicus,148,11
+PRUMON,taigarautiainen,sibirisk järnsparv,Siberian Accentor,Prunella montanella,604,7
+ANSERY,kiljuhanhi,fjällgås,Lesser White-fronted Goose,Anser erythropus,19,1
+SAXMAU,sepeltasku,vitgumpad buskskvätta,Siberian Stonechat,Saxicola maurus,630,6
+GAVIMM,amerikanjääkuikka,svartnäbbad islom,Great Northern Loon,Gavia immer,153,4
+AQUNIP,arokotka,stäppörn,Steppe Eagle,Aquila nipalensis,252,3
+PHYHUM,kashmirinuunilintu,bergtajgasångare,Hume's Leaf Warbler,Phylloscopus humei,718,4
+APUPAL,vaaleakiitäjä,blek tornseglare,Pallid Swift,Apus pallidus,515,1
+MELPER,pilkkaniska,vitnackad svärta,Surf Scoter,Melanitta perspicillata,109,1
+SYLNAN,kääpiökerttu,ökensångare,Asian Desert Warbler ,Sylvia nana,702,1
+EGRALB,jalohaikara,ägretthäger,Great Egret,Egretta alba,194,22
+BUTRUF,arohiirihaukka,örnvråk,Long-legged Buzzard,Buteo rufinus,242,2
+IDUCAL,pikkukultarinta,stäppsångare,Booted Warbler,Iduna caligata,677,5
+SYLCAN,rusorintakerttu,rödstrupig sångare,Subalpine Warbler,Sylvia cantillans,699,4
+TRISTA,lampiviklo,dammsnäppa,Marsh Sandpiper,Tringa stagnatilis,372,3
+CLAGLA,harakkakäki,skatgök,Great Spotted Cuckoo,Clamator glandarius,485,1
+REGIGN,tulipäähippiäinen,brandkronad kungsfågel,Common Firecrest,Regulus ignicapilla,737,1
+STESKU,isokihu,storlabb,Great Skua,Stercorarius skua,402,2
+TURATR,mustakaularastas,svarthalsad trast,Black-throated Thrush,Turdus atrogularis,659,2
+FICSP,kirjosieppolaji,Ficedula (släktet),Unidentified Flycatcher,Ficedula sp,746,1
+ACRAGR,kenttäkerttunen,fältsångare,Paddyfield Warbler,Acrocephalus agricola,688,2
+PRUATR,mustakurkkurautiainen,svartstrupig järnsparv,Black-throated Accentor,Prunella atrogularis,605,1
+ANTHOD,taigakirvinen,sibirisk piplärka,Olive-backed Pipit,Anthus hodgsoni,572,1
+AQUCLA/AQUPOM/AQUNIP,kiljukotka / pikkukiljukotka / arokotka,större skrikörn / mindre skrikörn / stäppörn,Unidentified Spotted Eagle / Steppe Eagle,Aquila clanga / Aquila pomarina / Aquila pomarina,250,1
+AYTCOL,amerikantukkasotka,ringand,Ring-necked Duck,Aythya collaris,88,4
+MELDEG,kyhmypilkkasiipi,knölsvärta,White-winged Scoter,Melanitta deglandi,112,6
+CALSP,sirrilaji,Calidris (släktet),Unidentified Calidris sandpiper,Calidris sp,357,1
+HIRRUSXDELURB ,haarapääsky X räystäspääsky,ladusvala X hussvala,Barn Swallow x House Martin,Hirundo rustica X Delichon urbicum,562,1
+MILMIL,isohaarahaukka,röd glada,Red Kite,Milvus milvus,215,1
+POEPAL,viitatiainen,entita,Marsh Tit,Poecile palustris,759,5
+LARCAC,aroharmaalokki,kaspisk trut,Caspian Gull,Larus cachinnans,454,1
