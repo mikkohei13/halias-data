@@ -5,3 +5,9 @@ This repository contains long-term bird observation data from Hanko Bird Observa
 
 The data is licensed under **Creative Commons Attribution 4.0 International** (CC BY 4.0) byt the Ornithological Society of Helsinki Tringa. See [LICENSE.md] for details.
 
+## Notes
+
+Convert data from MACINTOSH encoding to UTF8:
+
+    iconv -f MACINTOSH -t UTF8 data.csv > data-utf8.csv
+
