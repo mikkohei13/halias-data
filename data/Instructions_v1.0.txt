@@ -1,0 +1,87 @@
+Long term data from the Hanko Bird Observatory
+
+Instruction to use Hanko Bird Observatory data
+
+Terms of use and data citation
+
+Daily counts of the Hanko Bird Observatory since year 1979 are downloadable. The daily counts include following data types (i) counts of local staging birds, (ii) counts of visual diurnal migration, (iii) standardized visual migration counts, (iv) additional observations outside the core observation area, and (v) counts of night migration. The data is in a zip-file, which can be downloaded under the licence CC BY 4.0.
+
+Please, cite the data as:
+
+Ornithological society of Helsinki Tringa ry (2017) Data of the Hanko Bird Observatory: Day counts (version 1.0). Downloaded from http://www.tringa.fi/hangon-lintuasema/hankodata on <Date-Month-Year>.
+
+The methodology of data collection is described e.g. by Lehikoinen & Vähätalo (2000) and Vähätalo et al. (2004). The data may contain mistakes made during the data entry. The user of data must take full responsibility of data analysis. If you have any questions concerning the use of the data, please, send email to halias@tringa.fi. If the data is used in a publication, please, acknowledge the volunteer birdwatchers, who have collected the data. In addition, please, send a copy of your publication either as a pdf-file via email to halias@tringa.fi or as a hardcopy to the address: Tringa ry, Annankatu 29 A 16, 00100 Helsinki, Finland. The current data version 1.0 includes data from the start of the observatory till 25 Oct 2016. The data will be updated about once a year.
+
+Structure of the data
+
+The data includes three files: i) a short instruction about the data structure and use of the data (the same text as on this web-page), ii) the raw data in csv-file and iii) a short R-code, which helps to visualize seasonal changes in species abundance. You can download R- and R-studio from the following links: https://cran.r-project.org/bin/windows/base/ and https://www.rstudio.com/products/rstudio/download/, respectively.
+
+The raw data file has 15 columns:
+(1) [FIN_name] Finnish name of species or species group (e.g. unidentified diver)
+(2) [SWE_name] Swedish name of species or species group
+(3) [ENG_name] English name of species or species group
+(4) [Sci_name] Scientific name of species or species group
+(5) [Species_Abb] Abbreviation of species or species group (usually 6 letter code)
+(6) [Species_code] Number code of species or species group
+(7) [Date] Date in format date-month-year
+(8) [Day-of-Year] Day of the year starting from first January. 1 Jan = 1, 2 Jan = 2… During leap years 31 Dec = 366, otherwise 365.
+(9) [Year] Year of the observation date.
+(10) [Local] Number of observed local staging birds during the particular date. In pigeons, cockoos, owls, nightjars, swifts, hoopoes, kingfishers, bee-eaters, woodpeckers and passerines the numbers are counts from the core observation area next to the observatory. In other species, waterbirds and birds of prey, numbers are counts from the whole observatory area including e.g. birds observed from the Gåsörsudden bank.
+(11) [Migr] Counts of diurnal migranting birds from the whole day.
+(12) [Stand] Counts of diurnal migranting birds from standardized observation period. The standardized observation period starts from the sunrise and last four hours during 1 April – 1 November, but is otherwise two hours. Note that standardized observation has not been conducted during all observation days and thus zero values do not necessarily mean that standardized counts have been conducted and zero birds have been observed.
+(13) [Additional] Sporadic observations of pigeons, cockoos, owls, nightjars, swifts, hoopoes, kingfishers, bee-eaters, woodpeckers and passerines outside the core observation area. If the species has not been observed from the core area (check column 9 [Local]), but it has been observed in the additional observation area the species numbers are always marked here. Numbers have also been marked when abundance from the additional area are relatively high even if the species has been observed in the core area (migration peaks and rare species). The nature of the values in this column are sporadic and the values should not be used in the analyses without careful consideration.
+(14) [Observed] Especially in the beginning of the observatory history local counts of some common species are missing even if the species is observed. If the local staging birds of the particular species have been observed, but the counts are not available, the column has value TRUE (= observed but no counts). Otherwise the column has value FALSE (observed and count results is given).
+(15) [Night_migr] This column includes sporadic counts of night migrating species, which are poorly standardized. The counts are relevant for e.g. Eurasian Bittern, which is mainly observed during night migration at the observatory.
+ 
+Typical examples of publications, which have used the observatory data in scientific work:
+
+Full publication list of the observatory: http://www.tringa.fi/hangon-lintuasema/julkaisut/
+Lehikoinen, A. 2011: Advanced autumn migration of sparrowhawk has increased the predation risk of long-distance migrants in Finland. — PLoS ONE 6(5): e20001.
+Lehikoinen, A. & Jaatinen, K. 2012: Delayed autumn migration in Northern European waterfowl. — Journal of Ornithology 153: 563–570.
+Lehikoinen, A. & Vähätalo, A. 2000: Phenology of bird migration at the Hanko Bird Observatory, Finland, in 1979-1999. — Tringa 27: 150–227.
+Lindén, A., Meller, K. & Knape, J. 2017: An empirical comparison of models for the phenology of bird migration. — Journal of Avian Biology 48: 255–265.
+Lindén, A., Lehikoinen, A., Hokkanen, T. & Väisänen, R. A. 2011: Modelling irruptions and population dynamics of the great spotted woodpecker – joint effects of density and cone crops. — Oikos 120: 1065–1075.
+Vähätalo, A. V., Rainio, K., Lehikoinen, A. & Lehikoinen, E. 2004: Spring arrival of birds depends on the North Atlantic Oscillation. — Journal of Avian Biology 35: 210–216.
+
+---------------
+
+Ohjeet Haliaksen aineiston käyttöön
+
+Aineiston käyttö ja siihen viittaaminen
+
+Lintuaseman aineistosta on avoimesti ladattavissa päiväkohtaiset lajisummat aseman toiminnan alusta vuonna 1979 lähtien eri havainnointitavoittain: (i) paikalliset, (ii) muuttavat, (iii) vakiohavainnoinnin aikana muuttavat, (iv) lisäalueen paikalliset sekä (v) yömuuttavat. Aineisto on zip-tiedostossa, ja sen voi ladata alla olevasta linkistä lisenssin CC BY mukaisesti (versio 4.0; [LINKKI: https://creativecommons.org/licenses/by/4.0/deed.fi]). Aineistoon tulee viitata seuraavasti: 
+
+Helsingin Seudun Lintutieteellinen Yhdistys Tringa ry (2017) Hangon lintuaseman aineisto: päiväsummat (versio 1.0). Ladattu osoitteesta http://www.tringa.fi/hangon-lintuasema/hankodata <Päivä-Kuukausi-Vuosi>.
+
+Aineistonkeruumenetelmät on kuvattu mm. julkaisussa Lehikoinen & Vähätalo (2000) ja Vähätalo ym. (2004). Aineiston tarjoaja ei ota vastuuta aineiston analysoinnista ja tulkinnasta tai mahdollisista aineistossa olevista tallennusvirheistä. Aineiston käyttöön liittyvissä kysymyksissä ota yhteyttä osoitteeseen halias@tringa.fi. Mikäli aineistosta tuotetaan julkaisu, pyydämme kiittämään siinä satoja vapaaehtoisia lintuharrastajia, jotka ovat keränneet aineiston. Lisäksi pyydämme lähettämään julkaisusta kopion pdf-muodossa em. osoitteeseen tai postitse Tringa ry, Annankatu 29 A 16, 00100 Helsinki. Aineistoversio 1.0 kattaa havainnot 25.10.2016 asti, ja tiedostoa tullaan päivittämään uudella aineistolla noin vuoden välein.
+
+Aineiston sisältö
+
+Aineisto sisältää kolme tiedostoa: i) Lyhyet ohjeet aineiston rakenteesta ja käytöstä (sama kuin tämän sivun teksti), ii) Varsinainen aineistotiedosto csv-muodossa ja iii) R-ohjelman koodi, jolla voi nopeasti visualisoida lajikohtaisia vuodenaikaisia esiintymisiä. Aineistoa voi selailla esimerkiksi excelissä ilman R-ohjelmaa. Ilmaisen R-ohjelman voi ladata osoitteesta https://cran.r-project.org/bin/windows/base/ ja RStudion https://www.rstudio.com/products/rstudio/download/.
+
+Tiedostossa on yhteensä 15 saraketta:
+(1) [FIN_name] Lajin tai lajiryhmän suomenkielinen nimi
+(2) [SWE_name] Lajin tai lajiryhmän ruotsinkielinen nimi
+(3) [ENG_name] Lajin tai lajiryhmän englanninkielinen nimi
+(4) [Sci_name] Lajin tai lajiryhmän tieteellinen nimi
+(5) [Species_Abb] Lajin tai lajiryhmän lyhenne
+(6) [Species_code] Lajin tai lajiryhmän numero
+(7) [Date] Päivämäärä muodossa PÄIVÄ.KUUKAUSI.VUOSI
+(8) [Day-of-Year] Ns. Juliaaninen päivämäärä eli kuinka mones päivä kuluvana vuonna. 1.1. = 1, 2.1. = 2, jne. Karkausvuosina 31.12. = 366, muuten 365.
+(9) [Year] Havaintopäivän vuosiluku.
+(10) [Local] Havaittujen paikallisten lintujen lukumäärä kyseiseltä päivämäärältä. Kyyhkyillä, käillä, pöllöillä, kehrääjillä, kirskujilla, säihkylinnuilla, tikoilla ja varpuslinnuilla määrät tarkoittavat lukumäärää, joka on havaittu niemen kärjessä olevalta ydinalueelta asemarakennuksen lähettyviltä. Muilla lajeilla (vesi- ja rantalinnut, petolinnut) sarakkeen luku kuvaa koko seuranta-alueella havaittujen yksilöiden määrää mukaan lukien Gåsörsuddenilta havaitut linnut.
+(11) [Migr] Koko päivän aikana muutolla havaittujen lintujen lukumäärä poislukien yömuuttajat.
+(12) [Stand] Vakioidulla muutonhavainnointijaksolla havaitut muuttajat. Vakiohavainnointi alkaa auringonnoususta ja kestää 1.4.–1.11. välisenä aikana neljä tuntia, muina aikoina kaksi tuntia. Huomaa, että vakiota ei ole suoritettu kaikkina havaintopäivinä, joten nolla-arvo ei välttämättä tarkoita, että vakio on suoritettu ja yhtään lintua ei ole havaittu.
+(13) [Additional] Aseman ydinalueen ulkopuolella (ns. lisäalue, joka sisältää mm. Gåsörsuddenin) havaittujen yksilöiden lukumääriä kyyhkyjen, käkien, pöllöjen, kehrääjien, kirskujien, säihkylintujen, tikkojen ja varpuslintujen osalta. Mikäli lajia ei ole havaittu ydinalueella (ks. kohta 9 [Local]), mutta laji on havaittu lisäalueella, lukumäärä on kirjattu. Lukumäärä on voitu kirjata lisäalueelta myös tilanteessa, jossa laji on havaittu ydinalueella, mutta lisäalueen havaintomäärä on huomattavan suuri (esimerkiksi muuton huippu tai yleisesti harvalukuinen laji). Tämän sarakkeen tiedot ovat luonteeltaan satunnaishavaintoja, joiden käyttöä ei suositella analyyseissä ilman tarkkaa harkintaa.
+(14) [Observed] Etenkin aseman alkuaikoina joidenkin lajien paikallislukumäärää ei välttämättä ole kirjattu, vaikka laji on havaittu kyseisenä päivänä (ns. + merkintä). Mikäli laji on havaittu paikallisena, mutta lukumäärää ei ole laskettu, saa tämä sarake arvon TRUE. Mikäli lajin paikallisten lukumäärä on puolestaan kirjattu (vaikka se olisi 0) saa sarake arvon FALSE.
+(15) [Night_migr] Satunnaisia yömuuttavien lajien havaintomääriä. Olennainen etenkin kaulushaikaralle, jolla valtaosa havainnoista on öiseen aikaan muuttavia yksilöitä.
+
+Tyypillisiä esimerkkejä julkaisuja, joissa aineistoa on käytetty tieteellisessä tarkoituksessa (aseman julkaisuluettelo: http://www.tringa.fi/hangon-lintuasema/julkaisut/):
+
+Lehikoinen, A. 2011: Advanced autumn migration of sparrowhawk has increased the predation risk of long-distance migrants in Finland. — PLoS ONE 6(5): e20001.
+Lehikoinen, A. & Jaatinen, K. 2012: Delayed autumn migration in Northern European waterfowl. — Journal of Ornithology 153: 563–570.
+Lehikoinen, A. & Vähätalo, A. 2000: Lintujen muuton ajoittuminen Hangon lintuasemalla vuosina 1979–1999. — Tringa 27: 150–227.
+Lindén, A., Meller, K., Knape, J. 2017: An empirical comparison of models for the phenology of bird migration. — Journal of Avian Biology 48: 255–265.
+Lindén, A., Lehikoinen, A., Hokkanen, T., Väisänen, R. A. 2011: Modelling irruptions and population dynamics of the great spotted woodpecker – joint effects of density and cone crops. — Oikos 120: 1065–1075.
+Vähätalo, A. V., Rainio, K., Lehikoinen, A. & Lehikoinen, E. 2004: Spring arrival of birds depends on the North Atlantic Oscillation. — Journal of Avian Biology 35: 210–216.
+
