@@ -34,6 +34,7 @@ foreach ($taxa as $abbr => $data) {
     echo $data['names'][1] . ",";
     echo $data['names'][2] . ",";
     echo $data['names'][3] . ",";
+    echo $data['names'][5] . ",";
     echo $data['count'];
     echo "\n";
 }
@@ -49,7 +50,7 @@ function returnNamesAsArray($line) {
     $arr = explode(",", $line);
 
     // Remove non-taxon cells
-    for ($i = 5; $i <= 14; $i++) {
+    for ($i = 6; $i <= 14; $i++) {
         unset($arr[$i]);
     }
     return $arr;
