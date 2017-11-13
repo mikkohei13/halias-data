@@ -31,7 +31,7 @@ if ($handle) {
             mkdir($dir, 0777, true);
         }
 
-        file_put_contents(($dir."/".$dateYMD.".json"), $line, FILE_APPEND);
+        file_put_contents(($dir."/".$dateYMD.".csv"), $line, FILE_APPEND);
         
         $count++;
     }
@@ -41,3 +41,16 @@ if ($handle) {
     echo "Error opening the file";
 }
 
+/*
+        elseif ("json" == $format) {
+            $lineParts = explode(",", $line);
+            $arr[$lineParts[4]]['date_dmy'] = $lineParts[6];
+            $arr[$lineParts[4]]['Local'] = $lineParts[9];
+            $arr[$lineParts[4]]['Migr'] = $lineParts[10];
+            $arr[$lineParts[4]]['Stand'] = $lineParts[11];
+            $arr[$lineParts[4]]['Additional'] = $lineParts[12];
+            $arr[$lineParts[4]]['Observed'] = $lineParts[13];
+            $arr[$lineParts[4]]['Night_migr'] = $lineParts[14];
+        }
+
+*/
